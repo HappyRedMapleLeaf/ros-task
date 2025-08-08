@@ -4,8 +4,8 @@
     <version>1.0.0</version>
     <description>For testing out control algorithms on the limo bot</description>
 
-    <maintainer email="praneeth.pep@gmail.com">KVK Praneeth</maintainer>
-    <license>MIT?</license>
+    <maintainer email="ez3li@uwaterloo.ca">Evan Li</maintainer>
+    <license>MIT</license>
 
     <buildtool_depend>ament_cmake</buildtool_depend>
     <buildtool_depend>ament_cmake_python</buildtool_depend>

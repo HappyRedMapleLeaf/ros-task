@@ -30,10 +30,12 @@ RUN echo "source /opt/ros/$ROS_DISTRO/setup.bash" >> /root/.bashrc
 
 ENV WORKSPACE_PATH=/root/workspace
 
-COPY workspace/ $WORKSPACE_PATH/src/
+COPY workspace/limo_control/package.xml $WORKSPACE_PATH/src/limo_control/package.xml
+COPY workspace/limo_simulation/package.xml $WORKSPACE_PATH/src/limo_simulation/package.xml
 
-RUN rosdep update && cd $WORKSPACE_PATH && \
-    rosdep install --from-paths src -y --ignore-src
+RUN rosdep update && cd $WORKSPACE_PATH && rosdep install --from-paths src -y --ignore-src
+
+COPY workspace/ $WORKSPACE_PATH/src/
 
 COPY scripts/setup/ /root/scripts/setup
 RUN /root/scripts/setup/workspace.sh

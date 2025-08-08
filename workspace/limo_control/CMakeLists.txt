@@ -10,4 +10,13 @@ find_package(rclcpp REQUIRED)
 find_package(geometry_msgs REQUIRED)
 find_package(nav_msgs REQUIRED)
 
+add_executable(controller src/controller.cpp src/util.cpp)
+ament_target_dependencies(controller rclcpp geometry_msgs nav_msgs)
+
+target_include_directories(controller PRIVATE inc)
+
+install(TARGETS
+    controller
+    DESTINATION lib/${PROJECT_NAME})
+
 ament_package()

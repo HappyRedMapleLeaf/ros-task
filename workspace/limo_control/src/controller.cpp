@@ -1,63 +1,48 @@
-#include <chrono>
-#include <memory>
+#include "controller.hpp"
 
-#include "rclcpp/rclcpp.hpp"
-#include "geometry_msgs/geometry_msgs/msg/twist.hpp"
-#include "nav_msgs/nav_msgs/msg/odometry.hpp"
-#include "geometry_msgs/geometry_msgs/msg/pose.hpp"
+RobotController::RobotController() : Node("demo_robot_controller") {
+    this->cmd_vel_publisher_ = this->create_publisher<geometry_msgs::msg::Twist>("cmd_vel", 10);
 
-using namespace std::chrono_literals;
+    this->odom_subscription_ = this->create_subscription<nav_msgs::msg::Odometry>(
+        "odom",DEFAULT_MSG_BUF_SIZE,
+        [this](const nav_msgs::msg::Odometry::SharedPtr msg) { this->odom_rx_callback(msg); }
+    );
 
-#define DEFAULT_MSG_BUF_SIZE    10
-#define LOOP_PERIOD             100ms
+    this->target_subscription_ = this->create_subscription<geometry_msgs::msg::Pose>(
+        "target", DEFAULT_MSG_BUF_SIZE,
+        [this](const geometry_msgs::msg::Pose::SharedPtr msg) { this->target_rx_callback(msg); }
+    );
 
-class RobotController : public rclcpp::Node {
-    public:
-        RobotController() : 
-        Node("demo_robot_controller") {
-            this->cmd_vel_publisher_ = this->create_publisher<std_msgs::msg::String>("cmd_vel", 10);
+    this->main_timer_ = this->create_wall_timer(
+        LOOP_PERIOD, std::bind(&RobotController::main_timer_callback, this)
+    );
 
-            this->main_timer_ = this->create_wall_timer(
-                LOOP_PERIOD, std::bind(&RobotController::main_timer_callback, this)
-            );
+    this->prev_loop_time_ = this->now();
+}
 
-            this->odom_subscription_ = this->create_subscription<navmsgs::msg::Odometry>(
-                "odom", DEFAULT_MSG_BUF_SIZE, std::bind(&RobotController::odom_rx_callback, this)
-            );
+void RobotController::main_timer_callback() {
+    rclcpp::Duration elapsed_time = this->now() - this->prev_loop_time_;
 
-            this->target_subscription_ = this->create_subscription<geometrymsgs::msg::Pose>(
-                "target", DEFAULT_MSG_BUF_SIZE, std::bind(&RobotController::target_rx_callback, this)
-            );
+    // do p controller and publish to cmd_vel
+    geometry_msgs::msg::Twist test_msg;
+    test_msg.linear.x = 0.1; // relative to the robot's orientation
+    test_msg.angular.z = 0.1; // CCW from top view
+    // the other directions don't do anything.
+    
+    this->cmd_vel_publisher_->publish(test_msg);
 
-            this->prev_loop_time_ = this->now();
-        }
+    RCLCPP_INFO(this->get_logger(), "adsasdasds");
 
-    private:
-        void main_timer_callback() {
-            rclcpp::Time elapsed_time = this->now() - prev_loop_time_;
+    this->prev_loop_time_ = this->now();
+}
 
-            // do p controller and publish to cmd_vel
+void RobotController::odom_rx_callback(const nav_msgs::msg::Odometry::SharedPtr msg) {
+    // update current pose
+}
 
-            prev_loop_time_ = this->now();
-        }
-
-        void odom_rx_callback() {
-            // update current pose
-        }
-
-        void target_rx_callback() {
-            // update target pose
-        }
-
-        rclcpp::Publisher<geometrymsgs::msg::Twist>::SharedPtr      cmd_vel_publisher_;
-        rclcpp::Subscription<navmsgs::msg::Odometry>::SharedPtr     odom_subscription_;
-        rclcpp::Subscription<geometrymsgs::msg::Pose>::SharedPtr    target_subscription_;
-
-        rclcpp::TimerBase::SharedPtr    main_timer_;
-        rclcpp::Time                    prev_loop_time_;
-
-        // data for curent and target pose. use own types instead of message structs
-  };
+void RobotController::target_rx_callback(const geometry_msgs::msg::Pose::SharedPtr msg) {
+    // update target pose
+}
 
 int main(int argc, char * argv[]) {
     rclcpp::init(argc, argv);
