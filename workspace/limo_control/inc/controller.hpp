@@ -1,7 +1,6 @@
 #ifndef CONTROLLER_HPP
 #define CONTROLLER_HPP
 
-#include <chrono>
 #include <memory>
 
 #include "rclcpp/rclcpp.hpp"
@@ -10,11 +9,6 @@
 #include "geometry_msgs/msg/pose2_d.hpp"
 
 #include "util.hpp"
-
-using namespace std::chrono_literals;
-
-#define DEFAULT_MSG_BUF_SIZE    10
-#define LOOP_PERIOD             100ms
 
 class RobotController : public rclcpp::Node {
     public:
@@ -35,6 +29,10 @@ class RobotController : public rclcpp::Node {
         // data for current and target pose. use own types instead of message structs
         ros_task::Pose2D current_pose_;
         ros_task::Pose2D target_pose_;
+
+        // controllers. could have fancy controller class with multiple inputs but just one variable for now
+        ros_task::P_Controller linear_velocity_controller_;
+        ros_task::P_Controller angular_velocity_controller_;
 };
 
 int main(int argc, char * argv[]);

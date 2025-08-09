@@ -21,10 +21,14 @@ Please read through [this](https://www.overleaf.com/read/dmgrrcmpkbkq#211e69) do
 ./scripts/deploy/devel.sh # To enter the docker container
 ros2 launch limo_simulation limo.launch.py # To launch the simulator
 docker exec -it limo_bot /bin/bash # To enter the container after starting
+
+cd /root/workspace
+colcon build
+ros2 run limo_control controller
 ```
 
 ### Update target
-ros2 topic pub /target geometry_msgs/msg/Pose2D "{x: 1.0, y: 0.0, theta: 0.0}"
+`ros2 topic pub /target geometry_msgs/msg/Pose2D "{x: 1.0, y: 0.0, theta: 0.0}"` --once
 
 ### What do I edit?
 

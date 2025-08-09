@@ -57,10 +57,10 @@ def generate_launch_description():
             "-topic", "/robot_description",
             "-name", "limobot",
             "-allow_renaming", "true",
-            "-z", "0.3",
+            "-z", "0.0",
             "-x", "0.0",
             "-y", "0.0",
-            "-Y", "0.3"
+            "-Y", "0.0"
         ]
     )
 
