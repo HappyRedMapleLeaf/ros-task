@@ -7,7 +7,7 @@
 #include "rclcpp/rclcpp.hpp"
 #include "geometry_msgs/msg/twist.hpp"
 #include "nav_msgs/msg/odometry.hpp"
-#include "geometry_msgs/msg/pose.hpp"
+#include "geometry_msgs/msg/pose2_d.hpp"
 
 #include "util.hpp"
 
@@ -23,18 +23,18 @@ class RobotController : public rclcpp::Node {
     private:
         void main_timer_callback();
         void odom_rx_callback(const nav_msgs::msg::Odometry::SharedPtr msg);
-        void target_rx_callback(const geometry_msgs::msg::Pose::SharedPtr msg);
+        void target_rx_callback(const geometry_msgs::msg::Pose2D::SharedPtr msg);
 
-        rclcpp::Publisher<geometry_msgs::msg::Twist>::SharedPtr      cmd_vel_publisher_;
-        rclcpp::Subscription<nav_msgs::msg::Odometry>::SharedPtr     odom_subscription_;
-        rclcpp::Subscription<geometry_msgs::msg::Pose>::SharedPtr    target_subscription_;
+        rclcpp::Publisher<geometry_msgs::msg::Twist>::SharedPtr     cmd_vel_publisher_;
+        rclcpp::Subscription<nav_msgs::msg::Odometry>::SharedPtr    odom_subscription_;
+        rclcpp::Subscription<geometry_msgs::msg::Pose2D>::SharedPtr target_subscription_;
 
-        rclcpp::TimerBase::SharedPtr    main_timer_;
-        rclcpp::Time                    prev_loop_time_;
+        rclcpp::TimerBase::SharedPtr main_timer_;
+        rclcpp::Time                 prev_loop_time_;
 
         // data for current and target pose. use own types instead of message structs
-        ros_task::Pose current_pose_;
-        ros_task::Pose target_pose_;
+        ros_task::Pose2D current_pose_;
+        ros_task::Pose2D target_pose_;
 };
 
 int main(int argc, char * argv[]);

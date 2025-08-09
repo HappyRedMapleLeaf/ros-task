@@ -23,6 +23,9 @@ ros2 launch limo_simulation limo.launch.py # To launch the simulator
 docker exec -it limo_bot /bin/bash # To enter the container after starting
 ```
 
+### Update target
+ros2 topic pub /target geometry_msgs/msg/Pose2D "{x: 1.0, y: 0.0, theta: 0.0}"
+
 ### What do I edit?
 
 1. Modify the package `limo_control` in the workspace directory for adding your c++ controller program.

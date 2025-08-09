@@ -5,7 +5,7 @@
 
 namespace ros_task {
 
-struct Pose {
+struct Pose2D {
     double x;
     double y;
     double theta;
