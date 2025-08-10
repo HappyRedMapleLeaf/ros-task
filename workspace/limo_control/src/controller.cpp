@@ -47,8 +47,8 @@ RobotController::RobotController() : Node("demo_robot_controller") {
     );
 
     // initialize controllers with tuned values and appropriate limits
-    this->linear_velocity_controller_ = ros_task::P_Controller(3.0, 0.4);
-    this->angular_velocity_controller_ = ros_task::P_Controller(6.0, 0.5);
+    this->linear_velocity_controller_ = ros_task::P_Controller(2.5, 0.6);
+    this->angular_velocity_controller_ = ros_task::P_Controller(5.0, 0.5);
 
     this->prev_loop_time_ = this->now();
 }
