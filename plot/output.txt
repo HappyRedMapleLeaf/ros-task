@@ -1,0 +1,1716 @@
+limo_bot
+limo_bot
+non-network local connections being removed from access control list
+non-network local connections being added to access control list
+Running controller...
+Starting >>> limo_control
+]0;colcon build [0/2 done] [1 ongoing]Starting >>> limo_simulation
+]0;colcon build [0/2 done] [2 ongoing]Finished <<< limo_simulation [0.41s]
+]0;colcon build [1/2 done] [1 ongoing]Finished <<< limo_control [12.5s]
+]0;colcon build [2/2 done] [0 ongoing]
+Summary: 2 packages finished [12.7s]
+Launching sim in background...
+Pausing before updating target pose...
+nohup: appending output to 'nohup.out'
+[0m[INFO] [1754804301.577785260] [demo_robot_controller]: Odom: X: 0.00, Y: 0.00, Theta: 0.00[0m
+[0m[INFO] [1754804301.577950234] [demo_robot_controller]: Reached target[0m
+[0m[INFO] [1754804301.777782095] [demo_robot_controller]: Odom: X: 0.00, Y: 0.00, Theta: 0.00[0m
+[0m[INFO] [1754804301.777842781] [demo_robot_controller]: Reached target[0m
+[0m[INFO] [1754804301.977790422] [demo_robot_controller]: Odom: X: 0.00, Y: 0.00, Theta: 0.00[0m
+[0m[INFO] [1754804301.977867799] [demo_robot_controller]: Reached target[0m
+[0m[INFO] [1754804302.177793588] [demo_robot_controller]: Odom: X: 0.00, Y: 0.00, Theta: 0.00[0m
+[0m[INFO] [1754804302.177889721] [demo_robot_controller]: Reached target[0m
+[0m[INFO] [1754804302.377792135] [demo_robot_controller]: Odom: X: 0.00, Y: 0.00, Theta: 0.00[0m
+[0m[INFO] [1754804302.377855145] [demo_robot_controller]: Reached target[0m
+[0m[INFO] [1754804302.577799410] [demo_robot_controller]: Odom: X: 0.00, Y: 0.00, Theta: 0.00[0m
+[0m[INFO] [1754804302.577870244] [demo_robot_controller]: Reached target[0m
+[0m[INFO] [1754804302.777803638] [demo_robot_controller]: Odom: X: 0.00, Y: 0.00, Theta: 0.00[0m
+[0m[INFO] [1754804302.777866728] [demo_robot_controller]: Reached target[0m
+[0m[INFO] [1754804302.977814018] [demo_robot_controller]: Odom: X: 0.00, Y: 0.00, Theta: 0.00[0m
+[0m[INFO] [1754804302.977892738] [demo_robot_controller]: Reached target[0m
+[0m[INFO] [1754804303.177825680] [demo_robot_controller]: Odom: X: 0.00, Y: 0.00, Theta: 0.00[0m
+[0m[INFO] [1754804303.177907044] [demo_robot_controller]: Reached target[0m
+[0m[INFO] [1754804303.377828885] [demo_robot_controller]: Odom: X: 0.00, Y: 0.00, Theta: 0.00[0m
+[0m[INFO] [1754804303.377906543] [demo_robot_controller]: Reached target[0m
+[0m[INFO] [1754804303.577829035] [demo_robot_controller]: Odom: X: 0.00, Y: 0.00, Theta: 0.00[0m
+[0m[INFO] [1754804303.577901934] [demo_robot_controller]: Reached target[0m
+[0m[INFO] [1754804303.777839475] [demo_robot_controller]: Odom: X: 0.00, Y: 0.00, Theta: 0.00[0m
+[0m[INFO] [1754804303.777990302] [demo_robot_controller]: Reached target[0m
+[0m[INFO] [1754804303.977847750] [demo_robot_controller]: Odom: X: 0.00, Y: 0.00, Theta: 0.00[0m
+[0m[INFO] [1754804303.977931600] [demo_robot_controller]: Reached target[0m
+[0m[INFO] [1754804304.018767300] [demo_robot_controller]: PLOTDATA, 0.00, 0.00, 0.00[0m
+[0m[INFO] [1754804304.054195538] [demo_robot_controller]: PLOTDATA, -0.00, -0.00, 0.00[0m
+[0m[INFO] [1754804304.089313655] [demo_robot_controller]: PLOTDATA, -0.00, -0.00, 0.00[0m
+[0m[INFO] [1754804304.124480325] [demo_robot_controller]: PLOTDATA, -0.00, -0.00, 0.00[0m
+[0m[INFO] [1754804304.159541002] [demo_robot_controller]: PLOTDATA, -0.00, -0.00, 0.00[0m
+[0m[INFO] [1754804304.177851076] [demo_robot_controller]: Odom: X: -0.00, Y: -0.00, Theta: 0.00[0m
+[0m[INFO] [1754804304.177920628] [demo_robot_controller]: Reached target[0m
+[0m[INFO] [1754804304.194458638] [demo_robot_controller]: PLOTDATA, -0.00, -0.00, 0.00[0m
+[0m[INFO] [1754804304.229119325] [demo_robot_controller]: PLOTDATA, -0.00, -0.00, 0.00[0m
+[0m[INFO] [1754804304.263861887] [demo_robot_controller]: PLOTDATA, -0.00, -0.00, 0.00[0m
+[0m[INFO] [1754804304.298241338] [demo_robot_controller]: PLOTDATA, -0.00, -0.00, 0.00[0m
+[0m[INFO] [1754804304.332520388] [demo_robot_controller]: PLOTDATA, -0.00, -0.00, 0.00[0m
+[0m[INFO] [1754804304.367131240] [demo_robot_controller]: PLOTDATA, -0.00, -0.00, 0.00[0m
+[0m[INFO] [1754804304.377847247] [demo_robot_controller]: Odom: X: -0.00, Y: -0.00, Theta: 0.00[0m
+[0m[INFO] [1754804304.377941878] [demo_robot_controller]: Reached target[0m
+[0m[INFO] [1754804304.401895203] [demo_robot_controller]: PLOTDATA, -0.00, -0.00, 0.00[0m
+[0m[INFO] [1754804304.436823619] [demo_robot_controller]: PLOTDATA, -0.00, -0.00, 0.00[0m
+[0m[INFO] [1754804304.471192209] [demo_robot_controller]: PLOTDATA, -0.00, -0.00, 0.00[0m
+[0m[INFO] [1754804304.505942997] [demo_robot_controller]: PLOTDATA, -0.00, -0.00, 0.00[0m
+[0m[INFO] [1754804304.540557716] [demo_robot_controller]: PLOTDATA, -0.00, -0.00, 0.00[0m
+[0m[INFO] [1754804304.575109195] [demo_robot_controller]: PLOTDATA, 0.00, 0.00, 0.00[0m
+[0m[INFO] [1754804304.577856334] [demo_robot_controller]: Odom: X: 0.00, Y: 0.00, Theta: 0.00[0m
+[0m[INFO] [1754804304.577919063] [demo_robot_controller]: Reached target[0m
+[0m[INFO] [1754804304.609935526] [demo_robot_controller]: PLOTDATA, 0.00, 0.00, 0.00[0m
+[0m[INFO] [1754804304.644072566] [demo_robot_controller]: PLOTDATA, 0.00, 0.00, 0.00[0m
+[0m[INFO] [1754804304.678786514] [demo_robot_controller]: PLOTDATA, 0.00, 0.00, 0.00[0m
+[0m[INFO] [1754804304.713014867] [demo_robot_controller]: PLOTDATA, 0.00, 0.00, 0.00[0m
+[0m[INFO] [1754804304.747778831] [demo_robot_controller]: PLOTDATA, 0.00, 0.00, 0.00[0m
+[0m[INFO] [1754804304.777862915] [demo_robot_controller]: Odom: X: 0.00, Y: 0.00, Theta: 0.00[0m
+[0m[INFO] [1754804304.777943439] [demo_robot_controller]: Reached target[0m
+[0m[INFO] [1754804304.782459705] [demo_robot_controller]: PLOTDATA, 0.00, 0.00, 0.00[0m
+[0m[INFO] [1754804304.816876748] [demo_robot_controller]: PLOTDATA, 0.00, 0.00, 0.00[0m
+[0m[INFO] [1754804304.850974222] [demo_robot_controller]: PLOTDATA, 0.00, 0.00, -0.00[0m
+[0m[INFO] [1754804304.885013726] [demo_robot_controller]: PLOTDATA, 0.00, 0.00, -0.00[0m
+[0m[INFO] [1754804304.919499580] [demo_robot_controller]: PLOTDATA, 0.00, 0.00, -0.00[0m
+[0m[INFO] [1754804304.954103008] [demo_robot_controller]: PLOTDATA, 0.00, 0.00, -0.00[0m
+[0m[INFO] [1754804304.977863175] [demo_robot_controller]: Odom: X: 0.00, Y: 0.00, Theta: -0.00[0m
+[0m[INFO] [1754804304.977925444] [demo_robot_controller]: Reached target[0m
+[0m[INFO] [1754804304.988703419] [demo_robot_controller]: PLOTDATA, 0.00, 0.00, -0.00[0m
+[0m[INFO] [1754804305.023051921] [demo_robot_controller]: PLOTDATA, 0.00, 0.00, -0.00[0m
+[0m[INFO] [1754804305.057239527] [demo_robot_controller]: PLOTDATA, 0.00, 0.00, -0.00[0m
+[0m[INFO] [1754804305.091877470] [demo_robot_controller]: PLOTDATA, 0.00, 0.00, -0.00[0m
+[0m[INFO] [1754804305.126258635] [demo_robot_controller]: PLOTDATA, 0.00, 0.00, -0.00[0m
+[0m[INFO] [1754804305.160883864] [demo_robot_controller]: PLOTDATA, 0.00, 0.00, -0.00[0m
+[0m[INFO] [1754804305.177881849] [demo_robot_controller]: Odom: X: 0.00, Y: 0.00, Theta: -0.00[0m
+[0m[INFO] [1754804305.177962262] [demo_robot_controller]: Reached target[0m
+[0m[INFO] [1754804305.195013890] [demo_robot_controller]: PLOTDATA, 0.00, -0.00, -0.00[0m
+[0m[INFO] [1754804305.229788583] [demo_robot_controller]: PLOTDATA, 0.00, -0.00, -0.00[0m
+[0m[INFO] [1754804305.264021435] [demo_robot_controller]: PLOTDATA, 0.00, -0.00, -0.00[0m
+[0m[INFO] [1754804305.298208049] [demo_robot_controller]: PLOTDATA, 0.00, -0.00, -0.00[0m
+[0m[INFO] [1754804305.332719301] [demo_robot_controller]: PLOTDATA, 0.00, -0.00, -0.00[0m
+[0m[INFO] [1754804305.366921705] [demo_robot_controller]: PLOTDATA, 0.00, -0.00, -0.00[0m
+[0m[INFO] [1754804305.377877008] [demo_robot_controller]: Odom: X: 0.00, Y: -0.00, Theta: -0.00[0m
+[0m[INFO] [1754804305.377948204] [demo_robot_controller]: Reached target[0m
+[0m[INFO] [1754804305.401056661] [demo_robot_controller]: PLOTDATA, 0.00, -0.00, -0.00[0m
+[0m[INFO] [1754804305.435781018] [demo_robot_controller]: PLOTDATA, 0.00, -0.00, -0.00[0m
+[0m[INFO] [1754804305.470379176] [demo_robot_controller]: PLOTDATA, 0.00, -0.00, -0.00[0m
+[0m[INFO] [1754804305.505009284] [demo_robot_controller]: PLOTDATA, 0.00, -0.00, -0.00[0m
+[0m[INFO] [1754804305.538980227] [demo_robot_controller]: PLOTDATA, 0.00, -0.00, -0.00[0m
+[0m[INFO] [1754804305.573664869] [demo_robot_controller]: PLOTDATA, 0.00, -0.00, -0.00[0m
+[0m[INFO] [1754804305.577867389] [demo_robot_controller]: Odom: X: 0.00, Y: -0.00, Theta: -0.00[0m
+[0m[INFO] [1754804305.577915049] [demo_robot_controller]: Reached target[0m
+[0m[INFO] [1754804305.607967885] [demo_robot_controller]: PLOTDATA, 0.00, -0.00, -0.00[0m
+[0m[INFO] [1754804305.642220224] [demo_robot_controller]: PLOTDATA, 0.00, -0.00, -0.00[0m
+[0m[INFO] [1754804305.676940764] [demo_robot_controller]: PLOTDATA, 0.00, -0.00, -0.00[0m
+[0m[INFO] [1754804305.711207130] [demo_robot_controller]: PLOTDATA, 0.00, -0.00, -0.00[0m
+[0m[INFO] [1754804305.745987794] [demo_robot_controller]: PLOTDATA, 0.00, -0.00, -0.00[0m
+[0m[INFO] [1754804305.777886453] [demo_robot_controller]: Odom: X: 0.00, Y: -0.00, Theta: -0.00[0m
+[0m[INFO] [1754804305.777949634] [demo_robot_controller]: Reached target[0m
+[0m[INFO] [1754804305.780562627] [demo_robot_controller]: PLOTDATA, 0.00, -0.00, -0.00[0m
+[0m[INFO] [1754804305.815173559] [demo_robot_controller]: PLOTDATA, 0.00, -0.00, -0.00[0m
+[0m[INFO] [1754804305.849314686] [demo_robot_controller]: PLOTDATA, 0.00, -0.00, -0.00[0m
+[0m[INFO] [1754804305.884122142] [demo_robot_controller]: PLOTDATA, 0.00, -0.00, -0.00[0m
+[0m[INFO] [1754804305.918347209] [demo_robot_controller]: PLOTDATA, 0.00, -0.00, -0.00[0m
+[0m[INFO] [1754804305.953011372] [demo_robot_controller]: PLOTDATA, 0.00, -0.00, -0.00[0m
+[0m[INFO] [1754804305.977900198] [demo_robot_controller]: Odom: X: 0.00, Y: -0.00, Theta: -0.00[0m
+[0m[INFO] [1754804305.977979479] [demo_robot_controller]: Reached target[0m
+[0m[INFO] [1754804305.987279311] [demo_robot_controller]: PLOTDATA, 0.00, -0.00, -0.00[0m
+[0m[INFO] [1754804306.021852351] [demo_robot_controller]: PLOTDATA, 0.00, -0.00, -0.00[0m
+[0m[INFO] [1754804306.056062900] [demo_robot_controller]: PLOTDATA, 0.00, -0.00, -0.00[0m
+[0m[INFO] [1754804306.090624618] [demo_robot_controller]: PLOTDATA, 0.00, -0.00, -0.00[0m
+[0m[INFO] [1754804306.124958612] [demo_robot_controller]: PLOTDATA, 0.00, -0.00, -0.00[0m
+[0m[INFO] [1754804306.159341900] [demo_robot_controller]: PLOTDATA, 0.00, -0.00, -0.00[0m
+[0m[INFO] [1754804306.177906308] [demo_robot_controller]: Odom: X: 0.00, Y: -0.00, Theta: -0.00[0m
+[0m[INFO] [1754804306.177983905] [demo_robot_controller]: Reached target[0m
+[0m[INFO] [1754804306.193943695] [demo_robot_controller]: PLOTDATA, 0.00, -0.00, -0.00[0m
+Sending target update...
+[0m[INFO] [1754804306.228729980] [demo_robot_controller]: PLOTDATA, 0.00, -0.00, -0.00[0m
+[0m[INFO] [1754804306.263144428] [demo_robot_controller]: PLOTDATA, 0.00, -0.00, -0.00[0m
+[0m[INFO] [1754804306.297244677] [demo_robot_controller]: PLOTDATA, 0.00, -0.00, -0.00[0m
+[0m[INFO] [1754804306.332032305] [demo_robot_controller]: PLOTDATA, 0.00, -0.00, -0.00[0m
+[0m[INFO] [1754804306.366435902] [demo_robot_controller]: PLOTDATA, 0.00, -0.00, -0.00[0m
+[0m[INFO] [1754804306.377949859] [demo_robot_controller]: Odom: X: 0.00, Y: -0.00, Theta: -0.00[0m
+[0m[INFO] [1754804306.378206006] [demo_robot_controller]: Reached target[0m
+[0m[INFO] [1754804306.403028636] [demo_robot_controller]: PLOTDATA, 0.00, -0.00, -0.00[0m
+[0m[INFO] [1754804306.438726065] [demo_robot_controller]: PLOTDATA, 0.00, -0.00, -0.00[0m
+[0m[INFO] [1754804306.473342578] [demo_robot_controller]: PLOTDATA, 0.00, -0.00, -0.00[0m
+[0m[INFO] [1754804306.507947017] [demo_robot_controller]: PLOTDATA, 0.00, -0.00, -0.00[0m
+[0m[INFO] [1754804306.541900827] [demo_robot_controller]: PLOTDATA, 0.00, -0.00, -0.00[0m
+[0m[INFO] [1754804306.576450262] [demo_robot_controller]: PLOTDATA, 0.00, -0.00, -0.00[0m
+[0m[INFO] [1754804306.577893269] [demo_robot_controller]: Odom: X: 0.00, Y: -0.00, Theta: -0.00[0m
+[0m[INFO] [1754804306.577923837] [demo_robot_controller]: Reached target[0m
+[0m[INFO] [1754804306.610734582] [demo_robot_controller]: PLOTDATA, 0.00, -0.00, -0.00[0m
+[0m[INFO] [1754804306.645384918] [demo_robot_controller]: PLOTDATA, 0.00, -0.00, -0.00[0m
+[0m[INFO] [1754804306.679994287] [demo_robot_controller]: PLOTDATA, 0.00, -0.00, -0.00[0m
+[0m[INFO] [1754804306.714059650] [demo_robot_controller]: PLOTDATA, 0.00, -0.00, -0.00[0m
+[0m[INFO] [1754804306.748314654] [demo_robot_controller]: PLOTDATA, 0.00, -0.00, -0.00[0m
+[0m[INFO] [1754804306.777914136] [demo_robot_controller]: Odom: X: 0.00, Y: -0.00, Theta: -0.00[0m
+[0m[INFO] [1754804306.777983448] [demo_robot_controller]: Reached target[0m
+[0m[INFO] [1754804306.781897529] [demo_robot_controller]: PLOTDATA, 0.00, -0.00, -0.00[0m
+[0m[INFO] [1754804306.817060210] [demo_robot_controller]: PLOTDATA, 0.00, -0.00, -0.00[0m
+[0m[INFO] [1754804306.851000746] [demo_robot_controller]: PLOTDATA, 0.00, -0.00, -0.00[0m
+[0m[INFO] [1754804306.884945630] [demo_robot_controller]: PLOTDATA, 0.00, -0.00, -0.00[0m
+[0m[INFO] [1754804306.919675918] [demo_robot_controller]: PLOTDATA, 0.00, -0.00, -0.00[0m
+[0m[INFO] [1754804306.954619122] [demo_robot_controller]: PLOTDATA, 0.00, -0.00, -0.00[0m
+[0m[INFO] [1754804306.977917731] [demo_robot_controller]: Odom: X: 0.00, Y: -0.00, Theta: -0.00[0m
+[0m[INFO] [1754804306.977974850] [demo_robot_controller]: Reached target[0m
+[0m[INFO] [1754804306.989081732] [demo_robot_controller]: PLOTDATA, 0.00, -0.00, -0.00[0m
+[0m[INFO] [1754804307.023699937] [demo_robot_controller]: PLOTDATA, 0.00, -0.00, -0.00[0m
+[0m[INFO] [1754804307.057950983] [demo_robot_controller]: PLOTDATA, 0.00, -0.00, -0.00[0m
+[0m[INFO] [1754804307.091989756] [demo_robot_controller]: PLOTDATA, 0.00, -0.00, -0.00[0m
+publisher: beginning loop
+publishing #1: geometry_msgs.msg.Pose2D(x=10.0, y=10.0, theta=1.571)
+
+[0m[INFO] [1754804307.126591500] [demo_robot_controller]: PLOTDATA, 0.00, -0.00, -0.00[0m
+[0m[INFO] [1754804307.160963266] [demo_robot_controller]: PLOTDATA, 0.00, -0.00, -0.00[0m
+[0m[INFO] [1754804307.177920344] [demo_robot_controller]: Odom: X: 0.00, Y: -0.00, Theta: -0.00[0m
+[0m[INFO] [1754804307.178018641] [demo_robot_controller]: Rotating to face target. Actual angle: -0.00, Target angle: 0.79, Angular Vel: 0.50[0m
+[0m[INFO] [1754804307.194931714] [demo_robot_controller]: PLOTDATA, -0.00, -0.00, 0.01[0m
+[0m[INFO] [1754804307.229521756] [demo_robot_controller]: PLOTDATA, 0.00, 0.00, 0.02[0m
+[0m[INFO] [1754804307.263996168] [demo_robot_controller]: PLOTDATA, 0.00, 0.00, 0.04[0m
+[0m[INFO] [1754804307.297955329] [demo_robot_controller]: PLOTDATA, 0.00, 0.00, 0.06[0m
+[0m[INFO] [1754804307.332755400] [demo_robot_controller]: PLOTDATA, 0.00, 0.00, 0.08[0m
+[0m[INFO] [1754804307.367259228] [demo_robot_controller]: PLOTDATA, 0.00, 0.00, 0.09[0m
+[0m[INFO] [1754804307.377934177] [demo_robot_controller]: Odom: X: 0.00, Y: 0.00, Theta: 0.09[0m
+[0m[INFO] [1754804307.378003710] [demo_robot_controller]: Rotating to face target. Actual angle: 0.09, Target angle: 0.79, Angular Vel: 0.50[0m
+[0m[INFO] [1754804307.400983672] [demo_robot_controller]: PLOTDATA, 0.00, 0.00, 0.11[0m
+[0m[INFO] [1754804307.435743246] [demo_robot_controller]: PLOTDATA, 0.00, 0.00, 0.13[0m
+[0m[INFO] [1754804307.470671832] [demo_robot_controller]: PLOTDATA, 0.00, 0.00, 0.14[0m
+[0m[INFO] [1754804307.505319664] [demo_robot_controller]: PLOTDATA, 0.00, 0.00, 0.16[0m
+[0m[INFO] [1754804307.540054832] [demo_robot_controller]: PLOTDATA, 0.00, 0.00, 0.18[0m
+[0m[INFO] [1754804307.574702513] [demo_robot_controller]: PLOTDATA, 0.00, 0.00, 0.19[0m
+[0m[INFO] [1754804307.577923404] [demo_robot_controller]: Odom: X: 0.00, Y: 0.00, Theta: 0.19[0m
+[0m[INFO] [1754804307.577971896] [demo_robot_controller]: Rotating to face target. Actual angle: 0.19, Target angle: 0.79, Angular Vel: 0.50[0m
+[0m[INFO] [1754804307.608959250] [demo_robot_controller]: PLOTDATA, 0.00, 0.00, 0.21[0m
+[0m[INFO] [1754804307.643398966] [demo_robot_controller]: PLOTDATA, 0.00, 0.00, 0.23[0m
+[0m[INFO] [1754804307.678075041] [demo_robot_controller]: PLOTDATA, 0.00, 0.00, 0.25[0m
+[0m[INFO] [1754804307.712893538] [demo_robot_controller]: PLOTDATA, 0.00, 0.00, 0.26[0m
+[0m[INFO] [1754804307.746991834] [demo_robot_controller]: PLOTDATA, 0.00, 0.00, 0.28[0m
+[0m[INFO] [1754804307.777948770] [demo_robot_controller]: Odom: X: 0.00, Y: 0.00, Theta: 0.28[0m
+[0m[INFO] [1754804307.778020116] [demo_robot_controller]: Rotating to face target. Actual angle: 0.28, Target angle: 0.79, Angular Vel: 0.50[0m
+[0m[INFO] [1754804307.781114496] [demo_robot_controller]: PLOTDATA, 0.00, 0.00, 0.30[0m
+[0m[INFO] [1754804307.815990331] [demo_robot_controller]: PLOTDATA, 0.00, 0.00, 0.31[0m
+[0m[INFO] [1754804307.850313966] [demo_robot_controller]: PLOTDATA, 0.00, 0.00, 0.33[0m
+[0m[INFO] [1754804307.884684349] [demo_robot_controller]: PLOTDATA, 0.00, 0.00, 0.35[0m
+[0m[INFO] [1754804307.919318986] [demo_robot_controller]: PLOTDATA, 0.00, 0.00, 0.37[0m
+[0m[INFO] [1754804307.953646548] [demo_robot_controller]: PLOTDATA, 0.00, 0.00, 0.38[0m
+[0m[INFO] [1754804307.977948617] [demo_robot_controller]: Odom: X: 0.00, Y: 0.00, Theta: 0.38[0m
+[0m[INFO] [1754804307.978008050] [demo_robot_controller]: Rotating to face target. Actual angle: 0.38, Target angle: 0.79, Angular Vel: 0.40[0m
+[0m[INFO] [1754804307.987953331] [demo_robot_controller]: PLOTDATA, 0.00, 0.00, 0.40[0m
+[0m[INFO] [1754804308.021985090] [demo_robot_controller]: PLOTDATA, 0.00, 0.00, 0.41[0m
+[0m[INFO] [1754804308.056286201] [demo_robot_controller]: PLOTDATA, 0.00, 0.00, 0.43[0m
+[0m[INFO] [1754804308.090802252] [demo_robot_controller]: PLOTDATA, 0.00, 0.00, 0.44[0m
+[0m[INFO] [1754804308.125237108] [demo_robot_controller]: PLOTDATA, 0.00, 0.00, 0.45[0m
+[0m[INFO] [1754804308.159876303] [demo_robot_controller]: PLOTDATA, 0.00, 0.00, 0.47[0m
+[0m[INFO] [1754804308.177936450] [demo_robot_controller]: Odom: X: 0.00, Y: 0.00, Theta: 0.47[0m
+[0m[INFO] [1754804308.177981346] [demo_robot_controller]: Rotating to face target. Actual angle: 0.47, Target angle: 0.79, Angular Vel: 0.32[0m
+[0m[INFO] [1754804308.194291562] [demo_robot_controller]: PLOTDATA, 0.00, 0.00, 0.48[0m
+[0m[INFO] [1754804308.228768148] [demo_robot_controller]: PLOTDATA, 0.00, 0.00, 0.49[0m
+[0m[INFO] [1754804308.263535006] [demo_robot_controller]: PLOTDATA, 0.00, 0.00, 0.50[0m
+[0m[INFO] [1754804308.298121671] [demo_robot_controller]: PLOTDATA, 0.00, 0.00, 0.51[0m
+[0m[INFO] [1754804308.332120958] [demo_robot_controller]: PLOTDATA, 0.00, 0.00, 0.52[0m
+[0m[INFO] [1754804308.366648621] [demo_robot_controller]: PLOTDATA, 0.00, 0.00, 0.53[0m
+[0m[INFO] [1754804308.377948791] [demo_robot_controller]: Odom: X: 0.00, Y: 0.00, Theta: 0.53[0m
+[0m[INFO] [1754804308.378010488] [demo_robot_controller]: Rotating to face target. Actual angle: 0.53, Target angle: 0.79, Angular Vel: 0.25[0m
+[0m[INFO] [1754804308.401041868] [demo_robot_controller]: PLOTDATA, 0.00, 0.00, 0.54[0m
+[0m[INFO] [1754804308.435569310] [demo_robot_controller]: PLOTDATA, 0.00, 0.00, 0.55[0m
+[0m[INFO] [1754804308.469904968] [demo_robot_controller]: PLOTDATA, 0.00, 0.00, 0.56[0m
+[0m[INFO] [1754804308.503941776] [demo_robot_controller]: PLOTDATA, 0.00, 0.00, 0.57[0m
+[0m[INFO] [1754804308.538004264] [demo_robot_controller]: PLOTDATA, 0.00, 0.00, 0.58[0m
+[0m[INFO] [1754804308.572512920] [demo_robot_controller]: PLOTDATA, 0.00, 0.00, 0.59[0m
+[0m[INFO] [1754804308.577953166] [demo_robot_controller]: Odom: X: 0.00, Y: 0.00, Theta: 0.59[0m
+[0m[INFO] [1754804308.577987361] [demo_robot_controller]: Rotating to face target. Actual angle: 0.59, Target angle: 0.79, Angular Vel: 0.20[0m
+[0m[INFO] [1754804308.606996930] [demo_robot_controller]: PLOTDATA, 0.00, 0.00, 0.59[0m
+[0m[INFO] [1754804308.640959537] [demo_robot_controller]: PLOTDATA, 0.00, 0.00, 0.60[0m
+[0m[INFO] [1754804308.675193561] [demo_robot_controller]: PLOTDATA, 0.00, 0.00, 0.61[0m
+[0m[INFO] [1754804308.709933017] [demo_robot_controller]: PLOTDATA, 0.00, 0.00, 0.61[0m
+[0m[INFO] [1754804308.743957322] [demo_robot_controller]: PLOTDATA, 0.00, 0.00, 0.62[0m
+[0m[INFO] [1754804308.777909399] [demo_robot_controller]: Odom: X: 0.00, Y: 0.00, Theta: 0.62[0m
+[0m[INFO] [1754804308.777962110] [demo_robot_controller]: Rotating to face target. Actual angle: 0.62, Target angle: 0.79, Angular Vel: 0.17[0m
+[0m[INFO] [1754804308.778021062] [demo_robot_controller]: PLOTDATA, 0.00, 0.00, 0.63[0m
+[0m[INFO] [1754804308.812706255] [demo_robot_controller]: PLOTDATA, 0.00, 0.00, 0.63[0m
+[0m[INFO] [1754804308.847079594] [demo_robot_controller]: PLOTDATA, 0.00, 0.00, 0.64[0m
+[0m[INFO] [1754804308.881900765] [demo_robot_controller]: PLOTDATA, 0.00, 0.00, 0.64[0m
+[0m[INFO] [1754804308.916045169] [demo_robot_controller]: PLOTDATA, 0.00, 0.00, 0.65[0m
+[0m[INFO] [1754804308.950437103] [demo_robot_controller]: PLOTDATA, 0.00, 0.00, 0.65[0m
+[0m[INFO] [1754804308.977976504] [demo_robot_controller]: Odom: X: 0.00, Y: 0.00, Theta: 0.65[0m
+[0m[INFO] [1754804308.978037430] [demo_robot_controller]: Rotating to face target. Actual angle: 0.65, Target angle: 0.79, Angular Vel: 0.13[0m
+[0m[INFO] [1754804308.985185937] [demo_robot_controller]: PLOTDATA, 0.00, 0.00, 0.66[0m
+[0m[INFO] [1754804309.019773484] [demo_robot_controller]: PLOTDATA, 0.00, 0.00, 0.66[0m
+[0m[INFO] [1754804309.053940710] [demo_robot_controller]: PLOTDATA, 0.00, 0.00, 0.67[0m
+[0m[INFO] [1754804309.088432655] [demo_robot_controller]: PLOTDATA, 0.00, 0.00, 0.67[0m
+[0m[INFO] [1754804309.122976609] [demo_robot_controller]: PLOTDATA, 0.00, 0.00, 0.68[0m
+[0m[INFO] [1754804309.156933465] [demo_robot_controller]: PLOTDATA, 0.00, 0.00, 0.68[0m
+[0m[INFO] [1754804309.177991749] [demo_robot_controller]: Odom: X: 0.00, Y: 0.00, Theta: 0.68[0m
+[0m[INFO] [1754804309.178057715] [demo_robot_controller]: Rotating to face target. Actual angle: 0.68, Target angle: 0.79, Angular Vel: 0.10[0m
+[0m[INFO] [1754804309.191511784] [demo_robot_controller]: PLOTDATA, 0.00, 0.00, 0.69[0m
+[0m[INFO] [1754804309.226013508] [demo_robot_controller]: PLOTDATA, 0.00, 0.00, 0.69[0m
+[0m[INFO] [1754804309.260167349] [demo_robot_controller]: PLOTDATA, 0.00, 0.00, 0.69[0m
+[0m[INFO] [1754804309.294823667] [demo_robot_controller]: PLOTDATA, 0.00, 0.00, 0.70[0m
+[0m[INFO] [1754804309.328945356] [demo_robot_controller]: PLOTDATA, 0.00, 0.00, 0.70[0m
+[0m[INFO] [1754804309.363648463] [demo_robot_controller]: PLOTDATA, 0.00, 0.00, 0.70[0m
+[0m[INFO] [1754804309.377979191] [demo_robot_controller]: Odom: X: 0.00, Y: 0.00, Theta: 0.70[0m
+[0m[INFO] [1754804309.378028776] [demo_robot_controller]: Rotating to face target. Actual angle: 0.70, Target angle: 0.79, Angular Vel: 0.08[0m
+[0m[INFO] [1754804309.398026521] [demo_robot_controller]: PLOTDATA, 0.00, 0.00, 0.71[0m
+[0m[INFO] [1754804309.432062999] [demo_robot_controller]: PLOTDATA, 0.00, 0.00, 0.71[0m
+[0m[INFO] [1754804309.465999857] [demo_robot_controller]: PLOTDATA, 0.00, 0.00, 0.71[0m
+[0m[INFO] [1754804309.500015976] [demo_robot_controller]: PLOTDATA, 0.00, 0.00, 0.72[0m
+[0m[INFO] [1754804309.534845494] [demo_robot_controller]: PLOTDATA, 0.00, 0.00, 0.72[0m
+[0m[INFO] [1754804309.569154149] [demo_robot_controller]: PLOTDATA, 0.00, 0.00, 0.72[0m
+[0m[INFO] [1754804309.577990680] [demo_robot_controller]: Odom: X: 0.00, Y: 0.00, Theta: 0.72[0m
+[0m[INFO] [1754804309.578046215] [demo_robot_controller]: Rotating to face target. Actual angle: 0.72, Target angle: 0.79, Angular Vel: 0.06[0m
+[0m[INFO] [1754804309.604041707] [demo_robot_controller]: PLOTDATA, 0.00, 0.00, 0.72[0m
+[0m[INFO] [1754804309.637997812] [demo_robot_controller]: PLOTDATA, 0.00, 0.00, 0.73[0m
+[0m[INFO] [1754804309.672546585] [demo_robot_controller]: PLOTDATA, 0.00, 0.00, 0.73[0m
+[0m[INFO] [1754804309.707090930] [demo_robot_controller]: PLOTDATA, 0.00, 0.00, 0.73[0m
+[0m[INFO] [1754804309.741760152] [demo_robot_controller]: PLOTDATA, 0.00, 0.00, 0.73[0m
+[0m[INFO] [1754804309.776046305] [demo_robot_controller]: PLOTDATA, 0.00, 0.00, 0.73[0m
+[0m[INFO] [1754804309.777984444] [demo_robot_controller]: Odom: X: 0.00, Y: 0.00, Theta: 0.73[0m
+[0m[INFO] [1754804309.778020633] [demo_robot_controller]: Rotating to face target. Actual angle: 0.73, Target angle: 0.79, Angular Vel: 0.05[0m
+[0m[INFO] [1754804309.809987762] [demo_robot_controller]: PLOTDATA, 0.00, 0.00, 0.74[0m
+[0m[INFO] [1754804309.844354598] [demo_robot_controller]: PLOTDATA, 0.00, 0.00, 0.74[0m
+[0m[INFO] [1754804309.879350362] [demo_robot_controller]: PLOTDATA, 0.00, 0.00, 0.74[0m
+[0m[INFO] [1754804309.914039682] [demo_robot_controller]: PLOTDATA, 0.00, 0.00, 0.74[0m
+[0m[INFO] [1754804309.948782184] [demo_robot_controller]: PLOTDATA, 0.00, 0.00, 0.74[0m
+[0m[INFO] [1754804309.978006202] [demo_robot_controller]: Odom: X: 0.00, Y: 0.00, Theta: 0.74[0m
+[0m[INFO] [1754804309.978070113] [demo_robot_controller]: Rotating to face target. Actual angle: 0.74, Target angle: 0.79, Angular Vel: 0.04[0m
+[0m[INFO] [1754804309.982963468] [demo_robot_controller]: PLOTDATA, 0.00, 0.00, 0.74[0m
+[0m[INFO] [1754804310.017122479] [demo_robot_controller]: PLOTDATA, 0.00, 0.00, 0.75[0m
+[0m[INFO] [1754804310.051170659] [demo_robot_controller]: PLOTDATA, 0.00, 0.00, 0.75[0m
+[0m[INFO] [1754804310.085773354] [demo_robot_controller]: PLOTDATA, 0.00, 0.00, 0.75[0m
+[0m[INFO] [1754804310.120385548] [demo_robot_controller]: PLOTDATA, 0.00, 0.00, 0.75[0m
+[0m[INFO] [1754804310.154997891] [demo_robot_controller]: PLOTDATA, 0.00, 0.00, 0.75[0m
+[0m[INFO] [1754804310.178008301] [demo_robot_controller]: Odom: X: 0.00, Y: 0.00, Theta: 0.75[0m
+[0m[INFO] [1754804310.178067173] [demo_robot_controller]: Rotating to face target. Actual angle: 0.75, Target angle: 0.79, Angular Vel: 0.03[0m
+[0m[INFO] [1754804310.188906716] [demo_robot_controller]: PLOTDATA, 0.00, 0.00, 0.75[0m
+[0m[INFO] [1754804310.223523018] [demo_robot_controller]: PLOTDATA, 0.00, 0.00, 0.75[0m
+[0m[INFO] [1754804310.257925833] [demo_robot_controller]: PLOTDATA, 0.00, 0.00, 0.76[0m
+[0m[INFO] [1754804310.292051270] [demo_robot_controller]: PLOTDATA, 0.00, 0.00, 0.76[0m
+[0m[INFO] [1754804310.326688170] [demo_robot_controller]: PLOTDATA, 0.00, 0.00, 0.76[0m
+[0m[INFO] [1754804310.360929147] [demo_robot_controller]: PLOTDATA, 0.00, 0.00, 0.76[0m
+[0m[INFO] [1754804310.378012836] [demo_robot_controller]: Odom: X: 0.00, Y: 0.00, Theta: 0.76[0m
+[0m[INFO] [1754804310.378072850] [demo_robot_controller]: Rotating to face target. Actual angle: 0.76, Target angle: 0.79, Angular Vel: 0.03[0m
+[0m[INFO] [1754804310.394909799] [demo_robot_controller]: PLOTDATA, 0.00, 0.00, 0.76[0m
+[0m[INFO] [1754804310.428958229] [demo_robot_controller]: PLOTDATA, 0.00, 0.00, 0.76[0m
+[0m[INFO] [1754804310.463014324] [demo_robot_controller]: PLOTDATA, 0.00, 0.00, 0.76[0m
+[0m[INFO] [1754804310.498271535] [demo_robot_controller]: PLOTDATA, 0.00, 0.00, 0.76[0m
+[0m[INFO] [1754804310.532013833] [demo_robot_controller]: PLOTDATA, 0.00, 0.00, 0.76[0m
+[0m[INFO] [1754804310.566764500] [demo_robot_controller]: PLOTDATA, 0.00, 0.00, 0.76[0m
+[0m[INFO] [1754804310.578009274] [demo_robot_controller]: Odom: X: 0.00, Y: 0.00, Theta: 0.76[0m
+[0m[INFO] [1754804310.578063417] [demo_robot_controller]: Moving straight. X_o: 0.00, Y_o: 0.00, X_g: 10.00, Y_g: 10.00, Linear Vel: 0.60[0m
+[0m[INFO] [1754804310.600900978] [demo_robot_controller]: PLOTDATA, 0.01, 0.01, 0.77[0m
+[0m[INFO] [1754804310.634978184] [demo_robot_controller]: PLOTDATA, 0.02, 0.02, 0.77[0m
+[0m[INFO] [1754804310.669935444] [demo_robot_controller]: PLOTDATA, 0.04, 0.04, 0.77[0m
+[0m[INFO] [1754804310.704802413] [demo_robot_controller]: PLOTDATA, 0.05, 0.05, 0.77[0m
+[0m[INFO] [1754804310.738918402] [demo_robot_controller]: PLOTDATA, 0.07, 0.07, 0.77[0m
+[0m[INFO] [1754804310.773158146] [demo_robot_controller]: PLOTDATA, 0.08, 0.08, 0.77[0m
+[0m[INFO] [1754804310.778012206] [demo_robot_controller]: Odom: X: 0.08, Y: 0.08, Theta: 0.77[0m
+[0m[INFO] [1754804310.778045639] [demo_robot_controller]: Moving straight. X_o: 0.08, Y_o: 0.08, X_g: 10.00, Y_g: 10.00, Linear Vel: 0.60[0m
+[0m[INFO] [1754804310.807910096] [demo_robot_controller]: PLOTDATA, 0.10, 0.09, 0.77[0m
+[0m[INFO] [1754804310.842306609] [demo_robot_controller]: PLOTDATA, 0.11, 0.11, 0.77[0m
+[0m[INFO] [1754804310.877004886] [demo_robot_controller]: PLOTDATA, 0.13, 0.12, 0.77[0m
+[0m[INFO] [1754804310.911727209] [demo_robot_controller]: PLOTDATA, 0.14, 0.14, 0.77[0m
+[0m[INFO] [1754804310.945991851] [demo_robot_controller]: PLOTDATA, 0.16, 0.15, 0.77[0m
+[0m[INFO] [1754804310.978035987] [demo_robot_controller]: Odom: X: 0.16, Y: 0.15, Theta: 0.77[0m
+[0m[INFO] [1754804310.978100219] [demo_robot_controller]: Moving straight. X_o: 0.16, Y_o: 0.15, X_g: 10.00, Y_g: 10.00, Linear Vel: 0.60[0m
+[0m[INFO] [1754804310.980511609] [demo_robot_controller]: PLOTDATA, 0.17, 0.17, 0.77[0m
+[0m[INFO] [1754804311.015227119] [demo_robot_controller]: PLOTDATA, 0.19, 0.18, 0.77[0m
+[0m[INFO] [1754804311.049175549] [demo_robot_controller]: PLOTDATA, 0.20, 0.19, 0.77[0m
+[0m[INFO] [1754804311.083615996] [demo_robot_controller]: PLOTDATA, 0.21, 0.21, 0.77[0m
+[0m[INFO] [1754804311.117972673] [demo_robot_controller]: PLOTDATA, 0.23, 0.22, 0.77[0m
+[0m[INFO] [1754804311.152627047] [demo_robot_controller]: PLOTDATA, 0.24, 0.24, 0.77[0m
+[0m[INFO] [1754804311.178040110] [demo_robot_controller]: Odom: X: 0.24, Y: 0.24, Theta: 0.77[0m
+[0m[INFO] [1754804311.178108299] [demo_robot_controller]: Moving straight. X_o: 0.24, Y_o: 0.24, X_g: 10.00, Y_g: 10.00, Linear Vel: 0.60[0m
+[0m[INFO] [1754804311.187037626] [demo_robot_controller]: PLOTDATA, 0.26, 0.25, 0.78[0m
+[0m[INFO] [1754804311.221532176] [demo_robot_controller]: PLOTDATA, 0.27, 0.26, 0.78[0m
+[0m[INFO] [1754804311.255906597] [demo_robot_controller]: PLOTDATA, 0.29, 0.28, 0.78[0m
+[0m[INFO] [1754804311.289933857] [demo_robot_controller]: PLOTDATA, 0.30, 0.29, 0.78[0m
+[0m[INFO] [1754804311.324366719] [demo_robot_controller]: PLOTDATA, 0.32, 0.31, 0.78[0m
+[0m[INFO] [1754804311.358972199] [demo_robot_controller]: PLOTDATA, 0.33, 0.32, 0.78[0m
+[0m[INFO] [1754804311.378049092] [demo_robot_controller]: Odom: X: 0.33, Y: 0.32, Theta: 0.78[0m
+[0m[INFO] [1754804311.378117542] [demo_robot_controller]: Moving straight. X_o: 0.33, Y_o: 0.32, X_g: 10.00, Y_g: 10.00, Linear Vel: 0.60[0m
+[0m[INFO] [1754804311.392955235] [demo_robot_controller]: PLOTDATA, 0.35, 0.34, 0.78[0m
+[0m[INFO] [1754804311.426993166] [demo_robot_controller]: PLOTDATA, 0.36, 0.35, 0.78[0m
+[0m[INFO] [1754804311.461092874] [demo_robot_controller]: PLOTDATA, 0.37, 0.37, 0.78[0m
+[0m[INFO] [1754804311.496219957] [demo_robot_controller]: PLOTDATA, 0.39, 0.38, 0.78[0m
+[0m[INFO] [1754804311.531021461] [demo_robot_controller]: PLOTDATA, 0.40, 0.39, 0.78[0m
+[0m[INFO] [1754804311.565479581] [demo_robot_controller]: PLOTDATA, 0.42, 0.41, 0.78[0m
+[0m[INFO] [1754804311.578041733] [demo_robot_controller]: Odom: X: 0.42, Y: 0.41, Theta: 0.78[0m
+[0m[INFO] [1754804311.578092089] [demo_robot_controller]: Moving straight. X_o: 0.42, Y_o: 0.41, X_g: 10.00, Y_g: 10.00, Linear Vel: 0.60[0m
+[0m[INFO] [1754804311.599843252] [demo_robot_controller]: PLOTDATA, 0.43, 0.42, 0.78[0m
+[0m[INFO] [1754804311.634401072] [demo_robot_controller]: PLOTDATA, 0.45, 0.44, 0.78[0m
+[0m[INFO] [1754804311.668810960] [demo_robot_controller]: PLOTDATA, 0.46, 0.45, 0.78[0m
+[0m[INFO] [1754804311.703595091] [demo_robot_controller]: PLOTDATA, 0.48, 0.47, 0.78[0m
+[0m[INFO] [1754804311.737927361] [demo_robot_controller]: PLOTDATA, 0.49, 0.48, 0.78[0m
+[0m[INFO] [1754804311.771925476] [demo_robot_controller]: PLOTDATA, 0.51, 0.49, 0.78[0m
+[0m[INFO] [1754804311.778044563] [demo_robot_controller]: Odom: X: 0.51, Y: 0.49, Theta: 0.78[0m
+[0m[INFO] [1754804311.778098596] [demo_robot_controller]: Moving straight. X_o: 0.51, Y_o: 0.49, X_g: 10.00, Y_g: 10.00, Linear Vel: 0.60[0m
+[0m[INFO] [1754804311.806385019] [demo_robot_controller]: PLOTDATA, 0.52, 0.51, 0.78[0m
+[0m[INFO] [1754804311.840827770] [demo_robot_controller]: PLOTDATA, 0.53, 0.52, 0.78[0m
+[0m[INFO] [1754804311.875033840] [demo_robot_controller]: PLOTDATA, 0.55, 0.54, 0.78[0m
+[0m[INFO] [1754804311.908950490] [demo_robot_controller]: PLOTDATA, 0.56, 0.55, 0.78[0m
+[0m[INFO] [1754804311.943562032] [demo_robot_controller]: PLOTDATA, 0.58, 0.57, 0.78[0m
+[0m[INFO] [1754804311.977967031] [demo_robot_controller]: PLOTDATA, 0.59, 0.58, 0.78[0m
+[0m[INFO] [1754804311.978056431] [demo_robot_controller]: Odom: X: 0.59, Y: 0.58, Theta: 0.78[0m
+[0m[INFO] [1754804311.978078824] [demo_robot_controller]: Moving straight. X_o: 0.59, Y_o: 0.58, X_g: 10.00, Y_g: 10.00, Linear Vel: 0.60[0m
+[0m[INFO] [1754804312.011962280] [demo_robot_controller]: PLOTDATA, 0.61, 0.59, 0.78[0m
+[0m[INFO] [1754804312.046641501] [demo_robot_controller]: PLOTDATA, 0.62, 0.61, 0.78[0m
+[0m[INFO] [1754804312.081186166] [demo_robot_controller]: PLOTDATA, 0.64, 0.62, 0.78[0m
+[0m[INFO] [1754804312.115045676] [demo_robot_controller]: PLOTDATA, 0.65, 0.64, 0.78[0m
+[0m[INFO] [1754804312.149566105] [demo_robot_controller]: PLOTDATA, 0.66, 0.65, 0.78[0m
+[0m[INFO] [1754804312.178064271] [demo_robot_controller]: Odom: X: 0.66, Y: 0.65, Theta: 0.78[0m
+[0m[INFO] [1754804312.178122251] [demo_robot_controller]: Moving straight. X_o: 0.66, Y_o: 0.65, X_g: 10.00, Y_g: 10.00, Linear Vel: 0.60[0m
+[0m[INFO] [1754804312.183955114] [demo_robot_controller]: PLOTDATA, 0.68, 0.67, 0.78[0m
+[0m[INFO] [1754804312.217923602] [demo_robot_controller]: PLOTDATA, 0.69, 0.68, 0.78[0m
+[0m[INFO] [1754804312.251954799] [demo_robot_controller]: PLOTDATA, 0.71, 0.70, 0.78[0m
+[0m[INFO] [1754804312.285926313] [demo_robot_controller]: PLOTDATA, 0.72, 0.71, 0.78[0m
+[0m[INFO] [1754804312.320860489] [demo_robot_controller]: PLOTDATA, 0.74, 0.72, 0.78[0m
+[0m[INFO] [1754804312.354998049] [demo_robot_controller]: PLOTDATA, 0.75, 0.74, 0.78[0m
+[0m[INFO] [1754804312.378071689] [demo_robot_controller]: Odom: X: 0.75, Y: 0.74, Theta: 0.78[0m
+[0m[INFO] [1754804312.378133357] [demo_robot_controller]: Moving straight. X_o: 0.75, Y_o: 0.74, X_g: 10.00, Y_g: 10.00, Linear Vel: 0.60[0m
+[0m[INFO] [1754804312.389071948] [demo_robot_controller]: PLOTDATA, 0.77, 0.75, 0.78[0m
+[0m[INFO] [1754804312.424019069] [demo_robot_controller]: PLOTDATA, 0.78, 0.77, 0.78[0m
+[0m[INFO] [1754804312.457971396] [demo_robot_controller]: PLOTDATA, 0.79, 0.78, 0.78[0m
+[0m[INFO] [1754804312.491917502] [demo_robot_controller]: PLOTDATA, 0.81, 0.80, 0.78[0m
+[0m[INFO] [1754804312.526942841] [demo_robot_controller]: PLOTDATA, 0.82, 0.81, 0.78[0m
+[0m[INFO] [1754804312.561716121] [demo_robot_controller]: PLOTDATA, 0.84, 0.82, 0.78[0m
+[0m[INFO] [1754804312.578074449] [demo_robot_controller]: Odom: X: 0.84, Y: 0.82, Theta: 0.78[0m
+[0m[INFO] [1754804312.578149652] [demo_robot_controller]: Moving straight. X_o: 0.84, Y_o: 0.82, X_g: 10.00, Y_g: 10.00, Linear Vel: 0.60[0m
+[0m[INFO] [1754804312.595973830] [demo_robot_controller]: PLOTDATA, 0.85, 0.84, 0.78[0m
+[0m[INFO] [1754804312.630506192] [demo_robot_controller]: PLOTDATA, 0.87, 0.85, 0.78[0m
+[0m[INFO] [1754804312.665311312] [demo_robot_controller]: PLOTDATA, 0.88, 0.87, 0.78[0m
+[0m[INFO] [1754804312.699979422] [demo_robot_controller]: PLOTDATA, 0.90, 0.88, 0.78[0m
+[0m[INFO] [1754804312.734341379] [demo_robot_controller]: PLOTDATA, 0.91, 0.90, 0.78[0m
+[0m[INFO] [1754804312.768984702] [demo_robot_controller]: PLOTDATA, 0.92, 0.91, 0.78[0m
+[0m[INFO] [1754804312.778075746] [demo_robot_controller]: Odom: X: 0.92, Y: 0.91, Theta: 0.78[0m
+[0m[INFO] [1754804312.778123587] [demo_robot_controller]: Moving straight. X_o: 0.92, Y_o: 0.91, X_g: 10.00, Y_g: 10.00, Linear Vel: 0.60[0m
+[0m[INFO] [1754804312.803369422] [demo_robot_controller]: PLOTDATA, 0.94, 0.93, 0.78[0m
+[0m[INFO] [1754804312.837850987] [demo_robot_controller]: PLOTDATA, 0.95, 0.94, 0.78[0m
+[0m[INFO] [1754804312.872152990] [demo_robot_controller]: PLOTDATA, 0.97, 0.95, 0.78[0m
+[0m[INFO] [1754804312.906659111] [demo_robot_controller]: PLOTDATA, 0.98, 0.97, 0.78[0m
+[0m[INFO] [1754804312.940996241] [demo_robot_controller]: PLOTDATA, 1.00, 0.98, 0.78[0m
+[0m[INFO] [1754804312.975016197] [demo_robot_controller]: PLOTDATA, 1.01, 1.00, 0.78[0m
+[0m[INFO] [1754804312.978075310] [demo_robot_controller]: Odom: X: 1.01, Y: 1.00, Theta: 0.78[0m
+[0m[INFO] [1754804312.978140694] [demo_robot_controller]: Moving straight. X_o: 1.01, Y_o: 1.00, X_g: 10.00, Y_g: 10.00, Linear Vel: 0.60[0m
+[0m[INFO] [1754804313.008984715] [demo_robot_controller]: PLOTDATA, 1.03, 1.01, 0.78[0m
+[0m[INFO] [1754804313.043007587] [demo_robot_controller]: PLOTDATA, 1.04, 1.03, 0.78[0m
+[0m[INFO] [1754804313.077028123] [demo_robot_controller]: PLOTDATA, 1.05, 1.04, 0.78[0m
+[0m[INFO] [1754804313.111274741] [demo_robot_controller]: PLOTDATA, 1.07, 1.06, 0.78[0m
+[0m[INFO] [1754804313.145952910] [demo_robot_controller]: PLOTDATA, 1.08, 1.07, 0.78[0m
+[0m[INFO] [1754804313.178089441] [demo_robot_controller]: Odom: X: 1.08, Y: 1.07, Theta: 0.78[0m
+[0m[INFO] [1754804313.178147611] [demo_robot_controller]: Moving straight. X_o: 1.08, Y_o: 1.07, X_g: 10.00, Y_g: 10.00, Linear Vel: 0.60[0m
+[0m[INFO] [1754804313.180318223] [demo_robot_controller]: PLOTDATA, 1.10, 1.08, 0.78[0m
+[0m[INFO] [1754804313.215205189] [demo_robot_controller]: PLOTDATA, 1.11, 1.10, 0.78[0m
+[0m[INFO] [1754804313.249202643] [demo_robot_controller]: PLOTDATA, 1.13, 1.11, 0.79[0m
+[0m[INFO] [1754804313.283880090] [demo_robot_controller]: PLOTDATA, 1.14, 1.13, 0.79[0m
+[0m[INFO] [1754804313.317910927] [demo_robot_controller]: PLOTDATA, 1.16, 1.14, 0.79[0m
+[0m[INFO] [1754804313.352702822] [demo_robot_controller]: PLOTDATA, 1.17, 1.16, 0.79[0m
+[0m[INFO] [1754804313.378101407] [demo_robot_controller]: Odom: X: 1.17, Y: 1.16, Theta: 0.79[0m
+[0m[INFO] [1754804313.378164878] [demo_robot_controller]: Moving straight. X_o: 1.17, Y_o: 1.16, X_g: 10.00, Y_g: 10.00, Linear Vel: 0.60[0m
+[0m[INFO] [1754804313.387135974] [demo_robot_controller]: PLOTDATA, 1.18, 1.17, 0.79[0m
+[0m[INFO] [1754804313.421884407] [demo_robot_controller]: PLOTDATA, 1.20, 1.19, 0.79[0m
+[0m[INFO] [1754804313.455917889] [demo_robot_controller]: PLOTDATA, 1.21, 1.20, 0.79[0m
+[0m[INFO] [1754804313.490560079] [demo_robot_controller]: PLOTDATA, 1.23, 1.21, 0.79[0m
+[0m[INFO] [1754804313.525371882] [demo_robot_controller]: PLOTDATA, 1.24, 1.23, 0.79[0m
+[0m[INFO] [1754804313.560079938] [demo_robot_controller]: PLOTDATA, 1.26, 1.24, 0.79[0m
+[0m[INFO] [1754804313.578101141] [demo_robot_controller]: Odom: X: 1.26, Y: 1.24, Theta: 0.79[0m
+[0m[INFO] [1754804313.578152949] [demo_robot_controller]: Moving straight. X_o: 1.26, Y_o: 1.24, X_g: 10.00, Y_g: 10.00, Linear Vel: 0.60[0m
+[0m[INFO] [1754804313.594381620] [demo_robot_controller]: PLOTDATA, 1.27, 1.26, 0.79[0m
+[0m[INFO] [1754804313.628911367] [demo_robot_controller]: PLOTDATA, 1.29, 1.27, 0.79[0m
+[0m[INFO] [1754804313.662928878] [demo_robot_controller]: PLOTDATA, 1.30, 1.29, 0.79[0m
+[0m[INFO] [1754804313.697406705] [demo_robot_controller]: PLOTDATA, 1.31, 1.30, 0.79[0m
+[0m[INFO] [1754804313.732232385] [demo_robot_controller]: PLOTDATA, 1.33, 1.31, 0.79[0m
+[0m[INFO] [1754804313.766963525] [demo_robot_controller]: PLOTDATA, 1.34, 1.33, 0.79[0m
+[0m[INFO] [1754804313.778108749] [demo_robot_controller]: Odom: X: 1.34, Y: 1.33, Theta: 0.79[0m
+[0m[INFO] [1754804313.778163554] [demo_robot_controller]: Moving straight. X_o: 1.34, Y_o: 1.33, X_g: 10.00, Y_g: 10.00, Linear Vel: 0.60[0m
+[0m[INFO] [1754804313.800967410] [demo_robot_controller]: PLOTDATA, 1.36, 1.34, 0.79[0m
+[0m[INFO] [1754804313.834933824] [demo_robot_controller]: PLOTDATA, 1.37, 1.36, 0.79[0m
+[0m[INFO] [1754804313.869098365] [demo_robot_controller]: PLOTDATA, 1.39, 1.37, 0.79[0m
+[0m[INFO] [1754804313.903831749] [demo_robot_controller]: PLOTDATA, 1.40, 1.39, 0.79[0m
+[0m[INFO] [1754804313.938070672] [demo_robot_controller]: PLOTDATA, 1.42, 1.40, 0.79[0m
+[0m[INFO] [1754804313.972761415] [demo_robot_controller]: PLOTDATA, 1.43, 1.42, 0.79[0m
+[0m[INFO] [1754804313.978106369] [demo_robot_controller]: Odom: X: 1.43, Y: 1.42, Theta: 0.79[0m
+[0m[INFO] [1754804313.978148168] [demo_robot_controller]: Moving straight. X_o: 1.43, Y_o: 1.42, X_g: 10.00, Y_g: 10.00, Linear Vel: 0.60[0m
+[0m[INFO] [1754804314.006963888] [demo_robot_controller]: PLOTDATA, 1.44, 1.43, 0.79[0m
+[0m[INFO] [1754804314.041512510] [demo_robot_controller]: PLOTDATA, 1.46, 1.44, 0.79[0m
+[0m[INFO] [1754804314.075955982] [demo_robot_controller]: PLOTDATA, 1.47, 1.46, 0.79[0m
+[0m[INFO] [1754804314.110464638] [demo_robot_controller]: PLOTDATA, 1.49, 1.47, 0.79[0m
+[0m[INFO] [1754804314.144896629] [demo_robot_controller]: PLOTDATA, 1.50, 1.49, 0.79[0m
+[0m[INFO] [1754804314.178122663] [demo_robot_controller]: Odom: X: 1.50, Y: 1.49, Theta: 0.79[0m
+[0m[INFO] [1754804314.178222654] [demo_robot_controller]: Moving straight. X_o: 1.50, Y_o: 1.49, X_g: 10.00, Y_g: 10.00, Linear Vel: 0.60[0m
+[0m[INFO] [1754804314.179210083] [demo_robot_controller]: PLOTDATA, 1.52, 1.50, 0.79[0m
+[0m[INFO] [1754804314.213864597] [demo_robot_controller]: PLOTDATA, 1.53, 1.52, 0.79[0m
+[0m[INFO] [1754804314.248239378] [demo_robot_controller]: PLOTDATA, 1.55, 1.53, 0.79[0m
+[0m[INFO] [1754804314.282188800] [demo_robot_controller]: PLOTDATA, 1.56, 1.55, 0.79[0m
+[0m[INFO] [1754804314.316028943] [demo_robot_controller]: PLOTDATA, 1.57, 1.56, 0.79[0m
+[0m[INFO] [1754804314.349980549] [demo_robot_controller]: PLOTDATA, 1.59, 1.57, 0.79[0m
+[0m[INFO] [1754804314.378131393] [demo_robot_controller]: Odom: X: 1.59, Y: 1.57, Theta: 0.79[0m
+[0m[INFO] [1754804314.378192590] [demo_robot_controller]: Moving straight. X_o: 1.59, Y_o: 1.57, X_g: 10.00, Y_g: 10.00, Linear Vel: 0.60[0m
+[0m[INFO] [1754804314.384140602] [demo_robot_controller]: PLOTDATA, 1.60, 1.59, 0.79[0m
+[0m[INFO] [1754804314.418934541] [demo_robot_controller]: PLOTDATA, 1.62, 1.60, 0.79[0m
+[0m[INFO] [1754804314.453526926] [demo_robot_controller]: PLOTDATA, 1.63, 1.62, 0.79[0m
+[0m[INFO] [1754804314.488019722] [demo_robot_controller]: PLOTDATA, 1.65, 1.63, 0.79[0m
+[0m[INFO] [1754804314.522196967] [demo_robot_controller]: PLOTDATA, 1.66, 1.65, 0.79[0m
+[0m[INFO] [1754804314.556952634] [demo_robot_controller]: PLOTDATA, 1.68, 1.66, 0.79[0m
+[0m[INFO] [1754804314.578132278] [demo_robot_controller]: Odom: X: 1.68, Y: 1.66, Theta: 0.79[0m
+[0m[INFO] [1754804314.578185620] [demo_robot_controller]: Moving straight. X_o: 1.68, Y_o: 1.66, X_g: 10.00, Y_g: 10.00, Linear Vel: 0.60[0m
+[0m[INFO] [1754804314.591614141] [demo_robot_controller]: PLOTDATA, 1.69, 1.68, 0.79[0m
+[0m[INFO] [1754804314.626142574] [demo_robot_controller]: PLOTDATA, 1.70, 1.69, 0.79[0m
+[0m[INFO] [1754804314.660733998] [demo_robot_controller]: PLOTDATA, 1.72, 1.70, 0.79[0m
+[0m[INFO] [1754804314.695033225] [demo_robot_controller]: PLOTDATA, 1.73, 1.72, 0.79[0m
+[0m[INFO] [1754804314.729317374] [demo_robot_controller]: PLOTDATA, 1.75, 1.73, 0.79[0m
+[0m[INFO] [1754804314.764005552] [demo_robot_controller]: PLOTDATA, 1.76, 1.75, 0.79[0m
+[0m[INFO] [1754804314.778136159] [demo_robot_controller]: Odom: X: 1.76, Y: 1.75, Theta: 0.79[0m
+[0m[INFO] [1754804314.778193679] [demo_robot_controller]: Moving straight. X_o: 1.76, Y_o: 1.75, X_g: 10.00, Y_g: 10.00, Linear Vel: 0.60[0m
+[0m[INFO] [1754804314.798285092] [demo_robot_controller]: PLOTDATA, 1.78, 1.76, 0.79[0m
+[0m[INFO] [1754804314.832112541] [demo_robot_controller]: PLOTDATA, 1.79, 1.78, 0.79[0m
+[0m[INFO] [1754804314.866218922] [demo_robot_controller]: PLOTDATA, 1.80, 1.79, 0.79[0m
+[0m[INFO] [1754804314.900123448] [demo_robot_controller]: PLOTDATA, 1.82, 1.81, 0.79[0m
+[0m[INFO] [1754804314.934146379] [demo_robot_controller]: PLOTDATA, 1.83, 1.82, 0.79[0m
+[0m[INFO] [1754804314.968962471] [demo_robot_controller]: PLOTDATA, 1.85, 1.83, 0.79[0m
+[0m[INFO] [1754804314.978131003] [demo_robot_controller]: Odom: X: 1.85, Y: 1.83, Theta: 0.79[0m
+[0m[INFO] [1754804314.978171259] [demo_robot_controller]: Moving straight. X_o: 1.85, Y_o: 1.83, X_g: 10.00, Y_g: 10.00, Linear Vel: 0.60[0m
+[0m[INFO] [1754804315.003719099] [demo_robot_controller]: PLOTDATA, 1.86, 1.85, 0.79[0m
+[0m[INFO] [1754804315.038536042] [demo_robot_controller]: PLOTDATA, 1.88, 1.86, 0.79[0m
+[0m[INFO] [1754804315.072994542] [demo_robot_controller]: PLOTDATA, 1.89, 1.88, 0.79[0m
+[0m[INFO] [1754804315.107615562] [demo_robot_controller]: PLOTDATA, 1.91, 1.89, 0.79[0m
+[0m[INFO] [1754804315.141993539] [demo_robot_controller]: PLOTDATA, 1.92, 1.91, 0.79[0m
+[0m[INFO] [1754804315.175956426] [demo_robot_controller]: PLOTDATA, 1.93, 1.92, 0.79[0m
+[0m[INFO] [1754804315.178132238] [demo_robot_controller]: Odom: X: 1.93, Y: 1.92, Theta: 0.79[0m
+[0m[INFO] [1754804315.178165521] [demo_robot_controller]: Moving straight. X_o: 1.93, Y_o: 1.92, X_g: 10.00, Y_g: 10.00, Linear Vel: 0.60[0m
+[0m[INFO] [1754804315.210625468] [demo_robot_controller]: PLOTDATA, 1.95, 1.94, 0.79[0m
+[0m[INFO] [1754804315.244927671] [demo_robot_controller]: PLOTDATA, 1.96, 1.95, 0.79[0m
+[0m[INFO] [1754804315.279286231] [demo_robot_controller]: PLOTDATA, 1.98, 1.96, 0.79[0m
+[0m[INFO] [1754804315.314025526] [demo_robot_controller]: PLOTDATA, 1.99, 1.98, 0.79[0m
+[0m[INFO] [1754804315.348412070] [demo_robot_controller]: PLOTDATA, 2.01, 1.99, 0.79[0m
+[0m[INFO] [1754804315.378156347] [demo_robot_controller]: Odom: X: 2.01, Y: 1.99, Theta: 0.79[0m
+[0m[INFO] [1754804315.378217162] [demo_robot_controller]: Moving straight. X_o: 2.01, Y_o: 1.99, X_g: 10.00, Y_g: 10.00, Linear Vel: 0.60[0m
+[0m[INFO] [1754804315.382871462] [demo_robot_controller]: PLOTDATA, 2.02, 2.01, 0.79[0m
+[0m[INFO] [1754804315.416977351] [demo_robot_controller]: PLOTDATA, 2.04, 2.02, 0.79[0m
+[0m[INFO] [1754804315.450955998] [demo_robot_controller]: PLOTDATA, 2.05, 2.04, 0.79[0m
+[0m[INFO] [1754804315.485405361] [demo_robot_controller]: PLOTDATA, 2.06, 2.05, 0.79[0m
+[0m[INFO] [1754804315.519943383] [demo_robot_controller]: PLOTDATA, 2.08, 2.07, 0.79[0m
+[0m[INFO] [1754804315.554539416] [demo_robot_controller]: PLOTDATA, 2.09, 2.08, 0.79[0m
+[0m[INFO] [1754804315.578159055] [demo_robot_controller]: Odom: X: 2.09, Y: 2.08, Theta: 0.79[0m
+[0m[INFO] [1754804315.578219610] [demo_robot_controller]: Moving straight. X_o: 2.09, Y_o: 2.08, X_g: 10.00, Y_g: 10.00, Linear Vel: 0.60[0m
+[0m[INFO] [1754804315.589151799] [demo_robot_controller]: PLOTDATA, 2.11, 2.09, 0.79[0m
+[0m[INFO] [1754804315.623723615] [demo_robot_controller]: PLOTDATA, 2.12, 2.11, 0.79[0m
+[0m[INFO] [1754804315.657934645] [demo_robot_controller]: PLOTDATA, 2.14, 2.12, 0.79[0m
+[0m[INFO] [1754804315.691951314] [demo_robot_controller]: PLOTDATA, 2.15, 2.14, 0.79[0m
+[0m[INFO] [1754804315.726390217] [demo_robot_controller]: PLOTDATA, 2.17, 2.15, 0.79[0m
+[0m[INFO] [1754804315.760936495] [demo_robot_controller]: PLOTDATA, 2.18, 2.17, 0.79[0m
+[0m[INFO] [1754804315.778171241] [demo_robot_controller]: Odom: X: 2.18, Y: 2.17, Theta: 0.79[0m
+[0m[INFO] [1754804315.778238329] [demo_robot_controller]: Moving straight. X_o: 2.18, Y_o: 2.17, X_g: 10.00, Y_g: 10.00, Linear Vel: 0.60[0m
+[0m[INFO] [1754804315.795354989] [demo_robot_controller]: PLOTDATA, 2.19, 2.18, 0.79[0m
+[0m[INFO] [1754804315.829984576] [demo_robot_controller]: PLOTDATA, 2.21, 2.20, 0.79[0m
+[0m[INFO] [1754804315.864188271] [demo_robot_controller]: PLOTDATA, 2.22, 2.21, 0.79[0m
+[0m[INFO] [1754804315.898892770] [demo_robot_controller]: PLOTDATA, 2.24, 2.22, 0.79[0m
+[0m[INFO] [1754804315.933320993] [demo_robot_controller]: PLOTDATA, 2.25, 2.24, 0.79[0m
+[0m[INFO] [1754804315.967830170] [demo_robot_controller]: PLOTDATA, 2.27, 2.25, 0.79[0m
+[0m[INFO] [1754804315.978158219] [demo_robot_controller]: Odom: X: 2.27, Y: 2.25, Theta: 0.79[0m
+[0m[INFO] [1754804315.978196722] [demo_robot_controller]: Moving straight. X_o: 2.27, Y_o: 2.25, X_g: 10.00, Y_g: 10.00, Linear Vel: 0.60[0m
+[0m[INFO] [1754804316.001891144] [demo_robot_controller]: PLOTDATA, 2.28, 2.27, 0.79[0m
+[0m[INFO] [1754804316.036328654] [demo_robot_controller]: PLOTDATA, 2.29, 2.28, 0.79[0m
+[0m[INFO] [1754804316.071017092] [demo_robot_controller]: PLOTDATA, 2.31, 2.30, 0.79[0m
+[0m[INFO] [1754804316.104978797] [demo_robot_controller]: PLOTDATA, 2.32, 2.31, 0.79[0m
+[0m[INFO] [1754804316.139546024] [demo_robot_controller]: PLOTDATA, 2.34, 2.33, 0.79[0m
+[0m[INFO] [1754804316.173965561] [demo_robot_controller]: PLOTDATA, 2.35, 2.34, 0.79[0m
+[0m[INFO] [1754804316.178159263] [demo_robot_controller]: Odom: X: 2.35, Y: 2.34, Theta: 0.79[0m
+[0m[INFO] [1754804316.178188439] [demo_robot_controller]: Moving straight. X_o: 2.35, Y_o: 2.34, X_g: 10.00, Y_g: 10.00, Linear Vel: 0.60[0m
+[0m[INFO] [1754804316.207939819] [demo_robot_controller]: PLOTDATA, 2.37, 2.35, 0.79[0m
+[0m[INFO] [1754804316.242171388] [demo_robot_controller]: PLOTDATA, 2.38, 2.37, 0.79[0m
+[0m[INFO] [1754804316.276959466] [demo_robot_controller]: PLOTDATA, 2.40, 2.38, 0.79[0m
+[0m[INFO] [1754804316.311553825] [demo_robot_controller]: PLOTDATA, 2.41, 2.40, 0.79[0m
+[0m[INFO] [1754804316.346005071] [demo_robot_controller]: PLOTDATA, 2.42, 2.41, 0.79[0m
+[0m[INFO] [1754804316.378188822] [demo_robot_controller]: Odom: X: 2.42, Y: 2.41, Theta: 0.79[0m
+[0m[INFO] [1754804316.378251832] [demo_robot_controller]: Moving straight. X_o: 2.42, Y_o: 2.41, X_g: 10.00, Y_g: 10.00, Linear Vel: 0.60[0m
+[0m[INFO] [1754804316.379947519] [demo_robot_controller]: PLOTDATA, 2.44, 2.43, 0.79[0m
+[0m[INFO] [1754804316.414979712] [demo_robot_controller]: PLOTDATA, 2.45, 2.44, 0.79[0m
+[0m[INFO] [1754804316.449088877] [demo_robot_controller]: PLOTDATA, 2.47, 2.46, 0.79[0m
+[0m[INFO] [1754804316.483141124] [demo_robot_controller]: PLOTDATA, 2.48, 2.47, 0.79[0m
+[0m[INFO] [1754804316.517860882] [demo_robot_controller]: PLOTDATA, 2.50, 2.48, 0.79[0m
+[0m[INFO] [1754804316.551893752] [demo_robot_controller]: PLOTDATA, 2.51, 2.50, 0.79[0m
+[0m[INFO] [1754804316.578186269] [demo_robot_controller]: Odom: X: 2.51, Y: 2.50, Theta: 0.79[0m
+[0m[INFO] [1754804316.578238088] [demo_robot_controller]: Moving straight. X_o: 2.51, Y_o: 2.50, X_g: 10.00, Y_g: 10.00, Linear Vel: 0.60[0m
+[0m[INFO] [1754804316.586053534] [demo_robot_controller]: PLOTDATA, 2.53, 2.51, 0.79[0m
+[0m[INFO] [1754804316.620872621] [demo_robot_controller]: PLOTDATA, 2.54, 2.53, 0.79[0m
+[0m[INFO] [1754804316.654911583] [demo_robot_controller]: PLOTDATA, 2.55, 2.54, 0.79[0m
+[0m[INFO] [1754804316.688983678] [demo_robot_controller]: PLOTDATA, 2.57, 2.56, 0.79[0m
+[0m[INFO] [1754804316.722986992] [demo_robot_controller]: PLOTDATA, 2.58, 2.57, 0.79[0m
+[0m[INFO] [1754804316.757568997] [demo_robot_controller]: PLOTDATA, 2.60, 2.59, 0.79[0m
+[0m[INFO] [1754804316.778192032] [demo_robot_controller]: Odom: X: 2.60, Y: 2.59, Theta: 0.79[0m
+[0m[INFO] [1754804316.778244773] [demo_robot_controller]: Moving straight. X_o: 2.60, Y_o: 2.59, X_g: 10.00, Y_g: 10.00, Linear Vel: 0.60[0m
+[0m[INFO] [1754804316.791990668] [demo_robot_controller]: PLOTDATA, 2.61, 2.60, 0.79[0m
+[0m[INFO] [1754804316.826712259] [demo_robot_controller]: PLOTDATA, 2.63, 2.61, 0.79[0m
+[0m[INFO] [1754804316.861506178] [demo_robot_controller]: PLOTDATA, 2.64, 2.63, 0.79[0m
+[0m[INFO] [1754804316.896006327] [demo_robot_controller]: PLOTDATA, 2.66, 2.64, 0.79[0m
+[0m[INFO] [1754804316.930865200] [demo_robot_controller]: PLOTDATA, 2.67, 2.66, 0.79[0m
+[0m[INFO] [1754804316.965238709] [demo_robot_controller]: PLOTDATA, 2.68, 2.67, 0.79[0m
+[0m[INFO] [1754804316.978191714] [demo_robot_controller]: Odom: X: 2.68, Y: 2.67, Theta: 0.79[0m
+[0m[INFO] [1754804316.978238794] [demo_robot_controller]: Moving straight. X_o: 2.68, Y_o: 2.67, X_g: 10.00, Y_g: 10.00, Linear Vel: 0.60[0m
+[0m[INFO] [1754804316.999637285] [demo_robot_controller]: PLOTDATA, 2.70, 2.69, 0.79[0m
+[0m[INFO] [1754804317.034032815] [demo_robot_controller]: PLOTDATA, 2.71, 2.70, 0.79[0m
+[0m[INFO] [1754804317.067942421] [demo_robot_controller]: PLOTDATA, 2.73, 2.72, 0.79[0m
+[0m[INFO] [1754804317.102177606] [demo_robot_controller]: PLOTDATA, 2.74, 2.73, 0.79[0m
+[0m[INFO] [1754804317.136960113] [demo_robot_controller]: PLOTDATA, 2.76, 2.74, 0.79[0m
+[0m[INFO] [1754804317.171390540] [demo_robot_controller]: PLOTDATA, 2.77, 2.76, 0.79[0m
+[0m[INFO] [1754804317.178196174] [demo_robot_controller]: Odom: X: 2.77, Y: 2.76, Theta: 0.79[0m
+[0m[INFO] [1754804317.178240419] [demo_robot_controller]: Moving straight. X_o: 2.77, Y_o: 2.76, X_g: 10.00, Y_g: 10.00, Linear Vel: 0.60[0m
+[0m[INFO] [1754804317.205929714] [demo_robot_controller]: PLOTDATA, 2.78, 2.77, 0.79[0m
+[0m[INFO] [1754804317.240612291] [demo_robot_controller]: PLOTDATA, 2.80, 2.79, 0.79[0m
+[0m[INFO] [1754804317.274963287] [demo_robot_controller]: PLOTDATA, 2.81, 2.80, 0.79[0m
+[0m[INFO] [1754804317.308951051] [demo_robot_controller]: PLOTDATA, 2.83, 2.82, 0.79[0m
+[0m[INFO] [1754804317.343492118] [demo_robot_controller]: PLOTDATA, 2.84, 2.83, 0.79[0m
+[0m[INFO] [1754804317.377933125] [demo_robot_controller]: PLOTDATA, 2.86, 2.85, 0.79[0m
+[0m[INFO] [1754804317.378205474] [demo_robot_controller]: Odom: X: 2.86, Y: 2.85, Theta: 0.79[0m
+[0m[INFO] [1754804317.378239108] [demo_robot_controller]: Moving straight. X_o: 2.86, Y_o: 2.85, X_g: 10.00, Y_g: 10.00, Linear Vel: 0.60[0m
+[0m[INFO] [1754804317.412208627] [demo_robot_controller]: PLOTDATA, 2.87, 2.86, 0.79[0m
+[0m[INFO] [1754804317.447104801] [demo_robot_controller]: PLOTDATA, 2.89, 2.87, 0.79[0m
+[0m[INFO] [1754804317.481358762] [demo_robot_controller]: PLOTDATA, 2.90, 2.89, 0.79[0m
+[0m[INFO] [1754804317.515816912] [demo_robot_controller]: PLOTDATA, 2.91, 2.90, 0.79[0m
+[0m[INFO] [1754804317.549935335] [demo_robot_controller]: PLOTDATA, 2.93, 2.92, 0.79[0m
+[0m[INFO] [1754804317.578221286] [demo_robot_controller]: Odom: X: 2.93, Y: 2.92, Theta: 0.79[0m
+[0m[INFO] [1754804317.578283815] [demo_robot_controller]: Moving straight. X_o: 2.93, Y_o: 2.92, X_g: 10.00, Y_g: 10.00, Linear Vel: 0.60[0m
+[0m[INFO] [1754804317.584174998] [demo_robot_controller]: PLOTDATA, 2.94, 2.93, 0.79[0m
+[0m[INFO] [1754804317.618790477] [demo_robot_controller]: PLOTDATA, 2.96, 2.95, 0.79[0m
+[0m[INFO] [1754804317.652925161] [demo_robot_controller]: PLOTDATA, 2.97, 2.96, 0.79[0m
+[0m[INFO] [1754804317.687415873] [demo_robot_controller]: PLOTDATA, 2.99, 2.97, 0.79[0m
+[0m[INFO] [1754804317.722056149] [demo_robot_controller]: PLOTDATA, 3.00, 2.99, 0.79[0m
+[0m[INFO] [1754804317.756017844] [demo_robot_controller]: PLOTDATA, 3.02, 3.00, 0.79[0m
+[0m[INFO] [1754804317.778221378] [demo_robot_controller]: Odom: X: 3.02, Y: 3.00, Theta: 0.79[0m
+[0m[INFO] [1754804317.778277374] [demo_robot_controller]: Moving straight. X_o: 3.02, Y_o: 3.00, X_g: 10.00, Y_g: 10.00, Linear Vel: 0.60[0m
+[0m[INFO] [1754804317.790155574] [demo_robot_controller]: PLOTDATA, 3.03, 3.02, 0.79[0m
+[0m[INFO] [1754804317.824911140] [demo_robot_controller]: PLOTDATA, 3.04, 3.03, 0.79[0m
+[0m[INFO] [1754804317.859373257] [demo_robot_controller]: PLOTDATA, 3.06, 3.05, 0.79[0m
+[0m[INFO] [1754804317.894019254] [demo_robot_controller]: PLOTDATA, 3.07, 3.06, 0.79[0m
+[0m[INFO] [1754804317.928474588] [demo_robot_controller]: PLOTDATA, 3.09, 3.08, 0.79[0m
+[0m[INFO] [1754804317.962968877] [demo_robot_controller]: PLOTDATA, 3.10, 3.09, 0.79[0m
+[0m[INFO] [1754804317.978220177] [demo_robot_controller]: Odom: X: 3.10, Y: 3.09, Theta: 0.79[0m
+[0m[INFO] [1754804317.978271735] [demo_robot_controller]: Moving straight. X_o: 3.10, Y_o: 3.09, X_g: 10.00, Y_g: 10.00, Linear Vel: 0.60[0m
+[0m[INFO] [1754804317.997294234] [demo_robot_controller]: PLOTDATA, 3.12, 3.10, 0.79[0m
+[0m[INFO] [1754804318.032048878] [demo_robot_controller]: PLOTDATA, 3.13, 3.12, 0.79[0m
+[0m[INFO] [1754804318.066087428] [demo_robot_controller]: PLOTDATA, 3.15, 3.13, 0.79[0m
+[0m[INFO] [1754804318.100610311] [demo_robot_controller]: PLOTDATA, 3.16, 3.15, 0.79[0m
+[0m[INFO] [1754804318.134907404] [demo_robot_controller]: PLOTDATA, 3.17, 3.16, 0.79[0m
+[0m[INFO] [1754804318.169267157] [demo_robot_controller]: PLOTDATA, 3.19, 3.18, 0.79[0m
+[0m[INFO] [1754804318.178221942] [demo_robot_controller]: Odom: X: 3.19, Y: 3.18, Theta: 0.79[0m
+[0m[INFO] [1754804318.178259824] [demo_robot_controller]: Moving straight. X_o: 3.19, Y_o: 3.18, X_g: 10.00, Y_g: 10.00, Linear Vel: 0.60[0m
+[0m[INFO] [1754804318.203740695] [demo_robot_controller]: PLOTDATA, 3.20, 3.19, 0.79[0m
+[0m[INFO] [1754804318.237949560] [demo_robot_controller]: PLOTDATA, 3.22, 3.21, 0.79[0m
+[0m[INFO] [1754804318.272034920] [demo_robot_controller]: PLOTDATA, 3.23, 3.22, 0.79[0m
+[0m[INFO] [1754804318.306411485] [demo_robot_controller]: PLOTDATA, 3.25, 3.23, 0.79[0m
+[0m[INFO] [1754804318.340987559] [demo_robot_controller]: PLOTDATA, 3.26, 3.25, 0.79[0m
+[0m[INFO] [1754804318.375175394] [demo_robot_controller]: PLOTDATA, 3.27, 3.26, 0.79[0m
+[0m[INFO] [1754804318.378226221] [demo_robot_controller]: Odom: X: 3.27, Y: 3.26, Theta: 0.79[0m
+[0m[INFO] [1754804318.378266698] [demo_robot_controller]: Moving straight. X_o: 3.27, Y_o: 3.26, X_g: 10.00, Y_g: 10.00, Linear Vel: 0.60[0m
+[0m[INFO] [1754804318.409827122] [demo_robot_controller]: PLOTDATA, 3.29, 3.28, 0.79[0m
+[0m[INFO] [1754804318.443935716] [demo_robot_controller]: PLOTDATA, 3.30, 3.29, 0.79[0m
+[0m[INFO] [1754804318.477879186] [demo_robot_controller]: PLOTDATA, 3.32, 3.31, 0.79[0m
+[0m[INFO] [1754804318.512010063] [demo_robot_controller]: PLOTDATA, 3.33, 3.32, 0.79[0m
+[0m[INFO] [1754804318.546767362] [demo_robot_controller]: PLOTDATA, 3.35, 3.34, 0.79[0m
+[0m[INFO] [1754804318.578248214] [demo_robot_controller]: Odom: X: 3.35, Y: 3.34, Theta: 0.79[0m
+[0m[INFO] [1754804318.578309340] [demo_robot_controller]: Moving straight. X_o: 3.35, Y_o: 3.34, X_g: 10.00, Y_g: 10.00, Linear Vel: 0.60[0m
+[0m[INFO] [1754804318.581403750] [demo_robot_controller]: PLOTDATA, 3.36, 3.35, 0.79[0m
+[0m[INFO] [1754804318.615983802] [demo_robot_controller]: PLOTDATA, 3.38, 3.36, 0.79[0m
+[0m[INFO] [1754804318.650392978] [demo_robot_controller]: PLOTDATA, 3.39, 3.38, 0.79[0m
+[0m[INFO] [1754804318.684856699] [demo_robot_controller]: PLOTDATA, 3.40, 3.39, 0.79[0m
+[0m[INFO] [1754804318.719122782] [demo_robot_controller]: PLOTDATA, 3.42, 3.41, 0.79[0m
+[0m[INFO] [1754804318.753739063] [demo_robot_controller]: PLOTDATA, 3.43, 3.42, 0.79[0m
+[0m[INFO] [1754804318.778249928] [demo_robot_controller]: Odom: X: 3.43, Y: 3.42, Theta: 0.79[0m
+[0m[INFO] [1754804318.778314030] [demo_robot_controller]: Moving straight. X_o: 3.43, Y_o: 3.42, X_g: 10.00, Y_g: 10.00, Linear Vel: 0.60[0m
+[0m[INFO] [1754804318.788000568] [demo_robot_controller]: PLOTDATA, 3.45, 3.44, 0.79[0m
+[0m[INFO] [1754804318.822073174] [demo_robot_controller]: PLOTDATA, 3.46, 3.45, 0.79[0m
+[0m[INFO] [1754804318.855956199] [demo_robot_controller]: PLOTDATA, 3.48, 3.47, 0.79[0m
+[0m[INFO] [1754804318.890569574] [demo_robot_controller]: PLOTDATA, 3.49, 3.48, 0.79[0m
+[0m[INFO] [1754804318.925269754] [demo_robot_controller]: PLOTDATA, 3.51, 3.49, 0.79[0m
+[0m[INFO] [1754804318.959895433] [demo_robot_controller]: PLOTDATA, 3.52, 3.51, 0.79[0m
+[0m[INFO] [1754804318.978254478] [demo_robot_controller]: Odom: X: 3.52, Y: 3.51, Theta: 0.79[0m
+[0m[INFO] [1754804318.978314072] [demo_robot_controller]: Moving straight. X_o: 3.52, Y_o: 3.51, X_g: 10.00, Y_g: 10.00, Linear Vel: 0.60[0m
+[0m[INFO] [1754804318.994422764] [demo_robot_controller]: PLOTDATA, 3.53, 3.52, 0.79[0m
+[0m[INFO] [1754804319.028928313] [demo_robot_controller]: PLOTDATA, 3.55, 3.54, 0.79[0m
+[0m[INFO] [1754804319.062979338] [demo_robot_controller]: PLOTDATA, 3.56, 3.55, 0.79[0m
+[0m[INFO] [1754804319.097110515] [demo_robot_controller]: PLOTDATA, 3.58, 3.57, 0.79[0m
+[0m[INFO] [1754804319.131369536] [demo_robot_controller]: PLOTDATA, 3.59, 3.58, 0.79[0m
+[0m[INFO] [1754804319.166062392] [demo_robot_controller]: PLOTDATA, 3.61, 3.60, 0.79[0m
+[0m[INFO] [1754804319.178254008] [demo_robot_controller]: Odom: X: 3.61, Y: 3.60, Theta: 0.79[0m
+[0m[INFO] [1754804319.178308141] [demo_robot_controller]: Moving straight. X_o: 3.61, Y_o: 3.60, X_g: 10.00, Y_g: 10.00, Linear Vel: 0.60[0m
+[0m[INFO] [1754804319.199963892] [demo_robot_controller]: PLOTDATA, 3.62, 3.61, 0.79[0m
+[0m[INFO] [1754804319.233973718] [demo_robot_controller]: PLOTDATA, 3.64, 3.62, 0.79[0m
+[0m[INFO] [1754804319.268082953] [demo_robot_controller]: PLOTDATA, 3.65, 3.64, 0.79[0m
+[0m[INFO] [1754804319.302936595] [demo_robot_controller]: PLOTDATA, 3.66, 3.65, 0.79[0m
+[0m[INFO] [1754804319.337548848] [demo_robot_controller]: PLOTDATA, 3.68, 3.67, 0.79[0m
+[0m[INFO] [1754804319.371933879] [demo_robot_controller]: PLOTDATA, 3.69, 3.68, 0.79[0m
+[0m[INFO] [1754804319.378255722] [demo_robot_controller]: Odom: X: 3.69, Y: 3.68, Theta: 0.79[0m
+[0m[INFO] [1754804319.378290899] [demo_robot_controller]: Moving straight. X_o: 3.69, Y_o: 3.68, X_g: 10.00, Y_g: 10.00, Linear Vel: 0.60[0m
+[0m[INFO] [1754804319.405990935] [demo_robot_controller]: PLOTDATA, 3.71, 3.70, 0.79[0m
+[0m[INFO] [1754804319.440721192] [demo_robot_controller]: PLOTDATA, 3.72, 3.71, 0.79[0m
+[0m[INFO] [1754804319.475015269] [demo_robot_controller]: PLOTDATA, 3.74, 3.73, 0.79[0m
+[0m[INFO] [1754804319.509037689] [demo_robot_controller]: PLOTDATA, 3.75, 3.74, 0.79[0m
+[0m[INFO] [1754804319.543662877] [demo_robot_controller]: PLOTDATA, 3.77, 3.75, 0.79[0m
+[0m[INFO] [1754804319.578270210] [demo_robot_controller]: Odom: X: 3.77, Y: 3.75, Theta: 0.79[0m
+[0m[INFO] [1754804319.578327990] [demo_robot_controller]: Moving straight. X_o: 3.77, Y_o: 3.75, X_g: 10.00, Y_g: 10.00, Linear Vel: 0.60[0m
+[0m[INFO] [1754804319.578396981] [demo_robot_controller]: PLOTDATA, 3.78, 3.77, 0.79[0m
+[0m[INFO] [1754804319.613007431] [demo_robot_controller]: PLOTDATA, 3.79, 3.78, 0.79[0m
+[0m[INFO] [1754804319.647157504] [demo_robot_controller]: PLOTDATA, 3.81, 3.80, 0.79[0m
+[0m[INFO] [1754804319.682006527] [demo_robot_controller]: PLOTDATA, 3.82, 3.81, 0.79[0m
+[0m[INFO] [1754804319.716149958] [demo_robot_controller]: PLOTDATA, 3.84, 3.83, 0.79[0m
+[0m[INFO] [1754804319.750131290] [demo_robot_controller]: PLOTDATA, 3.85, 3.84, 0.79[0m
+[0m[INFO] [1754804319.778278015] [demo_robot_controller]: Odom: X: 3.85, Y: 3.84, Theta: 0.79[0m
+[0m[INFO] [1754804319.778339292] [demo_robot_controller]: Moving straight. X_o: 3.85, Y_o: 3.84, X_g: 10.00, Y_g: 10.00, Linear Vel: 0.60[0m
+[0m[INFO] [1754804319.784211750] [demo_robot_controller]: PLOTDATA, 3.87, 3.86, 0.79[0m
+[0m[INFO] [1754804319.818917250] [demo_robot_controller]: PLOTDATA, 3.88, 3.87, 0.79[0m
+[0m[INFO] [1754804319.853535114] [demo_robot_controller]: PLOTDATA, 3.89, 3.88, 0.79[0m
+[0m[INFO] [1754804319.887987803] [demo_robot_controller]: PLOTDATA, 3.91, 3.90, 0.79[0m
+[0m[INFO] [1754804319.922298953] [demo_robot_controller]: PLOTDATA, 3.92, 3.91, 0.79[0m
+[0m[INFO] [1754804319.956938868] [demo_robot_controller]: PLOTDATA, 3.94, 3.93, 0.79[0m
+[0m[INFO] [1754804319.978283587] [demo_robot_controller]: Odom: X: 3.94, Y: 3.93, Theta: 0.79[0m
+[0m[INFO] [1754804319.978380461] [demo_robot_controller]: Moving straight. X_o: 3.94, Y_o: 3.93, X_g: 10.00, Y_g: 10.00, Linear Vel: 0.60[0m
+[0m[INFO] [1754804319.991127074] [demo_robot_controller]: PLOTDATA, 3.95, 3.94, 0.79[0m
+[0m[INFO] [1754804320.025871528] [demo_robot_controller]: PLOTDATA, 3.97, 3.96, 0.79[0m
+[0m[INFO] [1754804320.060001833] [demo_robot_controller]: PLOTDATA, 3.98, 3.97, 0.79[0m
+[0m[INFO] [1754804320.094493346] [demo_robot_controller]: PLOTDATA, 4.00, 3.99, 0.79[0m
+[0m[INFO] [1754804320.128975531] [demo_robot_controller]: PLOTDATA, 4.01, 4.00, 0.79[0m
+[0m[INFO] [1754804320.162944680] [demo_robot_controller]: PLOTDATA, 4.02, 4.01, 0.79[0m
+[0m[INFO] [1754804320.178289378] [demo_robot_controller]: Odom: X: 4.02, Y: 4.01, Theta: 0.79[0m
+[0m[INFO] [1754804320.178348310] [demo_robot_controller]: Moving straight. X_o: 4.02, Y_o: 4.01, X_g: 10.00, Y_g: 10.00, Linear Vel: 0.60[0m
+[0m[INFO] [1754804320.197798603] [demo_robot_controller]: PLOTDATA, 4.04, 4.03, 0.79[0m
+[0m[INFO] [1754804320.232072381] [demo_robot_controller]: PLOTDATA, 4.05, 4.04, 0.79[0m
+[0m[INFO] [1754804320.266428897] [demo_robot_controller]: PLOTDATA, 4.07, 4.06, 0.79[0m
+[0m[INFO] [1754804320.301023506] [demo_robot_controller]: PLOTDATA, 4.08, 4.07, 0.79[0m
+[0m[INFO] [1754804320.335628796] [demo_robot_controller]: PLOTDATA, 4.10, 4.09, 0.79[0m
+[0m[INFO] [1754804320.369954443] [demo_robot_controller]: PLOTDATA, 4.11, 4.10, 0.79[0m
+[0m[INFO] [1754804320.378287545] [demo_robot_controller]: Odom: X: 4.11, Y: 4.10, Theta: 0.79[0m
+[0m[INFO] [1754804320.378330637] [demo_robot_controller]: Moving straight. X_o: 4.11, Y_o: 4.10, X_g: 10.00, Y_g: 10.00, Linear Vel: 0.60[0m
+[0m[INFO] [1754804320.403926327] [demo_robot_controller]: PLOTDATA, 4.13, 4.12, 0.79[0m
+[0m[INFO] [1754804320.438089284] [demo_robot_controller]: PLOTDATA, 4.14, 4.13, 0.79[0m
+[0m[INFO] [1754804320.472872242] [demo_robot_controller]: PLOTDATA, 4.15, 4.14, 0.79[0m
+[0m[INFO] [1754804320.507679415] [demo_robot_controller]: PLOTDATA, 4.17, 4.16, 0.79[0m
+[0m[INFO] [1754804320.541962952] [demo_robot_controller]: PLOTDATA, 4.18, 4.17, 0.79[0m
+[0m[INFO] [1754804320.575982687] [demo_robot_controller]: PLOTDATA, 4.20, 4.19, 0.79[0m
+[0m[INFO] [1754804320.578287134] [demo_robot_controller]: Odom: X: 4.20, Y: 4.19, Theta: 0.79[0m
+[0m[INFO] [1754804320.578317471] [demo_robot_controller]: Moving straight. X_o: 4.20, Y_o: 4.19, X_g: 10.00, Y_g: 10.00, Linear Vel: 0.60[0m
+[0m[INFO] [1754804320.610670995] [demo_robot_controller]: PLOTDATA, 4.21, 4.20, 0.79[0m
+[0m[INFO] [1754804320.645225488] [demo_robot_controller]: PLOTDATA, 4.23, 4.22, 0.79[0m
+[0m[INFO] [1754804320.679886122] [demo_robot_controller]: PLOTDATA, 4.24, 4.23, 0.79[0m
+[0m[INFO] [1754804320.714041105] [demo_robot_controller]: PLOTDATA, 4.26, 4.25, 0.79[0m
+[0m[INFO] [1754804320.748234911] [demo_robot_controller]: PLOTDATA, 4.27, 4.26, 0.79[0m
+[0m[INFO] [1754804320.778304246] [demo_robot_controller]: Odom: X: 4.27, Y: 4.26, Theta: 0.79[0m
+[0m[INFO] [1754804320.778365042] [demo_robot_controller]: Moving straight. X_o: 4.27, Y_o: 4.26, X_g: 10.00, Y_g: 10.00, Linear Vel: 0.60[0m
+[0m[INFO] [1754804320.782693762] [demo_robot_controller]: PLOTDATA, 4.28, 4.27, 0.79[0m
+[0m[INFO] [1754804320.817015341] [demo_robot_controller]: PLOTDATA, 4.30, 4.29, 0.79[0m
+[0m[INFO] [1754804320.850998967] [demo_robot_controller]: PLOTDATA, 4.31, 4.30, 0.79[0m
+[0m[INFO] [1754804320.885023261] [demo_robot_controller]: PLOTDATA, 4.33, 4.32, 0.79[0m
+[0m[INFO] [1754804320.919951665] [demo_robot_controller]: PLOTDATA, 4.34, 4.33, 0.79[0m
+[0m[INFO] [1754804320.954611699] [demo_robot_controller]: PLOTDATA, 4.36, 4.35, 0.79[0m
+[0m[INFO] [1754804320.978312963] [demo_robot_controller]: Odom: X: 4.36, Y: 4.35, Theta: 0.79[0m
+[0m[INFO] [1754804320.978376865] [demo_robot_controller]: Moving straight. X_o: 4.36, Y_o: 4.35, X_g: 10.00, Y_g: 10.00, Linear Vel: 0.60[0m
+[0m[INFO] [1754804320.988938358] [demo_robot_controller]: PLOTDATA, 4.37, 4.36, 0.79[0m
+[0m[INFO] [1754804321.023209241] [demo_robot_controller]: PLOTDATA, 4.38, 4.38, 0.79[0m
+[0m[INFO] [1754804321.057936051] [demo_robot_controller]: PLOTDATA, 4.40, 4.39, 0.79[0m
+[0m[INFO] [1754804321.092556460] [demo_robot_controller]: PLOTDATA, 4.41, 4.40, 0.79[0m
+[0m[INFO] [1754804321.126980544] [demo_robot_controller]: PLOTDATA, 4.43, 4.42, 0.79[0m
+[0m[INFO] [1754804321.160957107] [demo_robot_controller]: PLOTDATA, 4.44, 4.43, 0.79[0m
+[0m[INFO] [1754804321.178316890] [demo_robot_controller]: Odom: X: 4.44, Y: 4.43, Theta: 0.79[0m
+[0m[INFO] [1754804321.178380942] [demo_robot_controller]: Moving straight. X_o: 4.44, Y_o: 4.43, X_g: 10.00, Y_g: 10.00, Linear Vel: 0.60[0m
+[0m[INFO] [1754804321.194956082] [demo_robot_controller]: PLOTDATA, 4.46, 4.45, 0.79[0m
+[0m[INFO] [1754804321.229013839] [demo_robot_controller]: PLOTDATA, 4.47, 4.46, 0.79[0m
+[0m[INFO] [1754804321.263533866] [demo_robot_controller]: PLOTDATA, 4.49, 4.48, 0.79[0m
+[0m[INFO] [1754804321.298195082] [demo_robot_controller]: PLOTDATA, 4.50, 4.49, 0.79[0m
+[0m[INFO] [1754804321.332133181] [demo_robot_controller]: PLOTDATA, 4.51, 4.51, 0.79[0m
+[0m[INFO] [1754804321.366124251] [demo_robot_controller]: PLOTDATA, 4.53, 4.52, 0.79[0m
+[0m[INFO] [1754804321.378318723] [demo_robot_controller]: Odom: X: 4.53, Y: 4.52, Theta: 0.79[0m
+[0m[INFO] [1754804321.378372816] [demo_robot_controller]: Moving straight. X_o: 4.53, Y_o: 4.52, X_g: 10.00, Y_g: 10.00, Linear Vel: 0.60[0m
+[0m[INFO] [1754804321.401071291] [demo_robot_controller]: PLOTDATA, 4.54, 4.53, 0.79[0m
+[0m[INFO] [1754804321.435193812] [demo_robot_controller]: PLOTDATA, 4.56, 4.55, 0.79[0m
+[0m[INFO] [1754804321.470018950] [demo_robot_controller]: PLOTDATA, 4.57, 4.56, 0.79[0m
+[0m[INFO] [1754804321.504811245] [demo_robot_controller]: PLOTDATA, 4.59, 4.58, 0.79[0m
+[0m[INFO] [1754804321.539011213] [demo_robot_controller]: PLOTDATA, 4.60, 4.59, 0.79[0m
+[0m[INFO] [1754804321.573277878] [demo_robot_controller]: PLOTDATA, 4.62, 4.61, 0.79[0m
+[0m[INFO] [1754804321.578315005] [demo_robot_controller]: Odom: X: 4.62, Y: 4.61, Theta: 0.79[0m
+[0m[INFO] [1754804321.578349651] [demo_robot_controller]: Moving straight. X_o: 4.62, Y_o: 4.61, X_g: 10.00, Y_g: 10.00, Linear Vel: 0.60[0m
+[0m[INFO] [1754804321.607958921] [demo_robot_controller]: PLOTDATA, 4.63, 4.62, 0.79[0m
+[0m[INFO] [1754804321.641940684] [demo_robot_controller]: PLOTDATA, 4.64, 4.64, 0.79[0m
+[0m[INFO] [1754804321.676660381] [demo_robot_controller]: PLOTDATA, 4.66, 4.65, 0.79[0m
+[0m[INFO] [1754804321.710929340] [demo_robot_controller]: PLOTDATA, 4.67, 4.66, 0.79[0m
+[0m[INFO] [1754804321.744947001] [demo_robot_controller]: PLOTDATA, 4.69, 4.68, 0.79[0m
+[0m[INFO] [1754804321.778333881] [demo_robot_controller]: Odom: X: 4.69, Y: 4.68, Theta: 0.79[0m
+[0m[INFO] [1754804321.778396079] [demo_robot_controller]: Moving straight. X_o: 4.69, Y_o: 4.68, X_g: 10.00, Y_g: 10.00, Linear Vel: 0.60[0m
+[0m[INFO] [1754804321.779344074] [demo_robot_controller]: PLOTDATA, 4.70, 4.69, 0.79[0m
+[0m[INFO] [1754804321.814020108] [demo_robot_controller]: PLOTDATA, 4.72, 4.71, 0.79[0m
+[0m[INFO] [1754804321.848044361] [demo_robot_controller]: PLOTDATA, 4.73, 4.72, 0.79[0m
+[0m[INFO] [1754804321.882572704] [demo_robot_controller]: PLOTDATA, 4.75, 4.74, 0.79[0m
+[0m[INFO] [1754804321.917037516] [demo_robot_controller]: PLOTDATA, 4.76, 4.75, 0.79[0m
+[0m[INFO] [1754804321.950937172] [demo_robot_controller]: PLOTDATA, 4.77, 4.77, 0.79[0m
+[0m[INFO] [1754804321.978340323] [demo_robot_controller]: Odom: X: 4.77, Y: 4.77, Theta: 0.79[0m
+[0m[INFO] [1754804321.978403142] [demo_robot_controller]: Moving straight. X_o: 4.77, Y_o: 4.77, X_g: 10.00, Y_g: 10.00, Linear Vel: 0.60[0m
+[0m[INFO] [1754804321.985509018] [demo_robot_controller]: PLOTDATA, 4.79, 4.78, 0.79[0m
+[0m[INFO] [1754804322.019897134] [demo_robot_controller]: PLOTDATA, 4.80, 4.79, 0.79[0m
+[0m[INFO] [1754804322.054601993] [demo_robot_controller]: PLOTDATA, 4.82, 4.81, 0.79[0m
+[0m[INFO] [1754804322.088923983] [demo_robot_controller]: PLOTDATA, 4.83, 4.82, 0.79[0m
+[0m[INFO] [1754804322.122944108] [demo_robot_controller]: PLOTDATA, 4.85, 4.84, 0.79[0m
+[0m[INFO] [1754804322.156943324] [demo_robot_controller]: PLOTDATA, 4.86, 4.85, 0.79[0m
+[0m[INFO] [1754804322.178340091] [demo_robot_controller]: Odom: X: 4.86, Y: 4.85, Theta: 0.79[0m
+[0m[INFO] [1754804322.178392711] [demo_robot_controller]: Moving straight. X_o: 4.86, Y_o: 4.85, X_g: 10.00, Y_g: 10.00, Linear Vel: 0.60[0m
+[0m[INFO] [1754804322.191864695] [demo_robot_controller]: PLOTDATA, 4.87, 4.87, 0.79[0m
+[0m[INFO] [1754804322.225933873] [demo_robot_controller]: PLOTDATA, 4.89, 4.88, 0.79[0m
+[0m[INFO] [1754804322.260697314] [demo_robot_controller]: PLOTDATA, 4.90, 4.90, 0.79[0m
+[0m[INFO] [1754804322.294967655] [demo_robot_controller]: PLOTDATA, 4.92, 4.91, 0.79[0m
+[0m[INFO] [1754804322.329373234] [demo_robot_controller]: PLOTDATA, 4.93, 4.92, 0.79[0m
+[0m[INFO] [1754804322.363955410] [demo_robot_controller]: PLOTDATA, 4.95, 4.94, 0.79[0m
+[0m[INFO] [1754804322.378349027] [demo_robot_controller]: Odom: X: 4.95, Y: 4.94, Theta: 0.79[0m
+[0m[INFO] [1754804322.378409252] [demo_robot_controller]: Moving straight. X_o: 4.95, Y_o: 4.94, X_g: 10.00, Y_g: 10.00, Linear Vel: 0.60[0m
+[0m[INFO] [1754804322.398767984] [demo_robot_controller]: PLOTDATA, 4.96, 4.95, 0.79[0m
+[0m[INFO] [1754804322.432894802] [demo_robot_controller]: PLOTDATA, 4.98, 4.97, 0.79[0m
+[0m[INFO] [1754804322.467011642] [demo_robot_controller]: PLOTDATA, 4.99, 4.98, 0.79[0m
+[0m[INFO] [1754804322.500968747] [demo_robot_controller]: PLOTDATA, 5.00, 5.00, 0.79[0m
+[0m[INFO] [1754804322.535736506] [demo_robot_controller]: PLOTDATA, 5.02, 5.01, 0.79[0m
+[0m[INFO] [1754804322.570170859] [demo_robot_controller]: PLOTDATA, 5.03, 5.03, 0.79[0m
+[0m[INFO] [1754804322.578345590] [demo_robot_controller]: Odom: X: 5.03, Y: 5.03, Theta: 0.79[0m
+[0m[INFO] [1754804322.578381267] [demo_robot_controller]: Moving straight. X_o: 5.03, Y_o: 5.03, X_g: 10.00, Y_g: 10.00, Linear Vel: 0.60[0m
+[0m[INFO] [1754804322.604938628] [demo_robot_controller]: PLOTDATA, 5.05, 5.04, 0.79[0m
+[0m[INFO] [1754804322.638941711] [demo_robot_controller]: PLOTDATA, 5.06, 5.05, 0.79[0m
+[0m[INFO] [1754804322.673111521] [demo_robot_controller]: PLOTDATA, 5.08, 5.07, 0.79[0m
+[0m[INFO] [1754804322.708003266] [demo_robot_controller]: PLOTDATA, 5.09, 5.08, 0.79[0m
+[0m[INFO] [1754804322.742304176] [demo_robot_controller]: PLOTDATA, 5.11, 5.10, 0.79[0m
+[0m[INFO] [1754804322.776959210] [demo_robot_controller]: PLOTDATA, 5.12, 5.11, 0.79[0m
+[0m[INFO] [1754804322.778348564] [demo_robot_controller]: Odom: X: 5.12, Y: 5.11, Theta: 0.79[0m
+[0m[INFO] [1754804322.778373061] [demo_robot_controller]: Moving straight. X_o: 5.12, Y_o: 5.11, X_g: 10.00, Y_g: 10.00, Linear Vel: 0.60[0m
+[0m[INFO] [1754804322.810975929] [demo_robot_controller]: PLOTDATA, 5.13, 5.13, 0.79[0m
+[0m[INFO] [1754804322.845754187] [demo_robot_controller]: PLOTDATA, 5.15, 5.14, 0.79[0m
+[0m[INFO] [1754804322.880642335] [demo_robot_controller]: PLOTDATA, 5.16, 5.15, 0.79[0m
+[0m[INFO] [1754804322.915376349] [demo_robot_controller]: PLOTDATA, 5.18, 5.17, 0.79[0m
+[0m[INFO] [1754804322.949657191] [demo_robot_controller]: PLOTDATA, 5.19, 5.18, 0.79[0m
+[0m[INFO] [1754804322.978370285] [demo_robot_controller]: Odom: X: 5.19, Y: 5.18, Theta: 0.79[0m
+[0m[INFO] [1754804322.978431000] [demo_robot_controller]: Moving straight. X_o: 5.19, Y_o: 5.18, X_g: 10.00, Y_g: 10.00, Linear Vel: 0.60[0m
+[0m[INFO] [1754804322.984054344] [demo_robot_controller]: PLOTDATA, 5.21, 5.20, 0.79[0m
+[0m[INFO] [1754804323.018313454] [demo_robot_controller]: PLOTDATA, 5.22, 5.21, 0.79[0m
+[0m[INFO] [1754804323.052785239] [demo_robot_controller]: PLOTDATA, 5.24, 5.23, 0.79[0m
+[0m[INFO] [1754804323.086984025] [demo_robot_controller]: PLOTDATA, 5.25, 5.24, 0.79[0m
+[0m[INFO] [1754804323.121969918] [demo_robot_controller]: PLOTDATA, 5.26, 5.26, 0.79[0m
+[0m[INFO] [1754804323.156084383] [demo_robot_controller]: PLOTDATA, 5.28, 5.27, 0.79[0m
+[0m[INFO] [1754804323.178372687] [demo_robot_controller]: Odom: X: 5.28, Y: 5.27, Theta: 0.79[0m
+[0m[INFO] [1754804323.178433974] [demo_robot_controller]: Moving straight. X_o: 5.28, Y_o: 5.27, X_g: 10.00, Y_g: 10.00, Linear Vel: 0.60[0m
+[0m[INFO] [1754804323.190668171] [demo_robot_controller]: PLOTDATA, 5.29, 5.28, 0.79[0m
+[0m[INFO] [1754804323.224953551] [demo_robot_controller]: PLOTDATA, 5.31, 5.30, 0.79[0m
+[0m[INFO] [1754804323.258980529] [demo_robot_controller]: PLOTDATA, 5.32, 5.31, 0.79[0m
+[0m[INFO] [1754804323.293028728] [demo_robot_controller]: PLOTDATA, 5.34, 5.33, 0.79[0m
+[0m[INFO] [1754804323.326962820] [demo_robot_controller]: PLOTDATA, 5.35, 5.34, 0.79[0m
+[0m[INFO] [1754804323.361925028] [demo_robot_controller]: PLOTDATA, 5.36, 5.36, 0.79[0m
+[0m[INFO] [1754804323.378377715] [demo_robot_controller]: Odom: X: 5.36, Y: 5.36, Theta: 0.79[0m
+[0m[INFO] [1754804323.378440274] [demo_robot_controller]: Moving straight. X_o: 5.36, Y_o: 5.36, X_g: 10.00, Y_g: 10.00, Linear Vel: 0.60[0m
+[0m[INFO] [1754804323.395997533] [demo_robot_controller]: PLOTDATA, 5.38, 5.37, 0.79[0m
+[0m[INFO] [1754804323.430913524] [demo_robot_controller]: PLOTDATA, 5.39, 5.39, 0.79[0m
+[0m[INFO] [1754804323.465184296] [demo_robot_controller]: PLOTDATA, 5.41, 5.40, 0.79[0m
+[0m[INFO] [1754804323.499580587] [demo_robot_controller]: PLOTDATA, 5.42, 5.41, 0.79[0m
+[0m[INFO] [1754804323.534278352] [demo_robot_controller]: PLOTDATA, 5.44, 5.43, 0.79[0m
+[0m[INFO] [1754804323.568560025] [demo_robot_controller]: PLOTDATA, 5.45, 5.44, 0.79[0m
+[0m[INFO] [1754804323.578375248] [demo_robot_controller]: Odom: X: 5.45, Y: 5.44, Theta: 0.79[0m
+[0m[INFO] [1754804323.578415515] [demo_robot_controller]: Moving straight. X_o: 5.45, Y_o: 5.44, X_g: 10.00, Y_g: 10.00, Linear Vel: 0.60[0m
+[0m[INFO] [1754804323.603078700] [demo_robot_controller]: PLOTDATA, 5.47, 5.46, 0.79[0m
+[0m[INFO] [1754804323.637720488] [demo_robot_controller]: PLOTDATA, 5.48, 5.47, 0.79[0m
+[0m[INFO] [1754804323.671955302] [demo_robot_controller]: PLOTDATA, 5.49, 5.49, 0.79[0m
+[0m[INFO] [1754804323.706483204] [demo_robot_controller]: PLOTDATA, 5.51, 5.50, 0.79[0m
+[0m[INFO] [1754804323.740911947] [demo_robot_controller]: PLOTDATA, 5.52, 5.52, 0.79[0m
+[0m[INFO] [1754804323.774972510] [demo_robot_controller]: PLOTDATA, 5.54, 5.53, 0.79[0m
+[0m[INFO] [1754804323.778377301] [demo_robot_controller]: Odom: X: 5.54, Y: 5.53, Theta: 0.79[0m
+[0m[INFO] [1754804323.778417868] [demo_robot_controller]: Moving straight. X_o: 5.54, Y_o: 5.53, X_g: 10.00, Y_g: 10.00, Linear Vel: 0.60[0m
+[0m[INFO] [1754804323.809641550] [demo_robot_controller]: PLOTDATA, 5.55, 5.54, 0.79[0m
+[0m[INFO] [1754804323.844111462] [demo_robot_controller]: PLOTDATA, 5.57, 5.56, 0.79[0m
+[0m[INFO] [1754804323.878532771] [demo_robot_controller]: PLOTDATA, 5.58, 5.57, 0.79[0m
+[0m[INFO] [1754804323.913003684] [demo_robot_controller]: PLOTDATA, 5.60, 5.59, 0.79[0m
+[0m[INFO] [1754804323.947124391] [demo_robot_controller]: PLOTDATA, 5.61, 5.60, 0.79[0m
+[0m[INFO] [1754804323.978398730] [demo_robot_controller]: Odom: X: 5.61, Y: 5.60, Theta: 0.79[0m
+[0m[INFO] [1754804323.978465016] [demo_robot_controller]: Moving straight. X_o: 5.61, Y_o: 5.60, X_g: 10.00, Y_g: 10.00, Linear Vel: 0.60[0m
+[0m[INFO] [1754804323.981088299] [demo_robot_controller]: PLOTDATA, 5.62, 5.62, 0.79[0m
+[0m[INFO] [1754804324.015959264] [demo_robot_controller]: PLOTDATA, 5.64, 5.63, 0.79[0m
+[0m[INFO] [1754804324.050040045] [demo_robot_controller]: PLOTDATA, 5.65, 5.65, 0.79[0m
+[0m[INFO] [1754804324.084448750] [demo_robot_controller]: PLOTDATA, 5.67, 5.66, 0.79[0m
+[0m[INFO] [1754804324.118924221] [demo_robot_controller]: PLOTDATA, 5.68, 5.67, 0.79[0m
+[0m[INFO] [1754804324.153447775] [demo_robot_controller]: PLOTDATA, 5.70, 5.69, 0.79[0m
+[0m[INFO] [1754804324.178402014] [demo_robot_controller]: Odom: X: 5.70, Y: 5.69, Theta: 0.79[0m
+[0m[INFO] [1754804324.178462279] [demo_robot_controller]: Moving straight. X_o: 5.70, Y_o: 5.69, X_g: 10.00, Y_g: 10.00, Linear Vel: 0.60[0m
+[0m[INFO] [1754804324.187958454] [demo_robot_controller]: PLOTDATA, 5.71, 5.70, 0.79[0m
+[0m[INFO] [1754804324.221932081] [demo_robot_controller]: PLOTDATA, 5.73, 5.72, 0.79[0m
+[0m[INFO] [1754804324.256569411] [demo_robot_controller]: PLOTDATA, 5.74, 5.73, 0.79[0m
+[0m[INFO] [1754804324.290934533] [demo_robot_controller]: PLOTDATA, 5.75, 5.75, 0.79[0m
+[0m[INFO] [1754804324.325262113] [demo_robot_controller]: PLOTDATA, 5.77, 5.76, 0.79[0m
+[0m[INFO] [1754804324.359790005] [demo_robot_controller]: PLOTDATA, 5.78, 5.78, 0.79[0m
+[0m[INFO] [1754804324.378404847] [demo_robot_controller]: Odom: X: 5.78, Y: 5.78, Theta: 0.79[0m
+[0m[INFO] [1754804324.378464370] [demo_robot_controller]: Moving straight. X_o: 5.78, Y_o: 5.78, X_g: 10.00, Y_g: 10.00, Linear Vel: 0.60[0m
+[0m[INFO] [1754804324.394342914] [demo_robot_controller]: PLOTDATA, 5.80, 5.79, 0.79[0m
+[0m[INFO] [1754804324.428869383] [demo_robot_controller]: PLOTDATA, 5.81, 5.80, 0.79[0m
+[0m[INFO] [1754804324.462913083] [demo_robot_controller]: PLOTDATA, 5.83, 5.82, 0.79[0m
+[0m[INFO] [1754804324.496959759] [demo_robot_controller]: PLOTDATA, 5.84, 5.83, 0.79[0m
+[0m[INFO] [1754804324.531025211] [demo_robot_controller]: PLOTDATA, 5.85, 5.85, 0.79[0m
+[0m[INFO] [1754804324.565904982] [demo_robot_controller]: PLOTDATA, 5.87, 5.86, 0.79[0m
+[0m[INFO] [1754804324.578409293] [demo_robot_controller]: Odom: X: 5.87, Y: 5.86, Theta: 0.79[0m
+[0m[INFO] [1754804324.578469017] [demo_robot_controller]: Moving straight. X_o: 5.87, Y_o: 5.86, X_g: 10.00, Y_g: 10.00, Linear Vel: 0.60[0m
+[0m[INFO] [1754804324.600520080] [demo_robot_controller]: PLOTDATA, 5.88, 5.88, 0.79[0m
+[0m[INFO] [1754804324.634943282] [demo_robot_controller]: PLOTDATA, 5.90, 5.89, 0.79[0m
+[0m[INFO] [1754804324.668909124] [demo_robot_controller]: PLOTDATA, 5.91, 5.91, 0.79[0m
+[0m[INFO] [1754804324.703434111] [demo_robot_controller]: PLOTDATA, 5.93, 5.92, 0.79[0m
+[0m[INFO] [1754804324.738160981] [demo_robot_controller]: PLOTDATA, 5.94, 5.93, 0.79[0m
+[0m[INFO] [1754804324.772780096] [demo_robot_controller]: PLOTDATA, 5.96, 5.95, 0.79[0m
+[0m[INFO] [1754804324.778411355] [demo_robot_controller]: Odom: X: 5.96, Y: 5.95, Theta: 0.79[0m
+[0m[INFO] [1754804324.778450600] [demo_robot_controller]: Moving straight. X_o: 5.96, Y_o: 5.95, X_g: 10.00, Y_g: 10.00, Linear Vel: 0.60[0m
+[0m[INFO] [1754804324.806978481] [demo_robot_controller]: PLOTDATA, 5.97, 5.96, 0.79[0m
+[0m[INFO] [1754804324.841213465] [demo_robot_controller]: PLOTDATA, 5.98, 5.98, 0.79[0m
+[0m[INFO] [1754804324.875905209] [demo_robot_controller]: PLOTDATA, 6.00, 5.99, 0.79[0m
+[0m[INFO] [1754804324.909985709] [demo_robot_controller]: PLOTDATA, 6.01, 6.01, 0.79[0m
+[0m[INFO] [1754804324.944174856] [demo_robot_controller]: PLOTDATA, 6.03, 6.02, 0.79[0m
+[0m[INFO] [1754804324.978425831] [demo_robot_controller]: Odom: X: 6.03, Y: 6.02, Theta: 0.79[0m
+[0m[INFO] [1754804324.978487849] [demo_robot_controller]: Moving straight. X_o: 6.03, Y_o: 6.02, X_g: 10.00, Y_g: 10.00, Linear Vel: 0.60[0m
+[0m[INFO] [1754804324.978801786] [demo_robot_controller]: PLOTDATA, 6.04, 6.04, 0.79[0m
+[0m[INFO] [1754804325.013023084] [demo_robot_controller]: PLOTDATA, 6.06, 6.05, 0.79[0m
+[0m[INFO] [1754804325.047153269] [demo_robot_controller]: PLOTDATA, 6.07, 6.06, 0.79[0m
+[0m[INFO] [1754804325.081511808] [demo_robot_controller]: PLOTDATA, 6.09, 6.08, 0.79[0m
+[0m[INFO] [1754804325.115996778] [demo_robot_controller]: PLOTDATA, 6.10, 6.09, 0.79[0m
+[0m[INFO] [1754804325.149981476] [demo_robot_controller]: PLOTDATA, 6.11, 6.11, 0.79[0m
+[0m[INFO] [1754804325.178431769] [demo_robot_controller]: Odom: X: 6.11, Y: 6.11, Theta: 0.79[0m
+[0m[INFO] [1754804325.178494058] [demo_robot_controller]: Moving straight. X_o: 6.11, Y_o: 6.11, X_g: 10.00, Y_g: 10.00, Linear Vel: 0.60[0m
+[0m[INFO] [1754804325.184097113] [demo_robot_controller]: PLOTDATA, 6.13, 6.12, 0.79[0m
+[0m[INFO] [1754804325.218912361] [demo_robot_controller]: PLOTDATA, 6.14, 6.14, 0.79[0m
+[0m[INFO] [1754804325.252919282] [demo_robot_controller]: PLOTDATA, 6.16, 6.15, 0.79[0m
+[0m[INFO] [1754804325.287636453] [demo_robot_controller]: PLOTDATA, 6.17, 6.17, 0.79[0m
+[0m[INFO] [1754804325.321964735] [demo_robot_controller]: PLOTDATA, 6.19, 6.18, 0.79[0m
+[0m[INFO] [1754804325.356246158] [demo_robot_controller]: PLOTDATA, 6.20, 6.19, 0.79[0m
+[0m[INFO] [1754804325.378437037] [demo_robot_controller]: Odom: X: 6.20, Y: 6.19, Theta: 0.79[0m
+[0m[INFO] [1754804325.378496009] [demo_robot_controller]: Moving straight. X_o: 6.20, Y_o: 6.19, X_g: 10.00, Y_g: 10.00, Linear Vel: 0.60[0m
+[0m[INFO] [1754804325.390911240] [demo_robot_controller]: PLOTDATA, 6.22, 6.21, 0.79[0m
+[0m[INFO] [1754804325.425530877] [demo_robot_controller]: PLOTDATA, 6.23, 6.22, 0.79[0m
+[0m[INFO] [1754804325.460220035] [demo_robot_controller]: PLOTDATA, 6.24, 6.24, 0.79[0m
+[0m[INFO] [1754804325.494789085] [demo_robot_controller]: PLOTDATA, 6.26, 6.25, 0.79[0m
+[0m[INFO] [1754804325.529227998] [demo_robot_controller]: PLOTDATA, 6.27, 6.27, 0.79[0m
+[0m[INFO] [1754804325.563972271] [demo_robot_controller]: PLOTDATA, 6.29, 6.28, 0.79[0m
+[0m[INFO] [1754804325.578445650] [demo_robot_controller]: Odom: X: 6.29, Y: 6.28, Theta: 0.79[0m
+[0m[INFO] [1754804325.578514331] [demo_robot_controller]: Moving straight. X_o: 6.29, Y_o: 6.28, X_g: 10.00, Y_g: 10.00, Linear Vel: 0.60[0m
+[0m[INFO] [1754804325.598013216] [demo_robot_controller]: PLOTDATA, 6.30, 6.30, 0.79[0m
+[0m[INFO] [1754804325.632218373] [demo_robot_controller]: PLOTDATA, 6.32, 6.31, 0.79[0m
+[0m[INFO] [1754804325.666761314] [demo_robot_controller]: PLOTDATA, 6.33, 6.32, 0.79[0m
+[0m[INFO] [1754804325.700941904] [demo_robot_controller]: PLOTDATA, 6.34, 6.34, 0.79[0m
+[0m[INFO] [1754804325.734940128] [demo_robot_controller]: PLOTDATA, 6.36, 6.35, 0.79[0m
+[0m[INFO] [1754804325.768928933] [demo_robot_controller]: PLOTDATA, 6.37, 6.37, 0.79[0m
+[0m[INFO] [1754804325.778437602] [demo_robot_controller]: Odom: X: 6.37, Y: 6.37, Theta: 0.79[0m
+[0m[INFO] [1754804325.778480273] [demo_robot_controller]: Moving straight. X_o: 6.37, Y_o: 6.37, X_g: 10.00, Y_g: 10.00, Linear Vel: 0.60[0m
+[0m[INFO] [1754804325.803531297] [demo_robot_controller]: PLOTDATA, 6.39, 6.38, 0.79[0m
+[0m[INFO] [1754804325.837994485] [demo_robot_controller]: PLOTDATA, 6.40, 6.40, 0.79[0m
+[0m[INFO] [1754804325.871969965] [demo_robot_controller]: PLOTDATA, 6.42, 6.41, 0.79[0m
+[0m[INFO] [1754804325.906611133] [demo_robot_controller]: PLOTDATA, 6.43, 6.43, 0.79[0m
+[0m[INFO] [1754804325.940961476] [demo_robot_controller]: PLOTDATA, 6.45, 6.44, 0.79[0m
+[0m[INFO] [1754804325.974957976] [demo_robot_controller]: PLOTDATA, 6.46, 6.45, 0.79[0m
+[0m[INFO] [1754804325.978443350] [demo_robot_controller]: Odom: X: 6.46, Y: 6.45, Theta: 0.79[0m
+[0m[INFO] [1754804325.978481653] [demo_robot_controller]: Moving straight. X_o: 6.46, Y_o: 6.45, X_g: 10.00, Y_g: 10.00, Linear Vel: 0.60[0m
+[0m[INFO] [1754804326.009893855] [demo_robot_controller]: PLOTDATA, 6.47, 6.47, 0.79[0m
+[0m[INFO] [1754804326.044659318] [demo_robot_controller]: PLOTDATA, 6.49, 6.48, 0.79[0m
+[0m[INFO] [1754804326.078968614] [demo_robot_controller]: PLOTDATA, 6.50, 6.50, 0.79[0m
+[0m[INFO] [1754804326.113345869] [demo_robot_controller]: PLOTDATA, 6.52, 6.51, 0.79[0m
+[0m[INFO] [1754804326.148208197] [demo_robot_controller]: PLOTDATA, 6.53, 6.53, 0.79[0m
+[0m[INFO] [1754804326.178461251] [demo_robot_controller]: Odom: X: 6.53, Y: 6.53, Theta: 0.79[0m
+[0m[INFO] [1754804326.178524963] [demo_robot_controller]: Moving straight. X_o: 6.53, Y_o: 6.53, X_g: 10.00, Y_g: 10.00, Linear Vel: 0.60[0m
+[0m[INFO] [1754804326.182259671] [demo_robot_controller]: PLOTDATA, 6.55, 6.54, 0.79[0m
+[0m[INFO] [1754804326.216081800] [demo_robot_controller]: PLOTDATA, 6.56, 6.56, 0.79[0m
+[0m[INFO] [1754804326.250888512] [demo_robot_controller]: PLOTDATA, 6.58, 6.57, 0.79[0m
+[0m[INFO] [1754804326.284944846] [demo_robot_controller]: PLOTDATA, 6.59, 6.58, 0.79[0m
+[0m[INFO] [1754804326.319100289] [demo_robot_controller]: PLOTDATA, 6.60, 6.60, 0.79[0m
+[0m[INFO] [1754804326.353918052] [demo_robot_controller]: PLOTDATA, 6.62, 6.61, 0.79[0m
+[0m[INFO] [1754804326.378463623] [demo_robot_controller]: Odom: X: 6.62, Y: 6.61, Theta: 0.79[0m
+[0m[INFO] [1754804326.378528556] [demo_robot_controller]: Moving straight. X_o: 6.62, Y_o: 6.61, X_g: 10.00, Y_g: 10.00, Linear Vel: 0.60[0m
+[0m[INFO] [1754804326.388084866] [demo_robot_controller]: PLOTDATA, 6.63, 6.63, 0.79[0m
+[0m[INFO] [1754804326.422859397] [demo_robot_controller]: PLOTDATA, 6.65, 6.64, 0.79[0m
+[0m[INFO] [1754804326.456982829] [demo_robot_controller]: PLOTDATA, 6.66, 6.66, 0.79[0m
+[0m[INFO] [1754804326.491218664] [demo_robot_controller]: PLOTDATA, 6.68, 6.67, 0.79[0m
+[0m[INFO] [1754804326.526294329] [demo_robot_controller]: PLOTDATA, 6.69, 6.69, 0.79[0m
+[0m[INFO] [1754804326.560763368] [demo_robot_controller]: PLOTDATA, 6.71, 6.70, 0.79[0m
+[0m[INFO] [1754804326.578471023] [demo_robot_controller]: Odom: X: 6.71, Y: 6.70, Theta: 0.79[0m
+[0m[INFO] [1754804326.578531579] [demo_robot_controller]: Moving straight. X_o: 6.71, Y_o: 6.70, X_g: 10.00, Y_g: 10.00, Linear Vel: 0.60[0m
+[0m[INFO] [1754804326.594972022] [demo_robot_controller]: PLOTDATA, 6.72, 6.71, 0.79[0m
+[0m[INFO] [1754804326.629288291] [demo_robot_controller]: PLOTDATA, 6.73, 6.73, 0.79[0m
+[0m[INFO] [1754804326.663969825] [demo_robot_controller]: PLOTDATA, 6.75, 6.74, 0.79[0m
+[0m[INFO] [1754804326.698429496] [demo_robot_controller]: PLOTDATA, 6.76, 6.76, 0.79[0m
+[0m[INFO] [1754804326.732878728] [demo_robot_controller]: PLOTDATA, 6.78, 6.77, 0.79[0m
+[0m[INFO] [1754804326.767094646] [demo_robot_controller]: PLOTDATA, 6.79, 6.79, 0.79[0m
+[0m[INFO] [1754804326.778467433] [demo_robot_controller]: Odom: X: 6.79, Y: 6.79, Theta: 0.79[0m
+[0m[INFO] [1754804326.778514673] [demo_robot_controller]: Moving straight. X_o: 6.79, Y_o: 6.79, X_g: 10.00, Y_g: 10.00, Linear Vel: 0.60[0m
+[0m[INFO] [1754804326.801363384] [demo_robot_controller]: PLOTDATA, 6.81, 6.80, 0.79[0m
+[0m[INFO] [1754804326.835907176] [demo_robot_controller]: PLOTDATA, 6.82, 6.82, 0.79[0m
+[0m[INFO] [1754804326.870053501] [demo_robot_controller]: PLOTDATA, 6.83, 6.83, 0.79[0m
+[0m[INFO] [1754804326.904398635] [demo_robot_controller]: PLOTDATA, 6.85, 6.84, 0.79[0m
+[0m[INFO] [1754804326.939099887] [demo_robot_controller]: PLOTDATA, 6.86, 6.86, 0.79[0m
+[0m[INFO] [1754804326.973668416] [demo_robot_controller]: PLOTDATA, 6.88, 6.87, 0.79[0m
+[0m[INFO] [1754804326.978468192] [demo_robot_controller]: Odom: X: 6.88, Y: 6.87, Theta: 0.79[0m
+[0m[INFO] [1754804326.978542152] [demo_robot_controller]: Moving straight. X_o: 6.88, Y_o: 6.87, X_g: 10.00, Y_g: 10.00, Linear Vel: 0.60[0m
+[0m[INFO] [1754804327.007923748] [demo_robot_controller]: PLOTDATA, 6.89, 6.89, 0.79[0m
+[0m[INFO] [1754804327.042163862] [demo_robot_controller]: PLOTDATA, 6.91, 6.90, 0.79[0m
+[0m[INFO] [1754804327.076632170] [demo_robot_controller]: PLOTDATA, 6.92, 6.92, 0.79[0m
+[0m[INFO] [1754804327.110917600] [demo_robot_controller]: PLOTDATA, 6.94, 6.93, 0.79[0m
+[0m[INFO] [1754804327.145201637] [demo_robot_controller]: PLOTDATA, 6.95, 6.95, 0.79[0m
+[0m[INFO] [1754804327.178497584] [demo_robot_controller]: Odom: X: 6.95, Y: 6.95, Theta: 0.79[0m
+[0m[INFO] [1754804327.178560914] [demo_robot_controller]: Moving straight. X_o: 6.95, Y_o: 6.95, X_g: 10.00, Y_g: 10.00, Linear Vel: 0.60[0m
+[0m[INFO] [1754804327.179675616] [demo_robot_controller]: PLOTDATA, 6.96, 6.96, 0.79[0m
+[0m[INFO] [1754804327.214051809] [demo_robot_controller]: PLOTDATA, 6.98, 6.97, 0.79[0m
+[0m[INFO] [1754804327.248123933] [demo_robot_controller]: PLOTDATA, 6.99, 6.99, 0.79[0m
+[0m[INFO] [1754804327.282825745] [demo_robot_controller]: PLOTDATA, 7.01, 7.00, 0.79[0m
+[0m[INFO] [1754804327.317048145] [demo_robot_controller]: PLOTDATA, 7.02, 7.02, 0.79[0m
+[0m[INFO] [1754804327.351019788] [demo_robot_controller]: PLOTDATA, 7.04, 7.03, 0.79[0m
+[0m[INFO] [1754804327.378494174] [demo_robot_controller]: Odom: X: 7.04, Y: 7.03, Theta: 0.79[0m
+[0m[INFO] [1754804327.378556452] [demo_robot_controller]: Moving straight. X_o: 7.04, Y_o: 7.03, X_g: 10.00, Y_g: 10.00, Linear Vel: 0.60[0m
+[0m[INFO] [1754804327.385615899] [demo_robot_controller]: PLOTDATA, 7.05, 7.05, 0.79[0m
+[0m[INFO] [1754804327.419955192] [demo_robot_controller]: PLOTDATA, 7.07, 7.06, 0.79[0m
+[0m[INFO] [1754804327.454436404] [demo_robot_controller]: PLOTDATA, 7.08, 7.08, 0.79[0m
+[0m[INFO] [1754804327.488930471] [demo_robot_controller]: PLOTDATA, 7.09, 7.09, 0.79[0m
+[0m[INFO] [1754804327.523451089] [demo_robot_controller]: PLOTDATA, 7.11, 7.10, 0.79[0m
+[0m[INFO] [1754804327.557941830] [demo_robot_controller]: PLOTDATA, 7.12, 7.12, 0.79[0m
+[0m[INFO] [1754804327.578495262] [demo_robot_controller]: Odom: X: 7.12, Y: 7.12, Theta: 0.79[0m
+[0m[INFO] [1754804327.578554044] [demo_robot_controller]: Moving straight. X_o: 7.12, Y_o: 7.12, X_g: 10.00, Y_g: 10.00, Linear Vel: 0.60[0m
+[0m[INFO] [1754804327.591955292] [demo_robot_controller]: PLOTDATA, 7.14, 7.13, 0.79[0m
+[0m[INFO] [1754804327.625937184] [demo_robot_controller]: PLOTDATA, 7.15, 7.15, 0.79[0m
+[0m[INFO] [1754804327.659941880] [demo_robot_controller]: PLOTDATA, 7.17, 7.16, 0.79[0m
+[0m[INFO] [1754804327.693953388] [demo_robot_controller]: PLOTDATA, 7.18, 7.18, 0.79[0m
+[0m[INFO] [1754804327.728812440] [demo_robot_controller]: PLOTDATA, 7.20, 7.19, 0.79[0m
+[0m[INFO] [1754804327.762949989] [demo_robot_controller]: PLOTDATA, 7.21, 7.21, 0.79[0m
+[0m[INFO] [1754804327.778505417] [demo_robot_controller]: Odom: X: 7.21, Y: 7.21, Theta: 0.79[0m
+[0m[INFO] [1754804327.778567906] [demo_robot_controller]: Moving straight. X_o: 7.21, Y_o: 7.21, X_g: 10.00, Y_g: 10.00, Linear Vel: 0.60[0m
+[0m[INFO] [1754804327.798103501] [demo_robot_controller]: PLOTDATA, 7.22, 7.22, 0.79[0m
+[0m[INFO] [1754804327.832234737] [demo_robot_controller]: PLOTDATA, 7.24, 7.23, 0.79[0m
+[0m[INFO] [1754804327.866727652] [demo_robot_controller]: PLOTDATA, 7.25, 7.25, 0.79[0m
+[0m[INFO] [1754804327.901410789] [demo_robot_controller]: PLOTDATA, 7.27, 7.26, 0.79[0m
+[0m[INFO] [1754804327.935941246] [demo_robot_controller]: PLOTDATA, 7.28, 7.28, 0.79[0m
+[0m[INFO] [1754804327.969961340] [demo_robot_controller]: PLOTDATA, 7.30, 7.29, 0.79[0m
+[0m[INFO] [1754804327.978501887] [demo_robot_controller]: Odom: X: 7.30, Y: 7.29, Theta: 0.79[0m
+[0m[INFO] [1754804327.978550329] [demo_robot_controller]: Moving straight. X_o: 7.30, Y_o: 7.29, X_g: 10.00, Y_g: 10.00, Linear Vel: 0.60[0m
+[0m[INFO] [1754804328.004520632] [demo_robot_controller]: PLOTDATA, 7.31, 7.31, 0.79[0m
+[0m[INFO] [1754804328.038916402] [demo_robot_controller]: PLOTDATA, 7.33, 7.32, 0.79[0m
+[0m[INFO] [1754804328.073160072] [demo_robot_controller]: PLOTDATA, 7.34, 7.33, 0.79[0m
+[0m[INFO] [1754804328.107871453] [demo_robot_controller]: PLOTDATA, 7.35, 7.35, 0.79[0m
+[0m[INFO] [1754804328.141970417] [demo_robot_controller]: PLOTDATA, 7.37, 7.36, 0.79[0m
+[0m[INFO] [1754804328.176034416] [demo_robot_controller]: PLOTDATA, 7.38, 7.38, 0.79[0m
+[0m[INFO] [1754804328.178499157] [demo_robot_controller]: Odom: X: 7.38, Y: 7.38, Theta: 0.79[0m
+[0m[INFO] [1754804328.178535517] [demo_robot_controller]: Moving straight. X_o: 7.38, Y_o: 7.38, X_g: 10.00, Y_g: 10.00, Linear Vel: 0.60[0m
+[0m[INFO] [1754804328.209961584] [demo_robot_controller]: PLOTDATA, 7.40, 7.39, 0.79[0m
+[0m[INFO] [1754804328.244837658] [demo_robot_controller]: PLOTDATA, 7.41, 7.41, 0.79[0m
+[0m[INFO] [1754804328.279044899] [demo_robot_controller]: PLOTDATA, 7.43, 7.42, 0.79[0m
+[0m[INFO] [1754804328.313415000] [demo_robot_controller]: PLOTDATA, 7.44, 7.44, 0.79[0m
+[0m[INFO] [1754804328.348550328] [demo_robot_controller]: PLOTDATA, 7.45, 7.45, 0.79[0m
+[0m[INFO] [1754804328.378519542] [demo_robot_controller]: Odom: X: 7.45, Y: 7.45, Theta: 0.79[0m
+[0m[INFO] [1754804328.378582021] [demo_robot_controller]: Moving straight. X_o: 7.45, Y_o: 7.45, X_g: 10.00, Y_g: 10.00, Linear Vel: 0.60[0m
+[0m[INFO] [1754804328.383154414] [demo_robot_controller]: PLOTDATA, 7.47, 7.46, 0.79[0m
+[0m[INFO] [1754804328.417653410] [demo_robot_controller]: PLOTDATA, 7.48, 7.48, 0.79[0m
+[0m[INFO] [1754804328.451932328] [demo_robot_controller]: PLOTDATA, 7.50, 7.49, 0.79[0m
+[0m[INFO] [1754804328.486098140] [demo_robot_controller]: PLOTDATA, 7.51, 7.51, 0.79[0m
+[0m[INFO] [1754804328.520742673] [demo_robot_controller]: PLOTDATA, 7.53, 7.52, 0.79[0m
+[0m[INFO] [1754804328.554952549] [demo_robot_controller]: PLOTDATA, 7.54, 7.54, 0.79[0m
+[0m[INFO] [1754804328.578529266] [demo_robot_controller]: Odom: X: 7.54, Y: 7.54, Theta: 0.79[0m
+[0m[INFO] [1754804328.578602515] [demo_robot_controller]: Moving straight. X_o: 7.54, Y_o: 7.54, X_g: 10.00, Y_g: 10.00, Linear Vel: 0.60[0m
+[0m[INFO] [1754804328.588940964] [demo_robot_controller]: PLOTDATA, 7.56, 7.55, 0.79[0m
+[0m[INFO] [1754804328.622927936] [demo_robot_controller]: PLOTDATA, 7.57, 7.57, 0.79[0m
+[0m[INFO] [1754804328.657006552] [demo_robot_controller]: PLOTDATA, 7.58, 7.58, 0.79[0m
+[0m[INFO] [1754804328.691256444] [demo_robot_controller]: PLOTDATA, 7.60, 7.59, 0.79[0m
+[0m[INFO] [1754804328.725984426] [demo_robot_controller]: PLOTDATA, 7.61, 7.61, 0.79[0m
+[0m[INFO] [1754804328.760723239] [demo_robot_controller]: PLOTDATA, 7.63, 7.62, 0.79[0m
+[0m[INFO] [1754804328.778509774] [demo_robot_controller]: Odom: X: 7.63, Y: 7.62, Theta: 0.79[0m
+[0m[INFO] [1754804328.778557545] [demo_robot_controller]: Moving straight. X_o: 7.63, Y_o: 7.62, X_g: 10.00, Y_g: 10.00, Linear Vel: 0.60[0m
+[0m[INFO] [1754804328.795454047] [demo_robot_controller]: PLOTDATA, 7.64, 7.64, 0.79[0m
+[0m[INFO] [1754804328.829980956] [demo_robot_controller]: PLOTDATA, 7.66, 7.65, 0.79[0m
+[0m[INFO] [1754804328.864744125] [demo_robot_controller]: PLOTDATA, 7.67, 7.67, 0.79[0m
+[0m[INFO] [1754804328.899304248] [demo_robot_controller]: PLOTDATA, 7.69, 7.68, 0.79[0m
+[0m[INFO] [1754804328.934116581] [demo_robot_controller]: PLOTDATA, 7.70, 7.70, 0.79[0m
+[0m[INFO] [1754804328.968429162] [demo_robot_controller]: PLOTDATA, 7.71, 7.71, 0.79[0m
+[0m[INFO] [1754804328.978522434] [demo_robot_controller]: Odom: X: 7.71, Y: 7.71, Theta: 0.79[0m
+[0m[INFO] [1754804328.978556629] [demo_robot_controller]: Moving straight. X_o: 7.71, Y_o: 7.71, X_g: 10.00, Y_g: 10.00, Linear Vel: 0.60[0m
+[0m[INFO] [1754804329.002789715] [demo_robot_controller]: PLOTDATA, 7.73, 7.72, 0.79[0m
+[0m[INFO] [1754804329.037026162] [demo_robot_controller]: PLOTDATA, 7.74, 7.74, 0.79[0m
+[0m[INFO] [1754804329.070950364] [demo_robot_controller]: PLOTDATA, 7.76, 7.75, 0.79[0m
+[0m[INFO] [1754804329.105584688] [demo_robot_controller]: PLOTDATA, 7.77, 7.77, 0.79[0m
+[0m[INFO] [1754804329.139996248] [demo_robot_controller]: PLOTDATA, 7.79, 7.78, 0.79[0m
+[0m[INFO] [1754804329.173984822] [demo_robot_controller]: PLOTDATA, 7.80, 7.80, 0.79[0m
+[0m[INFO] [1754804329.178531146] [demo_robot_controller]: Odom: X: 7.80, Y: 7.80, Theta: 0.79[0m
+[0m[INFO] [1754804329.178566223] [demo_robot_controller]: Moving straight. X_o: 7.80, Y_o: 7.80, X_g: 10.00, Y_g: 10.00, Linear Vel: 0.60[0m
+[0m[INFO] [1754804329.208232490] [demo_robot_controller]: PLOTDATA, 7.82, 7.81, 0.79[0m
+[0m[INFO] [1754804329.242998355] [demo_robot_controller]: PLOTDATA, 7.83, 7.83, 0.79[0m
+[0m[INFO] [1754804329.277013540] [demo_robot_controller]: PLOTDATA, 7.84, 7.84, 0.79[0m
+[0m[INFO] [1754804329.311873493] [demo_robot_controller]: PLOTDATA, 7.86, 7.85, 0.79[0m
+[0m[INFO] [1754804329.345927843] [demo_robot_controller]: PLOTDATA, 7.87, 7.87, 0.79[0m
+[0m[INFO] [1754804329.378549987] [demo_robot_controller]: Odom: X: 7.87, Y: 7.87, Theta: 0.79[0m
+[0m[INFO] [1754804329.378623838] [demo_robot_controller]: Moving straight. X_o: 7.87, Y_o: 7.87, X_g: 10.00, Y_g: 10.00, Linear Vel: 0.60[0m
+[0m[INFO] [1754804329.379954250] [demo_robot_controller]: PLOTDATA, 7.89, 7.88, 0.79[0m
+[0m[INFO] [1754804329.414739160] [demo_robot_controller]: PLOTDATA, 7.90, 7.90, 0.79[0m
+[0m[INFO] [1754804329.449450310] [demo_robot_controller]: PLOTDATA, 7.92, 7.91, 0.79[0m
+[0m[INFO] [1754804329.483975236] [demo_robot_controller]: PLOTDATA, 7.93, 7.93, 0.79[0m
+[0m[INFO] [1754804329.518381907] [demo_robot_controller]: PLOTDATA, 7.94, 7.94, 0.79[0m
+[0m[INFO] [1754804329.552965835] [demo_robot_controller]: PLOTDATA, 7.96, 7.96, 0.79[0m
+[0m[INFO] [1754804329.578552647] [demo_robot_controller]: Odom: X: 7.96, Y: 7.96, Theta: 0.79[0m
+[0m[INFO] [1754804329.578623642] [demo_robot_controller]: Moving straight. X_o: 7.96, Y_o: 7.96, X_g: 10.00, Y_g: 10.00, Linear Vel: 0.60[0m
+[0m[INFO] [1754804329.587200388] [demo_robot_controller]: PLOTDATA, 7.97, 7.97, 0.79[0m
+[0m[INFO] [1754804329.621664037] [demo_robot_controller]: PLOTDATA, 7.99, 7.98, 0.79[0m
+[0m[INFO] [1754804329.656019530] [demo_robot_controller]: PLOTDATA, 8.00, 8.00, 0.79[0m
+[0m[INFO] [1754804329.690129996] [demo_robot_controller]: PLOTDATA, 8.02, 8.01, 0.79[0m
+[0m[INFO] [1754804329.724739924] [demo_robot_controller]: PLOTDATA, 8.03, 8.03, 0.79[0m
+[0m[INFO] [1754804329.759099765] [demo_robot_controller]: PLOTDATA, 8.05, 8.04, 0.79[0m
+[0m[INFO] [1754804329.778557281] [demo_robot_controller]: Odom: X: 8.05, Y: 8.04, Theta: 0.79[0m
+[0m[INFO] [1754804329.778629348] [demo_robot_controller]: Moving straight. X_o: 8.05, Y_o: 8.04, X_g: 10.00, Y_g: 10.00, Linear Vel: 0.60[0m
+[0m[INFO] [1754804329.793587350] [demo_robot_controller]: PLOTDATA, 8.06, 8.06, 0.79[0m
+[0m[INFO] [1754804329.827975926] [demo_robot_controller]: PLOTDATA, 8.07, 8.07, 0.79[0m
+[0m[INFO] [1754804329.861940936] [demo_robot_controller]: PLOTDATA, 8.09, 8.09, 0.79[0m
+[0m[INFO] [1754804329.896305967] [demo_robot_controller]: PLOTDATA, 8.10, 8.10, 0.79[0m
+[0m[INFO] [1754804329.930994754] [demo_robot_controller]: PLOTDATA, 8.12, 8.11, 0.79[0m
+[0m[INFO] [1754804329.965730471] [demo_robot_controller]: PLOTDATA, 8.13, 8.13, 0.79[0m
+[0m[INFO] [1754804329.978557787] [demo_robot_controller]: Odom: X: 8.13, Y: 8.13, Theta: 0.79[0m
+[0m[INFO] [1754804329.978615617] [demo_robot_controller]: Moving straight. X_o: 8.13, Y_o: 8.13, X_g: 10.00, Y_g: 10.00, Linear Vel: 0.60[0m
+[0m[INFO] [1754804330.000024147] [demo_robot_controller]: PLOTDATA, 8.15, 8.14, 0.79[0m
+[0m[INFO] [1754804330.034371855] [demo_robot_controller]: PLOTDATA, 8.16, 8.16, 0.79[0m
+[0m[INFO] [1754804330.068711097] [demo_robot_controller]: PLOTDATA, 8.18, 8.17, 0.79[0m
+[0m[INFO] [1754804330.102944628] [demo_robot_controller]: PLOTDATA, 8.19, 8.19, 0.79[0m
+[0m[INFO] [1754804330.136985031] [demo_robot_controller]: PLOTDATA, 8.20, 8.20, 0.79[0m
+[0m[INFO] [1754804330.171404256] [demo_robot_controller]: PLOTDATA, 8.22, 8.22, 0.79[0m
+[0m[INFO] [1754804330.178554606] [demo_robot_controller]: Odom: X: 8.22, Y: 8.22, Theta: 0.79[0m
+[0m[INFO] [1754804330.178591897] [demo_robot_controller]: Moving straight. X_o: 8.22, Y_o: 8.22, X_g: 10.00, Y_g: 10.00, Linear Vel: 0.60[0m
+[0m[INFO] [1754804330.205950472] [demo_robot_controller]: PLOTDATA, 8.23, 8.23, 0.79[0m
+[0m[INFO] [1754804330.240158614] [demo_robot_controller]: PLOTDATA, 8.25, 8.24, 0.79[0m
+[0m[INFO] [1754804330.274655897] [demo_robot_controller]: PLOTDATA, 8.26, 8.26, 0.79[0m
+[0m[INFO] [1754804330.308963068] [demo_robot_controller]: PLOTDATA, 8.28, 8.27, 0.79[0m
+[0m[INFO] [1754804330.343001317] [demo_robot_controller]: PLOTDATA, 8.29, 8.29, 0.79[0m
+[0m[INFO] [1754804330.377342243] [demo_robot_controller]: PLOTDATA, 8.31, 8.30, 0.79[0m
+[0m[INFO] [1754804330.378562225] [demo_robot_controller]: Odom: X: 8.31, Y: 8.30, Theta: 0.79[0m
+[0m[INFO] [1754804330.378623151] [demo_robot_controller]: Moving straight. X_o: 8.31, Y_o: 8.30, X_g: 10.00, Y_g: 10.00, Linear Vel: 0.60[0m
+[0m[INFO] [1754804330.411994501] [demo_robot_controller]: PLOTDATA, 8.32, 8.32, 0.79[0m
+[0m[INFO] [1754804330.445978587] [demo_robot_controller]: PLOTDATA, 8.33, 8.33, 0.79[0m
+[0m[INFO] [1754804330.479918168] [demo_robot_controller]: PLOTDATA, 8.35, 8.35, 0.79[0m
+[0m[INFO] [1754804330.515012908] [demo_robot_controller]: PLOTDATA, 8.36, 8.36, 0.79[0m
+[0m[INFO] [1754804330.549440328] [demo_robot_controller]: PLOTDATA, 8.38, 8.37, 0.79[0m
+[0m[INFO] [1754804330.578590203] [demo_robot_controller]: Odom: X: 8.38, Y: 8.37, Theta: 0.79[0m
+[0m[INFO] [1754804330.578652611] [demo_robot_controller]: Moving straight. X_o: 8.38, Y_o: 8.37, X_g: 10.00, Y_g: 10.00, Linear Vel: 0.60[0m
+[0m[INFO] [1754804330.584131079] [demo_robot_controller]: PLOTDATA, 8.39, 8.39, 0.79[0m
+[0m[INFO] [1754804330.618640155] [demo_robot_controller]: PLOTDATA, 8.41, 8.40, 0.79[0m
+[0m[INFO] [1754804330.653538040] [demo_robot_controller]: PLOTDATA, 8.42, 8.42, 0.79[0m
+[0m[INFO] [1754804330.687896609] [demo_robot_controller]: PLOTDATA, 8.43, 8.43, 0.79[0m
+[0m[INFO] [1754804330.721976908] [demo_robot_controller]: PLOTDATA, 8.45, 8.45, 0.79[0m
+[0m[INFO] [1754804330.756378629] [demo_robot_controller]: PLOTDATA, 8.46, 8.46, 0.79[0m
+[0m[INFO] [1754804330.778595928] [demo_robot_controller]: Odom: X: 8.46, Y: 8.46, Theta: 0.79[0m
+[0m[INFO] [1754804330.778659990] [demo_robot_controller]: Moving straight. X_o: 8.46, Y_o: 8.46, X_g: 10.00, Y_g: 10.00, Linear Vel: 0.60[0m
+[0m[INFO] [1754804330.790834614] [demo_robot_controller]: PLOTDATA, 8.48, 8.48, 0.79[0m
+[0m[INFO] [1754804330.824926134] [demo_robot_controller]: PLOTDATA, 8.49, 8.49, 0.79[0m
+[0m[INFO] [1754804330.859518117] [demo_robot_controller]: PLOTDATA, 8.51, 8.50, 0.79[0m
+[0m[INFO] [1754804330.893933634] [demo_robot_controller]: PLOTDATA, 8.52, 8.52, 0.79[0m
+[0m[INFO] [1754804330.927929603] [demo_robot_controller]: PLOTDATA, 8.54, 8.53, 0.79[0m
+[0m[INFO] [1754804330.962629121] [demo_robot_controller]: PLOTDATA, 8.55, 8.55, 0.79[0m
+[0m[INFO] [1754804330.978595662] [demo_robot_controller]: Odom: X: 8.55, Y: 8.55, Theta: 0.79[0m
+[0m[INFO] [1754804330.978657690] [demo_robot_controller]: Moving straight. X_o: 8.55, Y_o: 8.55, X_g: 10.00, Y_g: 10.00, Linear Vel: 0.60[0m
+[0m[INFO] [1754804330.996988752] [demo_robot_controller]: PLOTDATA, 8.56, 8.56, 0.79[0m
+[0m[INFO] [1754804331.031772751] [demo_robot_controller]: PLOTDATA, 8.58, 8.58, 0.79[0m
+[0m[INFO] [1754804331.066083729] [demo_robot_controller]: PLOTDATA, 8.59, 8.59, 0.79[0m
+[0m[INFO] [1754804331.100269709] [demo_robot_controller]: PLOTDATA, 8.61, 8.61, 0.79[0m
+[0m[INFO] [1754804331.134702389] [demo_robot_controller]: PLOTDATA, 8.62, 8.62, 0.79[0m
+[0m[INFO] [1754804331.169137934] [demo_robot_controller]: PLOTDATA, 8.64, 8.63, 0.79[0m
+[0m[INFO] [1754804331.178616967] [demo_robot_controller]: Odom: X: 8.64, Y: 8.63, Theta: 0.79[0m
+[0m[INFO] [1754804331.178667473] [demo_robot_controller]: Moving straight. X_o: 8.64, Y_o: 8.63, X_g: 10.00, Y_g: 10.00, Linear Vel: 0.60[0m
+[0m[INFO] [1754804331.203569171] [demo_robot_controller]: PLOTDATA, 8.65, 8.65, 0.79[0m
+[0m[INFO] [1754804331.238247789] [demo_robot_controller]: PLOTDATA, 8.67, 8.66, 0.79[0m
+[0m[INFO] [1754804331.272760171] [demo_robot_controller]: PLOTDATA, 8.68, 8.68, 0.79[0m
+[0m[INFO] [1754804331.306976319] [demo_robot_controller]: PLOTDATA, 8.69, 8.69, 0.79[0m
+[0m[INFO] [1754804331.340979801] [demo_robot_controller]: PLOTDATA, 8.71, 8.71, 0.79[0m
+[0m[INFO] [1754804331.374983505] [demo_robot_controller]: PLOTDATA, 8.72, 8.72, 0.79[0m
+[0m[INFO] [1754804331.378597033] [demo_robot_controller]: Odom: X: 8.72, Y: 8.72, Theta: 0.79[0m
+[0m[INFO] [1754804331.378633382] [demo_robot_controller]: Moving straight. X_o: 8.72, Y_o: 8.72, X_g: 10.00, Y_g: 10.00, Linear Vel: 0.60[0m
+[0m[INFO] [1754804331.409294503] [demo_robot_controller]: PLOTDATA, 8.74, 8.74, 0.79[0m
+[0m[INFO] [1754804331.443943154] [demo_robot_controller]: PLOTDATA, 8.75, 8.75, 0.79[0m
+[0m[INFO] [1754804331.477961195] [demo_robot_controller]: PLOTDATA, 8.77, 8.76, 0.79[0m
+[0m[INFO] [1754804331.511938929] [demo_robot_controller]: PLOTDATA, 8.78, 8.78, 0.79[0m
+[0m[INFO] [1754804331.546331973] [demo_robot_controller]: PLOTDATA, 8.80, 8.79, 0.79[0m
+[0m[INFO] [1754804331.578616454] [demo_robot_controller]: Odom: X: 8.80, Y: 8.79, Theta: 0.79[0m
+[0m[INFO] [1754804331.578678342] [demo_robot_controller]: Moving straight. X_o: 8.80, Y_o: 8.79, X_g: 10.00, Y_g: 10.00, Linear Vel: 0.60[0m
+[0m[INFO] [1754804331.580930779] [demo_robot_controller]: PLOTDATA, 8.81, 8.81, 0.79[0m
+[0m[INFO] [1754804331.615747580] [demo_robot_controller]: PLOTDATA, 8.82, 8.82, 0.79[0m
+[0m[INFO] [1754804331.649967164] [demo_robot_controller]: PLOTDATA, 8.84, 8.84, 0.79[0m
+[0m[INFO] [1754804331.684105053] [demo_robot_controller]: PLOTDATA, 8.85, 8.85, 0.79[0m
+[0m[INFO] [1754804331.718813277] [demo_robot_controller]: PLOTDATA, 8.87, 8.87, 0.79[0m
+[0m[INFO] [1754804331.753415780] [demo_robot_controller]: PLOTDATA, 8.88, 8.88, 0.79[0m
+[0m[INFO] [1754804331.778604966] [demo_robot_controller]: Odom: X: 8.88, Y: 8.88, Theta: 0.79[0m
+[0m[INFO] [1754804331.778666173] [demo_robot_controller]: Moving straight. X_o: 8.88, Y_o: 8.88, X_g: 10.00, Y_g: 10.00, Linear Vel: 0.60[0m
+[0m[INFO] [1754804331.787957348] [demo_robot_controller]: PLOTDATA, 8.90, 8.89, 0.79[0m
+[0m[INFO] [1754804331.822038859] [demo_robot_controller]: PLOTDATA, 8.91, 8.91, 0.79[0m
+[0m[INFO] [1754804331.855923666] [demo_robot_controller]: PLOTDATA, 8.92, 8.92, 0.79[0m
+[0m[INFO] [1754804331.889916869] [demo_robot_controller]: PLOTDATA, 8.94, 8.94, 0.79[0m
+[0m[INFO] [1754804331.924229721] [demo_robot_controller]: PLOTDATA, 8.95, 8.95, 0.79[0m
+[0m[INFO] [1754804331.958991718] [demo_robot_controller]: PLOTDATA, 8.97, 8.97, 0.79[0m
+[0m[INFO] [1754804331.978608226] [demo_robot_controller]: Odom: X: 8.97, Y: 8.97, Theta: 0.79[0m
+[0m[INFO] [1754804331.978668711] [demo_robot_controller]: Moving straight. X_o: 8.97, Y_o: 8.97, X_g: 10.00, Y_g: 10.00, Linear Vel: 0.60[0m
+[0m[INFO] [1754804331.993268581] [demo_robot_controller]: PLOTDATA, 8.98, 8.98, 0.79[0m
+[0m[INFO] [1754804332.028305902] [demo_robot_controller]: PLOTDATA, 9.00, 9.00, 0.79[0m
+[0m[INFO] [1754804332.062989469] [demo_robot_controller]: PLOTDATA, 9.01, 9.01, 0.79[0m
+[0m[INFO] [1754804332.097128129] [demo_robot_controller]: PLOTDATA, 9.03, 9.02, 0.79[0m
+[0m[INFO] [1754804332.131634870] [demo_robot_controller]: PLOTDATA, 9.04, 9.04, 0.79[0m
+[0m[INFO] [1754804332.166019348] [demo_robot_controller]: PLOTDATA, 9.05, 9.05, 0.79[0m
+[0m[INFO] [1754804332.178606777] [demo_robot_controller]: Odom: X: 9.05, Y: 9.05, Theta: 0.79[0m
+[0m[INFO] [1754804332.178668925] [demo_robot_controller]: Moving straight. X_o: 9.05, Y_o: 9.05, X_g: 10.00, Y_g: 10.00, Linear Vel: 0.60[0m
+[0m[INFO] [1754804332.200011549] [demo_robot_controller]: PLOTDATA, 9.07, 9.07, 0.79[0m
+[0m[INFO] [1754804332.234737397] [demo_robot_controller]: PLOTDATA, 9.08, 9.08, 0.79[0m
+[0m[INFO] [1754804332.269353195] [demo_robot_controller]: PLOTDATA, 9.10, 9.10, 0.79[0m
+[0m[INFO] [1754804332.303941211] [demo_robot_controller]: PLOTDATA, 9.11, 9.11, 0.79[0m
+[0m[INFO] [1754804332.338379050] [demo_robot_controller]: PLOTDATA, 9.13, 9.13, 0.79[0m
+[0m[INFO] [1754804332.372855403] [demo_robot_controller]: PLOTDATA, 9.14, 9.14, 0.79[0m
+[0m[INFO] [1754804332.378599477] [demo_robot_controller]: Odom: X: 9.14, Y: 9.14, Theta: 0.79[0m
+[0m[INFO] [1754804332.378633982] [demo_robot_controller]: Moving straight. X_o: 9.14, Y_o: 9.14, X_g: 10.00, Y_g: 10.00, Linear Vel: 0.60[0m
+[0m[INFO] [1754804332.407316547] [demo_robot_controller]: PLOTDATA, 9.16, 9.15, 0.79[0m
+[0m[INFO] [1754804332.441747564] [demo_robot_controller]: PLOTDATA, 9.17, 9.17, 0.79[0m
+[0m[INFO] [1754804332.476019688] [demo_robot_controller]: PLOTDATA, 9.18, 9.18, 0.79[0m
+[0m[INFO] [1754804332.510198845] [demo_robot_controller]: PLOTDATA, 9.20, 9.20, 0.79[0m
+[0m[INFO] [1754804332.544656683] [demo_robot_controller]: PLOTDATA, 9.21, 9.21, 0.79[0m
+[0m[INFO] [1754804332.578608036] [demo_robot_controller]: Odom: X: 9.21, Y: 9.21, Theta: 0.79[0m
+[0m[INFO] [1754804332.578661318] [demo_robot_controller]: Moving straight. X_o: 9.21, Y_o: 9.21, X_g: 10.00, Y_g: 10.00, Linear Vel: 0.56[0m
+[0m[INFO] [1754804332.579128858] [demo_robot_controller]: PLOTDATA, 9.23, 9.23, 0.79[0m
+[0m[INFO] [1754804332.613637242] [demo_robot_controller]: PLOTDATA, 9.24, 9.24, 0.79[0m
+[0m[INFO] [1754804332.647976483] [demo_robot_controller]: PLOTDATA, 9.25, 9.25, 0.79[0m
+[0m[INFO] [1754804332.682524162] [demo_robot_controller]: PLOTDATA, 9.27, 9.27, 0.79[0m
+[0m[INFO] [1754804332.716962733] [demo_robot_controller]: PLOTDATA, 9.28, 9.28, 0.79[0m
+[0m[INFO] [1754804332.750950947] [demo_robot_controller]: PLOTDATA, 9.29, 9.29, 0.79[0m
+[0m[INFO] [1754804332.778606156] [demo_robot_controller]: Odom: X: 9.29, Y: 9.29, Theta: 0.79[0m
+[0m[INFO] [1754804332.778660620] [demo_robot_controller]: Moving straight. X_o: 9.29, Y_o: 9.29, X_g: 10.00, Y_g: 10.00, Linear Vel: 0.50[0m
+[0m[INFO] [1754804332.784978616] [demo_robot_controller]: PLOTDATA, 9.31, 9.31, 0.79[0m
+[0m[INFO] [1754804332.818912055] [demo_robot_controller]: PLOTDATA, 9.32, 9.32, 0.79[0m
+[0m[INFO] [1754804332.852941688] [demo_robot_controller]: PLOTDATA, 9.33, 9.33, 0.79[0m
+[0m[INFO] [1754804332.887553418] [demo_robot_controller]: PLOTDATA, 9.34, 9.34, 0.79[0m
+[0m[INFO] [1754804332.921918309] [demo_robot_controller]: PLOTDATA, 9.36, 9.35, 0.79[0m
+[0m[INFO] [1754804332.956290213] [demo_robot_controller]: PLOTDATA, 9.37, 9.37, 0.79[0m
+[0m[INFO] [1754804332.978638171] [demo_robot_controller]: Odom: X: 9.37, Y: 9.37, Theta: 0.79[0m
+[0m[INFO] [1754804332.978711029] [demo_robot_controller]: Moving straight. X_o: 9.37, Y_o: 9.37, X_g: 10.00, Y_g: 10.00, Linear Vel: 0.45[0m
+[0m[INFO] [1754804332.990873540] [demo_robot_controller]: PLOTDATA, 9.38, 9.38, 0.79[0m
+[0m[INFO] [1754804333.025211299] [demo_robot_controller]: PLOTDATA, 9.39, 9.39, 0.79[0m
+[0m[INFO] [1754804333.059983144] [demo_robot_controller]: PLOTDATA, 9.40, 9.40, 0.79[0m
+[0m[INFO] [1754804333.094294152] [demo_robot_controller]: PLOTDATA, 9.41, 9.41, 0.79[0m
+[0m[INFO] [1754804333.129034718] [demo_robot_controller]: PLOTDATA, 9.42, 9.42, 0.79[0m
+[0m[INFO] [1754804333.163531479] [demo_robot_controller]: PLOTDATA, 9.43, 9.43, 0.79[0m
+[0m[INFO] [1754804333.178605071] [demo_robot_controller]: Odom: X: 9.43, Y: 9.43, Theta: 0.79[0m
+[0m[INFO] [1754804333.178662400] [demo_robot_controller]: Moving straight. X_o: 9.43, Y_o: 9.43, X_g: 10.00, Y_g: 10.00, Linear Vel: 0.40[0m
+[0m[INFO] [1754804333.198129935] [demo_robot_controller]: PLOTDATA, 9.44, 9.44, 0.79[0m
+[0m[INFO] [1754804333.232322026] [demo_robot_controller]: PLOTDATA, 9.45, 9.45, 0.79[0m
+[0m[INFO] [1754804333.266550908] [demo_robot_controller]: PLOTDATA, 9.46, 9.46, 0.79[0m
+[0m[INFO] [1754804333.300932110] [demo_robot_controller]: PLOTDATA, 9.47, 9.47, 0.79[0m
+[0m[INFO] [1754804333.334957514] [demo_robot_controller]: PLOTDATA, 9.48, 9.48, 0.79[0m
+[0m[INFO] [1754804333.369088039] [demo_robot_controller]: PLOTDATA, 9.49, 9.49, 0.79[0m
+[0m[INFO] [1754804333.378653977] [demo_robot_controller]: Odom: X: 9.49, Y: 9.49, Theta: 0.79[0m
+[0m[INFO] [1754804333.378707038] [demo_robot_controller]: Moving straight. X_o: 9.49, Y_o: 9.49, X_g: 10.00, Y_g: 10.00, Linear Vel: 0.36[0m
+[0m[INFO] [1754804333.403893618] [demo_robot_controller]: PLOTDATA, 9.50, 9.50, 0.79[0m
+[0m[INFO] [1754804333.437956624] [demo_robot_controller]: PLOTDATA, 9.51, 9.51, 0.79[0m
+[0m[INFO] [1754804333.472335672] [demo_robot_controller]: PLOTDATA, 9.52, 9.52, 0.79[0m
+[0m[INFO] [1754804333.506939377] [demo_robot_controller]: PLOTDATA, 9.53, 9.53, 0.79[0m
+[0m[INFO] [1754804333.541454764] [demo_robot_controller]: PLOTDATA, 9.53, 9.53, 0.79[0m
+[0m[INFO] [1754804333.575980521] [demo_robot_controller]: PLOTDATA, 9.54, 9.54, 0.79[0m
+[0m[INFO] [1754804333.578659550] [demo_robot_controller]: Odom: X: 9.54, Y: 9.54, Theta: 0.79[0m
+[0m[INFO] [1754804333.578709676] [demo_robot_controller]: Moving straight. X_o: 9.54, Y_o: 9.54, X_g: 10.00, Y_g: 10.00, Linear Vel: 0.32[0m
+[0m[INFO] [1754804333.610004413] [demo_robot_controller]: PLOTDATA, 9.55, 9.55, 0.79[0m
+[0m[INFO] [1754804333.644873443] [demo_robot_controller]: PLOTDATA, 9.56, 9.56, 0.79[0m
+[0m[INFO] [1754804333.679572239] [demo_robot_controller]: PLOTDATA, 9.57, 9.57, 0.79[0m
+[0m[INFO] [1754804333.714017312] [demo_robot_controller]: PLOTDATA, 9.57, 9.57, 0.79[0m
+[0m[INFO] [1754804333.748400037] [demo_robot_controller]: PLOTDATA, 9.58, 9.58, 0.79[0m
+[0m[INFO] [1754804333.778670865] [demo_robot_controller]: Odom: X: 9.58, Y: 9.58, Theta: 0.79[0m
+[0m[INFO] [1754804333.778733394] [demo_robot_controller]: Moving straight. X_o: 9.58, Y_o: 9.58, X_g: 10.00, Y_g: 10.00, Linear Vel: 0.30[0m
+[0m[INFO] [1754804333.782873504] [demo_robot_controller]: PLOTDATA, 9.59, 9.59, 0.79[0m
+[0m[INFO] [1754804333.816978089] [demo_robot_controller]: PLOTDATA, 9.60, 9.60, 0.79[0m
+[0m[INFO] [1754804333.850945674] [demo_robot_controller]: PLOTDATA, 9.60, 9.60, 0.79[0m
+[0m[INFO] [1754804333.885041903] [demo_robot_controller]: PLOTDATA, 9.61, 9.61, 0.79[0m
+[0m[INFO] [1754804333.919906334] [demo_robot_controller]: PLOTDATA, 9.62, 9.62, 0.79[0m
+[0m[INFO] [1754804333.953944934] [demo_robot_controller]: PLOTDATA, 9.63, 9.62, 0.79[0m
+[0m[INFO] [1754804333.978678402] [demo_robot_controller]: Odom: X: 9.63, Y: 9.62, Theta: 0.79[0m
+[0m[INFO] [1754804333.978774495] [demo_robot_controller]: Moving straight. X_o: 9.63, Y_o: 9.62, X_g: 10.00, Y_g: 10.00, Linear Vel: 0.26[0m
+[0m[INFO] [1754804333.988636406] [demo_robot_controller]: PLOTDATA, 9.63, 9.63, 0.79[0m
+[0m[INFO] [1754804334.022985707] [demo_robot_controller]: PLOTDATA, 9.64, 9.64, 0.79[0m
+[0m[INFO] [1754804334.057521954] [demo_robot_controller]: PLOTDATA, 9.65, 9.64, 0.79[0m
+[0m[INFO] [1754804334.092501344] [demo_robot_controller]: PLOTDATA, 9.65, 9.65, 0.79[0m
+[0m[INFO] [1754804334.126972116] [demo_robot_controller]: PLOTDATA, 9.66, 9.66, 0.79[0m
+[0m[INFO] [1754804334.161483976] [demo_robot_controller]: PLOTDATA, 9.66, 9.66, 0.79[0m
+[0m[INFO] [1754804334.178676291] [demo_robot_controller]: Odom: X: 9.66, Y: 9.66, Theta: 0.79[0m
+[0m[INFO] [1754804334.178731496] [demo_robot_controller]: Moving straight. X_o: 9.66, Y_o: 9.66, X_g: 10.00, Y_g: 10.00, Linear Vel: 0.24[0m
+[0m[INFO] [1754804334.195910144] [demo_robot_controller]: PLOTDATA, 9.67, 9.67, 0.79[0m
+[0m[INFO] [1754804334.229971957] [demo_robot_controller]: PLOTDATA, 9.68, 9.68, 0.79[0m
+[0m[INFO] [1754804334.263969599] [demo_robot_controller]: PLOTDATA, 9.68, 9.68, 0.79[0m
+[0m[INFO] [1754804334.298013518] [demo_robot_controller]: PLOTDATA, 9.69, 9.69, 0.79[0m
+[0m[INFO] [1754804334.332881066] [demo_robot_controller]: PLOTDATA, 9.69, 9.69, 0.79[0m
+[0m[INFO] [1754804334.366965152] [demo_robot_controller]: PLOTDATA, 9.70, 9.70, 0.79[0m
+[0m[INFO] [1754804334.378685090] [demo_robot_controller]: Odom: X: 9.70, Y: 9.70, Theta: 0.79[0m
+[0m[INFO] [1754804334.378744393] [demo_robot_controller]: Moving straight. X_o: 9.70, Y_o: 9.70, X_g: 10.00, Y_g: 10.00, Linear Vel: 0.21[0m
+[0m[INFO] [1754804334.401830134] [demo_robot_controller]: PLOTDATA, 9.70, 9.70, 0.79[0m
+[0m[INFO] [1754804334.436025983] [demo_robot_controller]: PLOTDATA, 9.71, 9.71, 0.79[0m
+[0m[INFO] [1754804334.470054974] [demo_robot_controller]: PLOTDATA, 9.71, 9.71, 0.79[0m
+[0m[INFO] [1754804334.504948331] [demo_robot_controller]: PLOTDATA, 9.72, 9.72, 0.79[0m
+[0m[INFO] [1754804334.538950100] [demo_robot_controller]: PLOTDATA, 9.72, 9.72, 0.79[0m
+[0m[INFO] [1754804334.573004630] [demo_robot_controller]: PLOTDATA, 9.73, 9.73, 0.79[0m
+[0m[INFO] [1754804334.578679241] [demo_robot_controller]: Odom: X: 9.73, Y: 9.73, Theta: 0.79[0m
+[0m[INFO] [1754804334.578716271] [demo_robot_controller]: Moving straight. X_o: 9.73, Y_o: 9.73, X_g: 10.00, Y_g: 10.00, Linear Vel: 0.19[0m
+[0m[INFO] [1754804334.607309887] [demo_robot_controller]: PLOTDATA, 9.73, 9.73, 0.79[0m
+[0m[INFO] [1754804334.642209325] [demo_robot_controller]: PLOTDATA, 9.74, 9.74, 0.79[0m
+[0m[INFO] [1754804334.676914203] [demo_robot_controller]: PLOTDATA, 9.74, 9.74, 0.79[0m
+[0m[INFO] [1754804334.710969554] [demo_robot_controller]: PLOTDATA, 9.75, 9.75, 0.79[0m
+[0m[INFO] [1754804334.744935134] [demo_robot_controller]: PLOTDATA, 9.75, 9.75, 0.79[0m
+[0m[INFO] [1754804334.778709371] [demo_robot_controller]: Odom: X: 9.75, Y: 9.75, Theta: 0.79[0m
+[0m[INFO] [1754804334.778870337] [demo_robot_controller]: Moving straight. X_o: 9.75, Y_o: 9.75, X_g: 10.00, Y_g: 10.00, Linear Vel: 0.17[0m
+[0m[INFO] [1754804334.779955232] [demo_robot_controller]: PLOTDATA, 9.76, 9.76, 0.79[0m
+[0m[INFO] [1754804334.813956611] [demo_robot_controller]: PLOTDATA, 9.76, 9.76, 0.79[0m
+[0m[INFO] [1754804334.848124827] [demo_robot_controller]: PLOTDATA, 9.77, 9.77, 0.79[0m
+[0m[INFO] [1754804334.883124476] [demo_robot_controller]: PLOTDATA, 9.77, 9.77, 0.79[0m
+[0m[INFO] [1754804334.917961845] [demo_robot_controller]: PLOTDATA, 9.77, 9.77, 0.79[0m
+[0m[INFO] [1754804334.951952674] [demo_robot_controller]: PLOTDATA, 9.78, 9.78, 0.79[0m
+[0m[INFO] [1754804334.978707339] [demo_robot_controller]: Odom: X: 9.78, Y: 9.78, Theta: 0.79[0m
+[0m[INFO] [1754804334.978778254] [demo_robot_controller]: Moving straight. X_o: 9.78, Y_o: 9.78, X_g: 10.00, Y_g: 10.00, Linear Vel: 0.16[0m
+[0m[INFO] [1754804334.985955475] [demo_robot_controller]: PLOTDATA, 9.78, 9.78, 0.79[0m
+[0m[INFO] [1754804335.020112320] [demo_robot_controller]: PLOTDATA, 9.79, 9.79, 0.79[0m
+[0m[INFO] [1754804335.055178966] [demo_robot_controller]: PLOTDATA, 9.79, 9.79, 0.79[0m
+[0m[INFO] [1754804335.089859658] [demo_robot_controller]: PLOTDATA, 9.79, 9.79, 0.79[0m
+[0m[INFO] [1754804335.124101414] [demo_robot_controller]: PLOTDATA, 9.80, 9.80, 0.79[0m
+[0m[INFO] [1754804335.158764412] [demo_robot_controller]: PLOTDATA, 9.80, 9.80, 0.79[0m
+[0m[INFO] [1754804335.178720857] [demo_robot_controller]: Odom: X: 9.80, Y: 9.80, Theta: 0.79[0m
+[0m[INFO] [1754804335.178865803] [demo_robot_controller]: Moving straight. X_o: 9.80, Y_o: 9.80, X_g: 10.00, Y_g: 10.00, Linear Vel: 0.14[0m
+[0m[INFO] [1754804335.193045262] [demo_robot_controller]: PLOTDATA, 9.81, 9.80, 0.79[0m
+[0m[INFO] [1754804335.227681439] [demo_robot_controller]: PLOTDATA, 9.81, 9.81, 0.79[0m
+[0m[INFO] [1754804335.261959604] [demo_robot_controller]: PLOTDATA, 9.81, 9.81, 0.79[0m
+[0m[INFO] [1754804335.295932869] [demo_robot_controller]: PLOTDATA, 9.82, 9.81, 0.79[0m
+[0m[INFO] [1754804335.330465880] [demo_robot_controller]: PLOTDATA, 9.82, 9.82, 0.79[0m
+[0m[INFO] [1754804335.365138786] [demo_robot_controller]: PLOTDATA, 9.82, 9.82, 0.79[0m
+[0m[INFO] [1754804335.378723153] [demo_robot_controller]: Odom: X: 9.82, Y: 9.82, Theta: 0.79[0m
+[0m[INFO] [1754804335.378793717] [demo_robot_controller]: Moving straight. X_o: 9.82, Y_o: 9.82, X_g: 10.00, Y_g: 10.00, Linear Vel: 0.13[0m
+[0m[INFO] [1754804335.399174290] [demo_robot_controller]: PLOTDATA, 9.83, 9.82, 0.79[0m
+[0m[INFO] [1754804335.433023699] [demo_robot_controller]: PLOTDATA, 9.83, 9.83, 0.79[0m
+[0m[INFO] [1754804335.467179151] [demo_robot_controller]: PLOTDATA, 9.83, 9.83, 0.79[0m
+[0m[INFO] [1754804335.501938342] [demo_robot_controller]: PLOTDATA, 9.83, 9.83, 0.79[0m
+[0m[INFO] [1754804335.536708303] [demo_robot_controller]: PLOTDATA, 9.84, 9.84, 0.79[0m
+[0m[INFO] [1754804335.571445052] [demo_robot_controller]: PLOTDATA, 9.84, 9.84, 0.79[0m
+[0m[INFO] [1754804335.578715080] [demo_robot_controller]: Odom: X: 9.84, Y: 9.84, Theta: 0.79[0m
+[0m[INFO] [1754804335.578765766] [demo_robot_controller]: Moving straight. X_o: 9.84, Y_o: 9.84, X_g: 10.00, Y_g: 10.00, Linear Vel: 0.11[0m
+[0m[INFO] [1754804335.605963725] [demo_robot_controller]: PLOTDATA, 9.84, 9.84, 0.79[0m
+[0m[INFO] [1754804335.640018445] [demo_robot_controller]: PLOTDATA, 9.85, 9.85, 0.79[0m
+[0m[INFO] [1754804335.673957034] [demo_robot_controller]: PLOTDATA, 9.85, 9.85, 0.79[0m
+[0m[INFO] [1754804335.708003969] [demo_robot_controller]: PLOTDATA, 9.85, 9.85, 0.79[0m
+[0m[INFO] [1754804335.742748011] [demo_robot_controller]: PLOTDATA, 9.85, 9.85, 0.79[0m
+[0m[INFO] [1754804335.777636118] [demo_robot_controller]: PLOTDATA, 9.86, 9.86, 0.79[0m
+[0m[INFO] [1754804335.778719570] [demo_robot_controller]: Odom: X: 9.86, Y: 9.86, Theta: 0.79[0m
+[0m[INFO] [1754804335.778764656] [demo_robot_controller]: Moving straight. X_o: 9.86, Y_o: 9.86, X_g: 10.00, Y_g: 10.00, Linear Vel: 0.10[0m
+[0m[INFO] [1754804335.811944531] [demo_robot_controller]: PLOTDATA, 9.86, 9.86, 0.79[0m
+[0m[INFO] [1754804335.845972730] [demo_robot_controller]: PLOTDATA, 9.86, 9.86, 0.79[0m
+[0m[INFO] [1754804335.880695282] [demo_robot_controller]: PLOTDATA, 9.86, 9.86, 0.79[0m
+[0m[INFO] [1754804335.915872438] [demo_robot_controller]: PLOTDATA, 9.87, 9.87, 0.79[0m
+[0m[INFO] [1754804335.949973927] [demo_robot_controller]: PLOTDATA, 9.87, 9.87, 0.79[0m
+[0m[INFO] [1754804335.978730673] [demo_robot_controller]: Odom: X: 9.87, Y: 9.87, Theta: 0.79[0m
+[0m[INFO] [1754804335.978789084] [demo_robot_controller]: Moving straight. X_o: 9.87, Y_o: 9.87, X_g: 10.00, Y_g: 10.00, Linear Vel: 0.09[0m
+[0m[INFO] [1754804335.984097689] [demo_robot_controller]: PLOTDATA, 9.87, 9.87, 0.79[0m
+[0m[INFO] [1754804336.018730840] [demo_robot_controller]: PLOTDATA, 9.87, 9.87, 0.79[0m
+[0m[INFO] [1754804336.052947187] [demo_robot_controller]: PLOTDATA, 9.88, 9.88, 0.79[0m
+[0m[INFO] [1754804336.087869689] [demo_robot_controller]: PLOTDATA, 9.88, 9.88, 0.79[0m
+[0m[INFO] [1754804336.122623339] [demo_robot_controller]: PLOTDATA, 9.88, 9.88, 0.79[0m
+[0m[INFO] [1754804336.157151721] [demo_robot_controller]: PLOTDATA, 9.88, 9.88, 0.79[0m
+[0m[INFO] [1754804336.178743168] [demo_robot_controller]: Odom: X: 9.88, Y: 9.88, Theta: 0.79[0m
+[0m[INFO] [1754804336.178810146] [demo_robot_controller]: Moving straight. X_o: 9.88, Y_o: 9.88, X_g: 10.00, Y_g: 10.00, Linear Vel: 0.08[0m
+[0m[INFO] [1754804336.191598046] [demo_robot_controller]: PLOTDATA, 9.88, 9.88, 0.79[0m
+[0m[INFO] [1754804336.226001149] [demo_robot_controller]: PLOTDATA, 9.89, 9.89, 0.79[0m
+[0m[INFO] [1754804336.260141703] [demo_robot_controller]: PLOTDATA, 9.89, 9.89, 0.79[0m
+[0m[INFO] [1754804336.294651860] [demo_robot_controller]: PLOTDATA, 9.89, 9.89, 0.79[0m
+[0m[INFO] [1754804336.328972125] [demo_robot_controller]: PLOTDATA, 9.89, 9.89, 0.79[0m
+[0m[INFO] [1754804336.363019361] [demo_robot_controller]: PLOTDATA, 9.89, 9.89, 0.79[0m
+[0m[INFO] [1754804336.378742759] [demo_robot_controller]: Odom: X: 9.89, Y: 9.89, Theta: 0.79[0m
+[0m[INFO] [1754804336.378797653] [demo_robot_controller]: Moving straight. X_o: 9.89, Y_o: 9.89, X_g: 10.00, Y_g: 10.00, Linear Vel: 0.07[0m
+[0m[INFO] [1754804336.397306072] [demo_robot_controller]: PLOTDATA, 9.90, 9.90, 0.79[0m
+[0m[INFO] [1754804336.432132411] [demo_robot_controller]: PLOTDATA, 9.90, 9.90, 0.79[0m
+[0m[INFO] [1754804336.466570040] [demo_robot_controller]: PLOTDATA, 9.90, 9.90, 0.79[0m
+[0m[INFO] [1754804336.501052925] [demo_robot_controller]: PLOTDATA, 9.90, 9.90, 0.79[0m
+[0m[INFO] [1754804336.534948632] [demo_robot_controller]: PLOTDATA, 9.90, 9.90, 0.79[0m
+[0m[INFO] [1754804336.568951894] [demo_robot_controller]: PLOTDATA, 9.91, 9.91, 0.79[0m
+[0m[INFO] [1754804336.578744914] [demo_robot_controller]: Odom: X: 9.91, Y: 9.91, Theta: 0.79[0m
+[0m[INFO] [1754804336.578797013] [demo_robot_controller]: Moving straight. X_o: 9.91, Y_o: 9.91, X_g: 10.00, Y_g: 10.00, Linear Vel: 0.07[0m
+[0m[INFO] [1754804336.603118166] [demo_robot_controller]: PLOTDATA, 9.91, 9.91, 0.79[0m
+[0m[INFO] [1754804336.638110671] [demo_robot_controller]: PLOTDATA, 9.91, 9.91, 0.79[0m
+[0m[INFO] [1754804336.672740676] [demo_robot_controller]: PLOTDATA, 9.91, 9.91, 0.79[0m
+[0m[INFO] [1754804336.707408523] [demo_robot_controller]: PLOTDATA, 9.91, 9.91, 0.79[0m
+[0m[INFO] [1754804336.741807599] [demo_robot_controller]: PLOTDATA, 9.91, 9.91, 0.79[0m
+[0m[INFO] [1754804336.775985483] [demo_robot_controller]: PLOTDATA, 9.92, 9.91, 0.79[0m
+[0m[INFO] [1754804336.778743282] [demo_robot_controller]: Odom: X: 9.92, Y: 9.91, Theta: 0.79[0m
+[0m[INFO] [1754804336.778783749] [demo_robot_controller]: Moving straight. X_o: 9.92, Y_o: 9.91, X_g: 10.00, Y_g: 10.00, Linear Vel: 0.06[0m
+[0m[INFO] [1754804336.809995468] [demo_robot_controller]: PLOTDATA, 9.92, 9.92, 0.79[0m
+[0m[INFO] [1754804336.844260909] [demo_robot_controller]: PLOTDATA, 9.92, 9.92, 0.79[0m
+[0m[INFO] [1754804336.878973551] [demo_robot_controller]: PLOTDATA, 9.92, 9.92, 0.79[0m
+[0m[INFO] [1754804336.913557990] [demo_robot_controller]: PLOTDATA, 9.92, 9.92, 0.79[0m
+[0m[INFO] [1754804336.948447228] [demo_robot_controller]: PLOTDATA, 9.92, 9.92, 0.79[0m
+[0m[INFO] [1754804336.978767109] [demo_robot_controller]: Odom: X: 9.92, Y: 9.92, Theta: 0.79[0m
+[0m[INFO] [1754804336.978910763] [demo_robot_controller]: Moving straight. X_o: 9.92, Y_o: 9.92, X_g: 10.00, Y_g: 10.00, Linear Vel: 0.05[0m
+[0m[INFO] [1754804336.982724902] [demo_robot_controller]: PLOTDATA, 9.92, 9.92, 0.79[0m
+[0m[INFO] [1754804337.017039327] [demo_robot_controller]: PLOTDATA, 9.93, 9.92, 0.79[0m
+[0m[INFO] [1754804337.050992834] [demo_robot_controller]: PLOTDATA, 9.93, 9.93, 0.79[0m
+[0m[INFO] [1754804337.085192720] [demo_robot_controller]: PLOTDATA, 9.93, 9.93, 0.79[0m
+[0m[INFO] [1754804337.119818848] [demo_robot_controller]: PLOTDATA, 9.93, 9.93, 0.79[0m
+[0m[INFO] [1754804337.154072877] [demo_robot_controller]: PLOTDATA, 9.93, 9.93, 0.79[0m
+[0m[INFO] [1754804337.178770717] [demo_robot_controller]: Odom: X: 9.93, Y: 9.93, Theta: 0.79[0m
+[0m[INFO] [1754804337.178836682] [demo_robot_controller]: Moving straight. X_o: 9.93, Y_o: 9.93, X_g: 10.00, Y_g: 10.00, Linear Vel: 0.05[0m
+[0m[INFO] [1754804337.188670099] [demo_robot_controller]: PLOTDATA, 9.93, 9.93, 0.79[0m
+[0m[INFO] [1754804337.223101306] [demo_robot_controller]: PLOTDATA, 9.93, 9.93, 0.79[0m
+[0m[INFO] [1754804337.257664584] [demo_robot_controller]: PLOTDATA, 9.93, 9.93, 0.79[0m
+[0m[INFO] [1754804337.291977335] [demo_robot_controller]: PLOTDATA, 9.94, 9.94, 0.79[0m
+[0m[INFO] [1754804337.326524021] [demo_robot_controller]: PLOTDATA, 9.94, 9.94, 0.79[0m
+[0m[INFO] [1754804337.360919439] [demo_robot_controller]: PLOTDATA, 9.94, 9.94, 0.79[0m
+[0m[INFO] [1754804337.378780466] [demo_robot_controller]: Odom: X: 9.94, Y: 9.94, Theta: 0.79[0m
+[0m[INFO] [1754804337.378918259] [demo_robot_controller]: Moving straight. X_o: 9.94, Y_o: 9.94, X_g: 10.00, Y_g: 10.00, Linear Vel: 0.04[0m
+[0m[INFO] [1754804337.394900108] [demo_robot_controller]: PLOTDATA, 9.94, 9.94, 0.79[0m
+[0m[INFO] [1754804337.429000445] [demo_robot_controller]: PLOTDATA, 9.94, 9.94, 0.79[0m
+[0m[INFO] [1754804337.463416262] [demo_robot_controller]: PLOTDATA, 9.94, 9.94, 0.79[0m
+[0m[INFO] [1754804337.498013224] [demo_robot_controller]: PLOTDATA, 9.94, 9.94, 0.79[0m
+[0m[INFO] [1754804337.532690209] [demo_robot_controller]: PLOTDATA, 9.94, 9.94, 0.79[0m
+[0m[INFO] [1754804337.566983122] [demo_robot_controller]: PLOTDATA, 9.94, 9.94, 0.79[0m
+[0m[INFO] [1754804337.578773905] [demo_robot_controller]: Odom: X: 9.94, Y: 9.94, Theta: 0.79[0m
+[0m[INFO] [1754804337.578825513] [demo_robot_controller]: Moving straight. X_o: 9.94, Y_o: 9.94, X_g: 10.00, Y_g: 10.00, Linear Vel: 0.04[0m
+[0m[INFO] [1754804337.601177387] [demo_robot_controller]: PLOTDATA, 9.95, 9.94, 0.79[0m
+[0m[INFO] [1754804337.635662556] [demo_robot_controller]: PLOTDATA, 9.95, 9.95, 0.79[0m
+[0m[INFO] [1754804337.669895025] [demo_robot_controller]: PLOTDATA, 9.95, 9.95, 0.79[0m
+[0m[INFO] [1754804337.704368712] [demo_robot_controller]: PLOTDATA, 9.95, 9.95, 0.79[0m
+[0m[INFO] [1754804337.738956557] [demo_robot_controller]: PLOTDATA, 9.95, 9.95, 0.79[0m
+[0m[INFO] [1754804337.772944590] [demo_robot_controller]: PLOTDATA, 9.95, 9.95, 0.79[0m
+[0m[INFO] [1754804337.778771350] [demo_robot_controller]: Odom: X: 9.95, Y: 9.95, Theta: 0.79[0m
+[0m[INFO] [1754804337.778811246] [demo_robot_controller]: Moving straight. X_o: 9.95, Y_o: 9.95, X_g: 10.00, Y_g: 10.00, Linear Vel: 0.04[0m
+[0m[INFO] [1754804337.807552022] [demo_robot_controller]: PLOTDATA, 9.95, 9.95, 0.79[0m
+[0m[INFO] [1754804337.842235839] [demo_robot_controller]: PLOTDATA, 9.95, 9.95, 0.79[0m
+[0m[INFO] [1754804337.876715959] [demo_robot_controller]: PLOTDATA, 9.95, 9.95, 0.79[0m
+[0m[INFO] [1754804337.910913330] [demo_robot_controller]: PLOTDATA, 9.95, 9.95, 0.79[0m
+[0m[INFO] [1754804337.945377890] [demo_robot_controller]: PLOTDATA, 9.95, 9.95, 0.79[0m
+[0m[INFO] [1754804337.978792702] [demo_robot_controller]: Odom: X: 9.95, Y: 9.95, Theta: 0.79[0m
+[0m[INFO] [1754804337.978856173] [demo_robot_controller]: Moving straight. X_o: 9.95, Y_o: 9.95, X_g: 10.00, Y_g: 10.00, Linear Vel: 0.03[0m
+[0m[INFO] [1754804337.979908416] [demo_robot_controller]: PLOTDATA, 9.95, 9.95, 0.79[0m
+[0m[INFO] [1754804338.014009874] [demo_robot_controller]: PLOTDATA, 9.96, 9.96, 0.79[0m
+[0m[INFO] [1754804338.048131071] [demo_robot_controller]: PLOTDATA, 9.96, 9.96, 0.79[0m
+[0m[INFO] [1754804338.082157577] [demo_robot_controller]: PLOTDATA, 9.96, 9.96, 0.79[0m
+[0m[INFO] [1754804338.116532586] [demo_robot_controller]: PLOTDATA, 9.96, 9.96, 0.79[0m
+[0m[INFO] [1754804338.150999470] [demo_robot_controller]: PLOTDATA, 9.96, 9.96, 0.79[0m
+[0m[INFO] [1754804338.178794856] [demo_robot_controller]: Odom: X: 9.96, Y: 9.96, Theta: 0.79[0m
+[0m[INFO] [1754804338.178854550] [demo_robot_controller]: Moving straight. X_o: 9.96, Y_o: 9.96, X_g: 10.00, Y_g: 10.00, Linear Vel: 0.03[0m
+[0m[INFO] [1754804338.185518724] [demo_robot_controller]: PLOTDATA, 9.96, 9.96, 0.79[0m
+[0m[INFO] [1754804338.219918411] [demo_robot_controller]: PLOTDATA, 9.96, 9.96, 0.79[0m
+[0m[INFO] [1754804338.254547233] [demo_robot_controller]: PLOTDATA, 9.96, 9.96, 0.79[0m
+[0m[INFO] [1754804338.288962690] [demo_robot_controller]: PLOTDATA, 9.96, 9.96, 0.79[0m
+[0m[INFO] [1754804338.322986220] [demo_robot_controller]: PLOTDATA, 9.96, 9.96, 0.79[0m
+[0m[INFO] [1754804338.357199402] [demo_robot_controller]: PLOTDATA, 9.96, 9.96, 0.79[0m
+[0m[INFO] [1754804338.378799325] [demo_robot_controller]: Odom: X: 9.96, Y: 9.96, Theta: 0.79[0m
+[0m[INFO] [1754804338.378865140] [demo_robot_controller]: Moving straight. X_o: 9.96, Y_o: 9.96, X_g: 10.00, Y_g: 10.00, Linear Vel: 0.03[0m
+[0m[INFO] [1754804338.391853753] [demo_robot_controller]: PLOTDATA, 9.96, 9.96, 0.79[0m
+[0m[INFO] [1754804338.426091852] [demo_robot_controller]: PLOTDATA, 9.96, 9.96, 0.79[0m
+[0m[INFO] [1754804338.460141402] [demo_robot_controller]: PLOTDATA, 9.97, 9.96, 0.79[0m
+[0m[INFO] [1754804338.493936998] [demo_robot_controller]: PLOTDATA, 9.97, 9.97, 0.79[0m
+[0m[INFO] [1754804338.528478955] [demo_robot_controller]: PLOTDATA, 9.97, 9.97, 0.79[0m
+[0m[INFO] [1754804338.563102157] [demo_robot_controller]: PLOTDATA, 9.97, 9.97, 0.79[0m
+[0m[INFO] [1754804338.578802101] [demo_robot_controller]: Odom: X: 9.97, Y: 9.97, Theta: 0.79[0m
+[0m[INFO] [1754804338.578865121] [demo_robot_controller]: Moving straight. X_o: 9.97, Y_o: 9.97, X_g: 10.00, Y_g: 10.00, Linear Vel: 0.02[0m
+[0m[INFO] [1754804338.597127531] [demo_robot_controller]: PLOTDATA, 9.97, 9.97, 0.79[0m
+[0m[INFO] [1754804338.632011800] [demo_robot_controller]: PLOTDATA, 9.97, 9.97, 0.79[0m
+[0m[INFO] [1754804338.666080587] [demo_robot_controller]: PLOTDATA, 9.97, 9.97, 0.79[0m
+[0m[INFO] [1754804338.701168994] [demo_robot_controller]: PLOTDATA, 9.97, 9.97, 0.79[0m
+[0m[INFO] [1754804338.735935428] [demo_robot_controller]: PLOTDATA, 9.97, 9.97, 0.79[0m
+[0m[INFO] [1754804338.770069579] [demo_robot_controller]: PLOTDATA, 9.97, 9.97, 0.79[0m
+[0m[INFO] [1754804338.778803353] [demo_robot_controller]: Odom: X: 9.97, Y: 9.97, Theta: 0.79[0m
+[0m[INFO] [1754804338.778856595] [demo_robot_controller]: Moving straight. X_o: 9.97, Y_o: 9.97, X_g: 10.00, Y_g: 10.00, Linear Vel: 0.02[0m
+[0m[INFO] [1754804338.804160278] [demo_robot_controller]: PLOTDATA, 9.97, 9.97, 0.79[0m
+[0m[INFO] [1754804338.838821622] [demo_robot_controller]: PLOTDATA, 9.97, 9.97, 0.79[0m
+[0m[INFO] [1754804338.873357528] [demo_robot_controller]: PLOTDATA, 9.97, 9.97, 0.79[0m
+[0m[INFO] [1754804338.907969939] [demo_robot_controller]: PLOTDATA, 9.97, 9.97, 0.79[0m
+[0m[INFO] [1754804338.941920290] [demo_robot_controller]: PLOTDATA, 9.97, 9.97, 0.79[0m
+[0m[INFO] [1754804338.976460394] [demo_robot_controller]: PLOTDATA, 9.97, 9.97, 0.79[0m
+[0m[INFO] [1754804338.978809074] [demo_robot_controller]: Odom: X: 9.97, Y: 9.97, Theta: 0.79[0m
+[0m[INFO] [1754804338.978844652] [demo_robot_controller]: Moving straight. X_o: 9.97, Y_o: 9.97, X_g: 10.00, Y_g: 10.00, Linear Vel: 0.02[0m
+[0m[INFO] [1754804339.010925875] [demo_robot_controller]: PLOTDATA, 9.97, 9.97, 0.79[0m
+[0m[INFO] [1754804339.044931963] [demo_robot_controller]: PLOTDATA, 9.97, 9.97, 0.79[0m
+[0m[INFO] [1754804339.079325547] [demo_robot_controller]: PLOTDATA, 9.97, 9.97, 0.79[0m
+[0m[INFO] [1754804339.113999135] [demo_robot_controller]: PLOTDATA, 9.98, 9.98, 0.79[0m
+[0m[INFO] [1754804339.148373794] [demo_robot_controller]: PLOTDATA, 9.98, 9.98, 0.79[0m
+[0m[INFO] [1754804339.178820867] [demo_robot_controller]: Odom: X: 9.98, Y: 9.98, Theta: 0.79[0m
+[0m[INFO] [1754804339.178883105] [demo_robot_controller]: Moving straight. X_o: 9.98, Y_o: 9.98, X_g: 10.00, Y_g: 10.00, Linear Vel: 0.02[0m
+[0m[INFO] [1754804339.182851769] [demo_robot_controller]: PLOTDATA, 9.98, 9.98, 0.79[0m
+[0m[INFO] [1754804339.217326478] [demo_robot_controller]: PLOTDATA, 9.98, 9.98, 0.79[0m
+[0m[INFO] [1754804339.251807690] [demo_robot_controller]: PLOTDATA, 9.98, 9.98, 0.79[0m
+[0m[INFO] [1754804339.285929297] [demo_robot_controller]: PLOTDATA, 9.98, 9.98, 0.79[0m
+[0m[INFO] [1754804339.320424795] [demo_robot_controller]: PLOTDATA, 9.98, 9.98, 0.79[0m
+[0m[INFO] [1754804339.354922298] [demo_robot_controller]: PLOTDATA, 9.98, 9.98, 0.79[0m
+[0m[INFO] [1754804339.378828411] [demo_robot_controller]: Odom: X: 9.98, Y: 9.98, Theta: 0.79[0m
+[0m[INFO] [1754804339.378891280] [demo_robot_controller]: Moving straight. X_o: 9.98, Y_o: 9.98, X_g: 10.00, Y_g: 10.00, Linear Vel: 0.02[0m
+[0m[INFO] [1754804339.388972218] [demo_robot_controller]: PLOTDATA, 9.98, 9.98, 0.79[0m
+[0m[INFO] [1754804339.423508164] [demo_robot_controller]: PLOTDATA, 9.98, 9.98, 0.79[0m
+[0m[INFO] [1754804339.457949550] [demo_robot_controller]: PLOTDATA, 9.98, 9.98, 0.79[0m
+[0m[INFO] [1754804339.491993409] [demo_robot_controller]: PLOTDATA, 9.98, 9.98, 0.79[0m
+[0m[INFO] [1754804339.526662778] [demo_robot_controller]: PLOTDATA, 9.98, 9.98, 0.79[0m
+[0m[INFO] [1754804339.560912649] [demo_robot_controller]: PLOTDATA, 9.98, 9.98, 0.79[0m
+[0m[INFO] [1754804339.578830785] [demo_robot_controller]: Odom: X: 9.98, Y: 9.98, Theta: 0.79[0m
+[0m[INFO] [1754804339.578897812] [demo_robot_controller]: Moving straight. X_o: 9.98, Y_o: 9.98, X_g: 10.00, Y_g: 10.00, Linear Vel: 0.01[0m
+[0m[INFO] [1754804339.595547964] [demo_robot_controller]: PLOTDATA, 9.98, 9.98, 0.79[0m
+[0m[INFO] [1754804339.629970835] [demo_robot_controller]: PLOTDATA, 9.98, 9.98, 0.79[0m
+[0m[INFO] [1754804339.663959499] [demo_robot_controller]: PLOTDATA, 9.98, 9.98, 0.79[0m
+[0m[INFO] [1754804339.698609351] [demo_robot_controller]: PLOTDATA, 9.98, 9.98, 0.79[0m
+[0m[INFO] [1754804339.733259624] [demo_robot_controller]: PLOTDATA, 9.98, 9.98, 0.79[0m
+[0m[INFO] [1754804339.767412411] [demo_robot_controller]: PLOTDATA, 9.98, 9.98, 0.79[0m
+[0m[INFO] [1754804339.778831847] [demo_robot_controller]: Odom: X: 9.98, Y: 9.98, Theta: 0.79[0m
+[0m[INFO] [1754804339.778880690] [demo_robot_controller]: Moving straight. X_o: 9.98, Y_o: 9.98, X_g: 10.00, Y_g: 10.00, Linear Vel: 0.01[0m
+[0m[INFO] [1754804339.801973234] [demo_robot_controller]: PLOTDATA, 9.98, 9.98, 0.79[0m
+[0m[INFO] [1754804339.836421773] [demo_robot_controller]: PLOTDATA, 9.98, 9.98, 0.79[0m
+[0m[INFO] [1754804339.870918013] [demo_robot_controller]: PLOTDATA, 9.98, 9.98, 0.79[0m
+[0m[INFO] [1754804339.905095547] [demo_robot_controller]: PLOTDATA, 9.98, 9.98, 0.79[0m
+[0m[INFO] [1754804339.939537914] [demo_robot_controller]: PLOTDATA, 9.98, 9.98, 0.79[0m
+[0m[INFO] [1754804339.973910379] [demo_robot_controller]: PLOTDATA, 9.98, 9.98, 0.79[0m
+[0m[INFO] [1754804339.978835694] [demo_robot_controller]: Odom: X: 9.98, Y: 9.98, Theta: 0.79[0m
+[0m[INFO] [1754804339.978883394] [demo_robot_controller]: Moving straight. X_o: 9.98, Y_o: 9.98, X_g: 10.00, Y_g: 10.00, Linear Vel: 0.01[0m
+[0m[INFO] [1754804340.008265140] [demo_robot_controller]: PLOTDATA, 9.98, 9.98, 0.79[0m
+[0m[INFO] [1754804340.042713789] [demo_robot_controller]: PLOTDATA, 9.98, 9.98, 0.79[0m
+[0m[INFO] [1754804340.076964902] [demo_robot_controller]: PLOTDATA, 9.99, 9.99, 0.79[0m
+[0m[INFO] [1754804340.111572795] [demo_robot_controller]: PLOTDATA, 9.99, 9.99, 0.79[0m
+[0m[INFO] [1754804340.146163304] [demo_robot_controller]: PLOTDATA, 9.99, 9.99, 0.79[0m
+[0m[INFO] [1754804340.178847626] [demo_robot_controller]: Odom: X: 9.99, Y: 9.99, Theta: 0.79[0m
+[0m[INFO] [1754804340.178906808] [demo_robot_controller]: Moving straight. X_o: 9.99, Y_o: 9.99, X_g: 10.00, Y_g: 10.00, Linear Vel: 0.01[0m
+[0m[INFO] [1754804340.180099057] [demo_robot_controller]: PLOTDATA, 9.99, 9.99, 0.79[0m
+[0m[INFO] [1754804340.214688315] [demo_robot_controller]: PLOTDATA, 9.99, 9.99, 0.79[0m
+[0m[INFO] [1754804340.249364657] [demo_robot_controller]: PLOTDATA, 9.99, 9.99, 0.79[0m
+[0m[INFO] [1754804340.283042520] [demo_robot_controller]: PLOTDATA, 9.99, 9.99, 0.79[0m
+[0m[INFO] [1754804340.317841075] [demo_robot_controller]: PLOTDATA, 9.99, 9.99, 0.79[0m
+[0m[INFO] [1754804340.351958604] [demo_robot_controller]: PLOTDATA, 9.99, 9.99, 0.79[0m
+[0m[INFO] [1754804340.378858105] [demo_robot_controller]: Odom: X: 9.99, Y: 9.99, Theta: 0.79[0m
+[0m[INFO] [1754804340.378941604] [demo_robot_controller]: Moving straight. X_o: 9.99, Y_o: 9.99, X_g: 10.00, Y_g: 10.00, Linear Vel: 0.01[0m
+[0m[INFO] [1754804340.386317633] [demo_robot_controller]: PLOTDATA, 9.99, 9.99, 0.79[0m
+[0m[INFO] [1754804340.420935444] [demo_robot_controller]: PLOTDATA, 9.99, 9.99, 0.79[0m
+[0m[INFO] [1754804340.455879457] [demo_robot_controller]: PLOTDATA, 9.99, 9.99, 0.79[0m
+[0m[INFO] [1754804340.489973601] [demo_robot_controller]: PLOTDATA, 9.99, 9.99, 0.79[0m
+[0m[INFO] [1754804340.524435706] [demo_robot_controller]: PLOTDATA, 9.99, 9.99, 0.79[0m
+[0m[INFO] [1754804340.558958217] [demo_robot_controller]: PLOTDATA, 9.99, 9.99, 0.79[0m
+[0m[INFO] [1754804340.578861490] [demo_robot_controller]: Odom: X: 9.99, Y: 9.99, Theta: 0.79[0m
+[0m[INFO] [1754804340.578917377] [demo_robot_controller]: Moving straight. X_o: 9.99, Y_o: 9.99, X_g: 10.00, Y_g: 10.00, Linear Vel: 0.01[0m
+[0m[INFO] [1754804340.593568984] [demo_robot_controller]: PLOTDATA, 9.99, 9.99, 0.79[0m
+[0m[INFO] [1754804340.628342773] [demo_robot_controller]: PLOTDATA, 9.99, 9.99, 0.79[0m
+[0m[INFO] [1754804340.662902043] [demo_robot_controller]: PLOTDATA, 9.99, 9.99, 0.79[0m
+[0m[INFO] [1754804340.697143688] [demo_robot_controller]: PLOTDATA, 9.99, 9.99, 0.79[0m
+[0m[INFO] [1754804340.731515922] [demo_robot_controller]: PLOTDATA, 9.99, 9.99, 0.79[0m
+[0m[INFO] [1754804340.766103165] [demo_robot_controller]: PLOTDATA, 9.99, 9.99, 0.79[0m
+[0m[INFO] [1754804340.778868332] [demo_robot_controller]: Odom: X: 9.99, Y: 9.99, Theta: 0.79[0m
+[0m[INFO] [1754804340.778941051] [demo_robot_controller]: Moving straight. X_o: 9.99, Y_o: 9.99, X_g: 10.00, Y_g: 10.00, Linear Vel: 0.01[0m
+[0m[INFO] [1754804340.799911656] [demo_robot_controller]: PLOTDATA, 9.99, 9.99, 0.79[0m
+[0m[INFO] [1754804340.834068029] [demo_robot_controller]: PLOTDATA, 9.99, 9.99, 0.79[0m
+[0m[INFO] [1754804340.867956573] [demo_robot_controller]: PLOTDATA, 9.99, 9.99, 0.79[0m
+[0m[INFO] [1754804340.902274924] [demo_robot_controller]: PLOTDATA, 9.99, 9.99, 0.79[0m
+[0m[INFO] [1754804340.936996934] [demo_robot_controller]: PLOTDATA, 9.99, 9.99, 0.79[0m
+[0m[INFO] [1754804340.971775070] [demo_robot_controller]: PLOTDATA, 9.99, 9.99, 0.79[0m
+[0m[INFO] [1754804340.978870576] [demo_robot_controller]: Odom: X: 9.99, Y: 9.99, Theta: 0.79[0m
+[0m[INFO] [1754804340.978928286] [demo_robot_controller]: Moving straight. X_o: 9.99, Y_o: 9.99, X_g: 10.00, Y_g: 10.00, Linear Vel: 0.01[0m
+[0m[INFO] [1754804341.006570520] [demo_robot_controller]: PLOTDATA, 9.99, 9.99, 0.79[0m
+[0m[INFO] [1754804341.041145379] [demo_robot_controller]: PLOTDATA, 9.99, 9.99, 0.79[0m
+[0m[INFO] [1754804341.075656187] [demo_robot_controller]: PLOTDATA, 9.99, 9.99, 0.79[0m
+[0m[INFO] [1754804341.110196090] [demo_robot_controller]: PLOTDATA, 9.99, 9.99, 0.79[0m
+[0m[INFO] [1754804341.144750521] [demo_robot_controller]: PLOTDATA, 9.99, 9.99, 0.79[0m
+[0m[INFO] [1754804341.178882157] [demo_robot_controller]: Odom: X: 9.99, Y: 9.99, Theta: 0.79[0m
+[0m[INFO] [1754804341.178944395] [demo_robot_controller]: Final rotation. Current angle: 0.79, Target angle: 1.57, Angular Vel: 0.50[0m
+[0m[INFO] [1754804341.179030599] [demo_robot_controller]: PLOTDATA, 9.99, 9.99, 0.79[0m
+[0m[INFO] [1754804341.213358609] [demo_robot_controller]: PLOTDATA, 9.99, 9.99, 0.80[0m
+[0m[INFO] [1754804341.247841053] [demo_robot_controller]: PLOTDATA, 9.99, 9.99, 0.82[0m
+[0m[INFO] [1754804341.281992677] [demo_robot_controller]: PLOTDATA, 9.99, 9.99, 0.84[0m
+[0m[INFO] [1754804341.316569420] [demo_robot_controller]: PLOTDATA, 9.99, 9.99, 0.85[0m
+[0m[INFO] [1754804341.351089084] [demo_robot_controller]: PLOTDATA, 9.99, 9.99, 0.87[0m
+[0m[INFO] [1754804341.378899278] [demo_robot_controller]: Odom: X: 9.99, Y: 9.99, Theta: 0.87[0m
+[0m[INFO] [1754804341.378964602] [demo_robot_controller]: Final rotation. Current angle: 0.87, Target angle: 1.57, Angular Vel: 0.50[0m
+[0m[INFO] [1754804341.385449936] [demo_robot_controller]: PLOTDATA, 9.99, 9.99, 0.89[0m
+[0m[INFO] [1754804341.419777054] [demo_robot_controller]: PLOTDATA, 9.99, 9.99, 0.90[0m
+[0m[INFO] [1754804341.453932075] [demo_robot_controller]: PLOTDATA, 9.99, 9.99, 0.92[0m
+[0m[INFO] [1754804341.488176405] [demo_robot_controller]: PLOTDATA, 9.99, 9.99, 0.94[0m
+[0m[INFO] [1754804341.522829424] [demo_robot_controller]: PLOTDATA, 9.99, 9.99, 0.96[0m
+[0m[INFO] [1754804341.557240101] [demo_robot_controller]: PLOTDATA, 9.99, 9.99, 0.97[0m
+[0m[INFO] [1754804341.578896081] [demo_robot_controller]: Odom: X: 9.99, Y: 9.99, Theta: 0.97[0m
+[0m[INFO] [1754804341.578955173] [demo_robot_controller]: Final rotation. Current angle: 0.97, Target angle: 1.57, Angular Vel: 0.50[0m
+[0m[INFO] [1754804341.591818317] [demo_robot_controller]: PLOTDATA, 9.99, 9.99, 0.99[0m
+[0m[INFO] [1754804341.626417883] [demo_robot_controller]: PLOTDATA, 9.99, 9.99, 1.01[0m
+[0m[INFO] [1754804341.660879888] [demo_robot_controller]: PLOTDATA, 9.99, 9.99, 1.02[0m
+[0m[INFO] [1754804341.695382280] [demo_robot_controller]: PLOTDATA, 9.99, 9.99, 1.04[0m
+[0m[INFO] [1754804341.729896394] [demo_robot_controller]: PLOTDATA, 9.99, 9.99, 1.06[0m
+[0m[INFO] [1754804341.763941455] [demo_robot_controller]: PLOTDATA, 9.99, 9.99, 1.07[0m
+[0m[INFO] [1754804341.778909956] [demo_robot_controller]: Odom: X: 9.99, Y: 9.99, Theta: 1.07[0m
+[0m[INFO] [1754804341.778978045] [demo_robot_controller]: Final rotation. Current angle: 1.07, Target angle: 1.57, Angular Vel: 0.50[0m
+[0m[INFO] [1754804341.797979482] [demo_robot_controller]: PLOTDATA, 9.99, 9.99, 1.09[0m
+[0m[INFO] [1754804341.832584459] [demo_robot_controller]: PLOTDATA, 9.99, 9.99, 1.11[0m
+[0m[INFO] [1754804341.867085077] [demo_robot_controller]: PLOTDATA, 9.99, 9.99, 1.13[0m
+[0m[INFO] [1754804341.901673393] [demo_robot_controller]: PLOTDATA, 9.99, 9.99, 1.14[0m
+[0m[INFO] [1754804341.935927442] [demo_robot_controller]: PLOTDATA, 9.99, 9.99, 1.16[0m
+[0m[INFO] [1754804341.970459009] [demo_robot_controller]: PLOTDATA, 9.99, 9.99, 1.18[0m
+[0m[INFO] [1754804341.978896449] [demo_robot_controller]: Odom: X: 9.99, Y: 9.99, Theta: 1.18[0m
+[0m[INFO] [1754804341.978941715] [demo_robot_controller]: Final rotation. Current angle: 1.18, Target angle: 1.57, Angular Vel: 0.39[0m
+[0m[INFO] [1754804342.004926464] [demo_robot_controller]: PLOTDATA, 9.99, 9.99, 1.19[0m
+[0m[INFO] [1754804342.039105610] [demo_robot_controller]: PLOTDATA, 9.99, 9.99, 1.20[0m
+[0m[INFO] [1754804342.073673526] [demo_robot_controller]: PLOTDATA, 9.99, 9.99, 1.22[0m
+[0m[INFO] [1754804342.107958234] [demo_robot_controller]: PLOTDATA, 9.99, 9.99, 1.23[0m
+[0m[INFO] [1754804342.142273779] [demo_robot_controller]: PLOTDATA, 9.99, 9.99, 1.24[0m
+[0m[INFO] [1754804342.177025345] [demo_robot_controller]: PLOTDATA, 9.99, 9.99, 1.26[0m
+[0m[INFO] [1754804342.178895876] [demo_robot_controller]: Odom: X: 9.99, Y: 9.99, Theta: 1.26[0m
+[0m[INFO] [1754804342.178934800] [demo_robot_controller]: Final rotation. Current angle: 1.26, Target angle: 1.57, Angular Vel: 0.31[0m
+[0m[INFO] [1754804342.211017005] [demo_robot_controller]: PLOTDATA, 9.99, 9.99, 1.27[0m
+[0m[INFO] [1754804342.245333332] [demo_robot_controller]: PLOTDATA, 9.99, 9.99, 1.28[0m
+[0m[INFO] [1754804342.279943038] [demo_robot_controller]: PLOTDATA, 9.99, 9.99, 1.29[0m
+[0m[INFO] [1754804342.314471349] [demo_robot_controller]: PLOTDATA, 9.99, 9.99, 1.30[0m
+[0m[INFO] [1754804342.348945637] [demo_robot_controller]: PLOTDATA, 9.99, 9.99, 1.31[0m
+[0m[INFO] [1754804342.378910031] [demo_robot_controller]: Odom: X: 9.99, Y: 9.99, Theta: 1.31[0m
+[0m[INFO] [1754804342.378965997] [demo_robot_controller]: Final rotation. Current angle: 1.31, Target angle: 1.57, Angular Vel: 0.26[0m
+[0m[INFO] [1754804342.383473928] [demo_robot_controller]: PLOTDATA, 9.99, 9.99, 1.32[0m
+[0m[INFO] [1754804342.417933918] [demo_robot_controller]: PLOTDATA, 9.99, 9.99, 1.33[0m
+[0m[INFO] [1754804342.452434627] [demo_robot_controller]: PLOTDATA, 9.99, 9.99, 1.34[0m
+[0m[INFO] [1754804342.486918914] [demo_robot_controller]: PLOTDATA, 9.99, 9.99, 1.35[0m
+[0m[INFO] [1754804342.521121485] [demo_robot_controller]: PLOTDATA, 9.99, 9.99, 1.36[0m
+[0m[INFO] [1754804342.555750297] [demo_robot_controller]: PLOTDATA, 9.99, 9.99, 1.37[0m
+[0m[INFO] [1754804342.578916591] [demo_robot_controller]: Odom: X: 9.99, Y: 9.99, Theta: 1.37[0m
+[0m[INFO] [1754804342.578970564] [demo_robot_controller]: Final rotation. Current angle: 1.37, Target angle: 1.57, Angular Vel: 0.21[0m
+[0m[INFO] [1754804342.589946896] [demo_robot_controller]: PLOTDATA, 9.99, 9.99, 1.37[0m
+[0m[INFO] [1754804342.623946220] [demo_robot_controller]: PLOTDATA, 9.99, 9.99, 1.38[0m
+[0m[INFO] [1754804342.657922881] [demo_robot_controller]: PLOTDATA, 9.99, 9.99, 1.39[0m
+[0m[INFO] [1754804342.692780068] [demo_robot_controller]: PLOTDATA, 9.99, 9.99, 1.39[0m
+[0m[INFO] [1754804342.727563064] [demo_robot_controller]: PLOTDATA, 9.99, 9.99, 1.40[0m
+[0m[INFO] [1754804342.762048553] [demo_robot_controller]: PLOTDATA, 9.99, 9.99, 1.41[0m
+[0m[INFO] [1754804342.778917732] [demo_robot_controller]: Odom: X: 9.99, Y: 9.99, Theta: 1.41[0m
+[0m[INFO] [1754804342.778971133] [demo_robot_controller]: Final rotation. Current angle: 1.41, Target angle: 1.57, Angular Vel: 0.16[0m
+[0m[INFO] [1754804342.796627039] [demo_robot_controller]: PLOTDATA, 9.99, 9.99, 1.42[0m
+[0m[INFO] [1754804342.831128279] [demo_robot_controller]: PLOTDATA, 9.99, 9.99, 1.42[0m
+[0m[INFO] [1754804342.865652722] [demo_robot_controller]: PLOTDATA, 9.99, 9.99, 1.43[0m
+[0m[INFO] [1754804342.900384921] [demo_robot_controller]: PLOTDATA, 9.99, 9.99, 1.43[0m
+[0m[INFO] [1754804342.934763547] [demo_robot_controller]: PLOTDATA, 9.99, 9.99, 1.44[0m
+[0m[INFO] [1754804342.968912546] [demo_robot_controller]: PLOTDATA, 9.99, 9.99, 1.44[0m
+[0m[INFO] [1754804342.978926376] [demo_robot_controller]: Odom: X: 9.99, Y: 9.99, Theta: 1.44[0m
+[0m[INFO] [1754804342.978975259] [demo_robot_controller]: Final rotation. Current angle: 1.44, Target angle: 1.57, Angular Vel: 0.13[0m
+[0m[INFO] [1754804343.003004176] [demo_robot_controller]: PLOTDATA, 9.99, 9.99, 1.45[0m
+[0m[INFO] [1754804343.037638929] [demo_robot_controller]: PLOTDATA, 9.99, 9.99, 1.45[0m
+[0m[INFO] [1754804343.072183821] [demo_robot_controller]: PLOTDATA, 9.99, 9.99, 1.46[0m
+[0m[INFO] [1754804343.106703055] [demo_robot_controller]: PLOTDATA, 9.99, 9.99, 1.46[0m
+[0m[INFO] [1754804343.140923279] [demo_robot_controller]: PLOTDATA, 9.99, 9.99, 1.46[0m
+[0m[INFO] [1754804343.175459184] [demo_robot_controller]: PLOTDATA, 9.99, 9.99, 1.47[0m
+[0m[INFO] [1754804343.178925352] [demo_robot_controller]: Odom: X: 9.99, Y: 9.99, Theta: 1.47[0m
+[0m[INFO] [1754804343.178975608] [demo_robot_controller]: Final rotation. Current angle: 1.47, Target angle: 1.57, Angular Vel: 0.10[0m
+[0m[INFO] [1754804343.210156036] [demo_robot_controller]: PLOTDATA, 9.99, 9.99, 1.47[0m
+[0m[INFO] [1754804343.244747727] [demo_robot_controller]: PLOTDATA, 9.99, 9.99, 1.48[0m
+[0m[INFO] [1754804343.279147744] [demo_robot_controller]: PLOTDATA, 9.99, 9.99, 1.48[0m
+[0m[INFO] [1754804343.313298927] [demo_robot_controller]: PLOTDATA, 9.99, 9.99, 1.48[0m
+[0m[INFO] [1754804343.348073376] [demo_robot_controller]: PLOTDATA, 9.99, 9.99, 1.49[0m
+[0m[INFO] [1754804343.378939256] [demo_robot_controller]: Odom: X: 9.99, Y: 9.99, Theta: 1.49[0m
+[0m[INFO] [1754804343.378996134] [demo_robot_controller]: Final rotation. Current angle: 1.49, Target angle: 1.57, Angular Vel: 0.08[0m
+[0m[INFO] [1754804343.382427525] [demo_robot_controller]: PLOTDATA, 9.99, 9.99, 1.49[0m
+[0m[INFO] [1754804343.416858892] [demo_robot_controller]: PLOTDATA, 9.99, 9.99, 1.49[0m
+[0m[INFO] [1754804343.451065590] [demo_robot_controller]: PLOTDATA, 9.99, 9.99, 1.50[0m
+[0m[INFO] [1754804343.485357902] [demo_robot_controller]: PLOTDATA, 9.99, 9.99, 1.50[0m
+[0m[INFO] [1754804343.519739012] [demo_robot_controller]: PLOTDATA, 9.99, 9.99, 1.50[0m
+[0m[INFO] [1754804343.554092751] [demo_robot_controller]: PLOTDATA, 9.99, 9.99, 1.50[0m
+[0m[INFO] [1754804343.578947219] [demo_robot_controller]: Odom: X: 9.99, Y: 9.99, Theta: 1.50[0m
+[0m[INFO] [1754804343.579006552] [demo_robot_controller]: Final rotation. Current angle: 1.50, Target angle: 1.57, Angular Vel: 0.07[0m
+[0m[INFO] [1754804343.588699631] [demo_robot_controller]: PLOTDATA, 9.99, 9.99, 1.51[0m
+[0m[INFO] [1754804343.622981082] [demo_robot_controller]: PLOTDATA, 9.99, 9.99, 1.51[0m
+[0m[INFO] [1754804343.657173664] [demo_robot_controller]: PLOTDATA, 9.99, 9.99, 1.51[0m
+[0m[INFO] [1754804343.691643483] [demo_robot_controller]: PLOTDATA, 9.99, 9.99, 1.51[0m
+[0m[INFO] [1754804343.725976212] [demo_robot_controller]: PLOTDATA, 9.99, 9.99, 1.52[0m
+[0m[INFO] [1754804343.760591478] [demo_robot_controller]: PLOTDATA, 9.99, 9.99, 1.52[0m
+[0m[INFO] [1754804343.778969118] [demo_robot_controller]: Odom: X: 9.99, Y: 9.99, Theta: 1.52[0m
+[0m[INFO] [1754804343.779030765] [demo_robot_controller]: Final rotation. Current angle: 1.52, Target angle: 1.57, Angular Vel: 0.05[0m
+[0m[INFO] [1754804343.795039045] [demo_robot_controller]: PLOTDATA, 9.99, 9.99, 1.52[0m
+[0m[INFO] [1754804343.829143189] [demo_robot_controller]: PLOTDATA, 9.99, 9.99, 1.52[0m
+[0m[INFO] [1754804343.863536643] [demo_robot_controller]: PLOTDATA, 9.99, 9.99, 1.52[0m
+[0m[INFO] [1754804343.898024146] [demo_robot_controller]: PLOTDATA, 9.99, 9.99, 1.53[0m
+[0m[INFO] [1754804343.932249991] [demo_robot_controller]: PLOTDATA, 9.99, 9.99, 1.53[0m
+[0m[INFO] [1754804343.966554405] [demo_robot_controller]: PLOTDATA, 9.99, 9.99, 1.53[0m
+[0m[INFO] [1754804343.978954448] [demo_robot_controller]: Odom: X: 9.99, Y: 9.99, Theta: 1.53[0m
+[0m[INFO] [1754804343.979012127] [demo_robot_controller]: Final rotation. Current angle: 1.53, Target angle: 1.57, Angular Vel: 0.04[0m
+[0m[INFO] [1754804344.001262468] [demo_robot_controller]: PLOTDATA, 9.99, 9.99, 1.53[0m
+[0m[INFO] [1754804344.035969078] [demo_robot_controller]: PLOTDATA, 9.99, 9.99, 1.53[0m
+[0m[INFO] [1754804344.070093220] [demo_robot_controller]: PLOTDATA, 9.99, 9.99, 1.53[0m
+[0m[INFO] [1754804344.104959834] [demo_robot_controller]: PLOTDATA, 9.99, 9.99, 1.54[0m
+[0m[INFO] [1754804344.139060772] [demo_robot_controller]: PLOTDATA, 9.99, 9.99, 1.54[0m
+[0m[INFO] [1754804344.173594563] [demo_robot_controller]: PLOTDATA, 9.99, 9.99, 1.54[0m
+[0m[INFO] [1754804344.178955547] [demo_robot_controller]: Odom: X: 9.99, Y: 9.99, Theta: 1.54[0m
+[0m[INFO] [1754804344.179008698] [demo_robot_controller]: Final rotation. Current angle: 1.54, Target angle: 1.57, Angular Vel: 0.03[0m
+[0m[INFO] [1754804344.207942179] [demo_robot_controller]: PLOTDATA, 9.99, 9.99, 1.54[0m
+[0m[INFO] [1754804344.242589186] [demo_robot_controller]: PLOTDATA, 9.99, 9.99, 1.54[0m
+[0m[INFO] [1754804344.277078833] [demo_robot_controller]: PLOTDATA, 9.99, 9.99, 1.54[0m
+[0m[INFO] [1754804344.311722774] [demo_robot_controller]: PLOTDATA, 9.99, 9.99, 1.54[0m
+[0m[INFO] [1754804344.346079177] [demo_robot_controller]: PLOTDATA, 9.99, 9.99, 1.54[0m
+[0m[INFO] [1754804344.378975542] [demo_robot_controller]: Odom: X: 9.99, Y: 9.99, Theta: 1.54[0m
+[0m[INFO] [1754804344.379051957] [demo_robot_controller]: Final rotation. Current angle: 1.54, Target angle: 1.57, Angular Vel: 0.03[0m
+[0m[INFO] [1754804344.380167661] [demo_robot_controller]: PLOTDATA, 9.99, 9.99, 1.54[0m
+[0m[INFO] [1754804344.414095188] [demo_robot_controller]: PLOTDATA, 9.99, 9.99, 1.55[0m
+[0m[INFO] [1754804344.448618028] [demo_robot_controller]: PLOTDATA, 9.99, 9.99, 1.55[0m
+[0m[INFO] [1754804344.483401044] [demo_robot_controller]: PLOTDATA, 9.99, 9.99, 1.55[0m
+[0m[INFO] [1754804344.517963930] [demo_robot_controller]: PLOTDATA, 9.99, 9.99, 1.55[0m
+[0m[INFO] [1754804344.552125443] [demo_robot_controller]: PLOTDATA, 9.99, 9.99, 1.55[0m
+[0m[INFO] [1754804344.578977372] [demo_robot_controller]: Odom: X: 9.99, Y: 9.99, Theta: 1.55[0m
+[0m[INFO] [1754804344.579043548] [demo_robot_controller]: Reached target[0m
+[0m[INFO] [1754804344.586690123] [demo_robot_controller]: PLOTDATA, 9.99, 9.99, 1.55[0m
+[0m[INFO] [1754804344.620934693] [demo_robot_controller]: PLOTDATA, 9.99, 9.99, 1.55[0m
+[0m[INFO] [1754804344.655015262] [demo_robot_controller]: PLOTDATA, 9.99, 9.99, 1.55[0m
+[0m[INFO] [1754804344.689059030] [demo_robot_controller]: PLOTDATA, 9.99, 9.99, 1.55[0m
+[0m[INFO] [1754804344.724035664] [demo_robot_controller]: PLOTDATA, 9.99, 9.99, 1.55[0m
+[0m[INFO] [1754804344.757926642] [demo_robot_controller]: PLOTDATA, 9.99, 9.99, 1.55[0m
+[0m[INFO] [1754804344.778983181] [demo_robot_controller]: Odom: X: 9.99, Y: 9.99, Theta: 1.55[0m
+[0m[INFO] [1754804344.779076508] [demo_robot_controller]: Reached target[0m
+[0m[INFO] [1754804344.792449562] [demo_robot_controller]: PLOTDATA, 9.99, 9.99, 1.55[0m
+[0m[INFO] [1754804344.826937566] [demo_robot_controller]: PLOTDATA, 9.99, 9.99, 1.55[0m
+[0m[INFO] [1754804344.861673202] [demo_robot_controller]: PLOTDATA, 9.99, 9.99, 1.55[0m
+[0m[INFO] [1754804344.896567839] [demo_robot_controller]: PLOTDATA, 9.99, 9.99, 1.55[0m
+[0m[INFO] [1754804344.931084618] [demo_robot_controller]: PLOTDATA, 9.99, 9.99, 1.55[0m
+[0m[INFO] [1754804344.964907466] [demo_robot_controller]: PLOTDATA, 9.99, 9.99, 1.55[0m
+[0m[INFO] [1754804344.979008706] [demo_robot_controller]: Odom: X: 9.99, Y: 9.99, Theta: 1.55[0m
+[0m[INFO] [1754804344.979084250] [demo_robot_controller]: Reached target[0m
+[0m[INFO] [1754804344.999145785] [demo_robot_controller]: PLOTDATA, 9.99, 9.99, 1.55[0m
+[0m[INFO] [1754804345.033956984] [demo_robot_controller]: PLOTDATA, 9.99, 9.99, 1.55[0m
+[0m[INFO] [1754804345.068637925] [demo_robot_controller]: PLOTDATA, 9.99, 9.99, 1.55[0m
+[0m[INFO] [1754804345.102919666] [demo_robot_controller]: PLOTDATA, 9.99, 9.99, 1.55[0m
+[0m[INFO] [1754804345.137434130] [demo_robot_controller]: PLOTDATA, 9.99, 9.99, 1.55[0m
+[0m[INFO] [1754804345.171932133] [demo_robot_controller]: PLOTDATA, 9.99, 9.99, 1.55[0m
+[0m[INFO] [1754804345.178997271] [demo_robot_controller]: Odom: X: 9.99, Y: 9.99, Theta: 1.55[0m
+[0m[INFO] [1754804345.179053248] [demo_robot_controller]: Reached target[0m
+[0m[INFO] [1754804345.206572267] [demo_robot_controller]: PLOTDATA, 9.99, 9.99, 1.55[0m
+[0m[INFO] [1754804345.241191811] [demo_robot_controller]: PLOTDATA, 9.99, 9.99, 1.55[0m
+[0m[INFO] [1754804345.275433205] [demo_robot_controller]: PLOTDATA, 9.99, 9.99, 1.55[0m
+[0m[INFO] [1754804345.309938462] [demo_robot_controller]: PLOTDATA, 9.99, 9.99, 1.55[0m
+[0m[INFO] [1754804345.344328099] [demo_robot_controller]: PLOTDATA, 9.99, 9.99, 1.55[0m
+[0m[INFO] [1754804345.378992889] [demo_robot_controller]: Odom: X: 9.99, Y: 9.99, Theta: 1.55[0m
+[0m[INFO] [1754804345.379052533] [demo_robot_controller]: Reached target[0m
+[0m[INFO] [1754804345.379128718] [demo_robot_controller]: PLOTDATA, 9.99, 9.99, 1.55[0m
+[0m[INFO] [1754804345.412964440] [demo_robot_controller]: PLOTDATA, 9.99, 9.99, 1.55[0m
+[0m[INFO] [1754804345.446976568] [demo_robot_controller]: PLOTDATA, 9.99, 9.99, 1.55[0m
+[0m[INFO] [1754804345.480951225] [demo_robot_controller]: PLOTDATA, 9.99, 9.99, 1.55[0m
+[0m[INFO] [1754804345.515242534] [demo_robot_controller]: PLOTDATA, 9.99, 9.99, 1.55[0m
+[0m[INFO] [1754804345.550681198] [demo_robot_controller]: PLOTDATA, 9.99, 9.99, 1.55[0m
+[0m[INFO] [1754804345.579003456] [demo_robot_controller]: Odom: X: 9.99, Y: 9.99, Theta: 1.55[0m
+[0m[INFO] [1754804345.579062248] [demo_robot_controller]: Reached target[0m
+[0m[INFO] [1754804345.585128344] [demo_robot_controller]: PLOTDATA, 9.99, 9.99, 1.55[0m
+[0m[INFO] [1754804345.619672134] [demo_robot_controller]: PLOTDATA, 9.99, 9.99, 1.55[0m
+[0m[INFO] [1754804345.653945519] [demo_robot_controller]: PLOTDATA, 9.99, 9.99, 1.55[0m
+[0m[INFO] [1754804345.688569833] [demo_robot_controller]: PLOTDATA, 9.99, 9.99, 1.55[0m
+[0m[INFO] [1754804345.722962104] [demo_robot_controller]: PLOTDATA, 9.99, 9.99, 1.55[0m
+[0m[INFO] [1754804345.757328196] [demo_robot_controller]: PLOTDATA, 9.99, 9.99, 1.55[0m
+[0m[INFO] [1754804345.779048899] [demo_robot_controller]: Odom: X: 9.99, Y: 9.99, Theta: 1.55[0m
+[0m[INFO] [1754804345.779168767] [demo_robot_controller]: Reached target[0m
+[0m[INFO] [1754804345.791859733] [demo_robot_controller]: PLOTDATA, 9.99, 9.99, 1.55[0m
+[0m[INFO] [1754804345.826405677] [demo_robot_controller]: PLOTDATA, 9.99, 9.99, 1.55[0m
+[0m[INFO] [1754804345.860995575] [demo_robot_controller]: PLOTDATA, 9.99, 9.99, 1.55[0m
+[0m[INFO] [1754804345.895482857] [demo_robot_controller]: PLOTDATA, 9.99, 9.99, 1.55[0m
+[0m[INFO] [1754804345.929931196] [demo_robot_controller]: PLOTDATA, 9.99, 9.99, 1.55[0m
+[0m[INFO] [1754804345.964213698] [demo_robot_controller]: PLOTDATA, 9.99, 9.99, 1.55[0m
+[0m[INFO] [1754804345.979014109] [demo_robot_controller]: Odom: X: 9.99, Y: 9.99, Theta: 1.55[0m
+[0m[INFO] [1754804345.979084293] [demo_robot_controller]: Reached target[0m
+[0m[INFO] [1754804345.998945446] [demo_robot_controller]: PLOTDATA, 9.99, 9.99, 1.55[0m
+[0m[INFO] [1754804346.033322459] [demo_robot_controller]: PLOTDATA, 9.99, 9.99, 1.55[0m
+[0m[INFO] [1754804346.067833286] [demo_robot_controller]: PLOTDATA, 9.99, 9.99, 1.55[0m
+[0m[INFO] [1754804346.102216871] [demo_robot_controller]: PLOTDATA, 9.99, 9.99, 1.55[0m
+[0m[INFO] [1754804346.136617118] [demo_robot_controller]: PLOTDATA, 9.99, 9.99, 1.55[0m
+[0m[INFO] [1754804346.170924938] [demo_robot_controller]: PLOTDATA, 9.99, 9.99, 1.55[0m
+[0m[INFO] [1754804346.179018353] [demo_robot_controller]: Odom: X: 9.99, Y: 9.99, Theta: 1.55[0m
+[0m[INFO] [1754804346.179076554] [demo_robot_controller]: Reached target[0m
+[0m[INFO] [1754804346.204970470] [demo_robot_controller]: PLOTDATA, 9.99, 9.99, 1.55[0m
+[0m[INFO] [1754804346.239604442] [demo_robot_controller]: PLOTDATA, 9.99, 9.99, 1.55[0m
+[0m[INFO] [1754804346.273930808] [demo_robot_controller]: PLOTDATA, 9.99, 9.99, 1.55[0m
+[0m[INFO] [1754804346.308402971] [demo_robot_controller]: PLOTDATA, 9.99, 9.99, 1.55[0m
+[0m[INFO] [1754804346.343149848] [demo_robot_controller]: PLOTDATA, 9.99, 9.99, 1.55[0m
+[0m[INFO] [1754804346.377456607] [demo_robot_controller]: PLOTDATA, 9.99, 9.99, 1.55[0m
+[0m[INFO] [1754804346.379116656] [demo_robot_controller]: Odom: X: 9.99, Y: 9.99, Theta: 1.55[0m
+[0m[INFO] [1754804346.379171731] [demo_robot_controller]: Reached target[0m
+[0m[INFO] [1754804346.412016247] [demo_robot_controller]: PLOTDATA, 9.99, 9.99, 1.55[0m
+[0m[INFO] [1754804346.446456089] [demo_robot_controller]: PLOTDATA, 9.99, 9.99, 1.55[0m
+[0m[INFO] [1754804346.480924325] [demo_robot_controller]: PLOTDATA, 9.99, 9.99, 1.55[0m
+[0m[INFO] [1754804346.515515305] [demo_robot_controller]: PLOTDATA, 9.99, 9.99, 1.55[0m
+[0m[INFO] [1754804346.549904190] [demo_robot_controller]: PLOTDATA, 9.99, 9.99, 1.55[0m
+[0m[INFO] [1754804346.579036299] [demo_robot_controller]: Odom: X: 9.99, Y: 9.99, Theta: 1.55[0m
+[0m[INFO] [1754804346.579115170] [demo_robot_controller]: Reached target[0m
+[0m[INFO] [1754804346.584120326] [demo_robot_controller]: PLOTDATA, 9.99, 9.99, 1.55[0m
+[0m[INFO] [1754804346.618382160] [demo_robot_controller]: PLOTDATA, 9.99, 9.99, 1.55[0m
+[0m[INFO] [1754804346.653043854] [demo_robot_controller]: PLOTDATA, 9.99, 9.99, 1.55[0m
+[0m[INFO] [1754804346.687505598] [demo_robot_controller]: PLOTDATA, 9.99, 9.99, 1.55[0m
+[0m[INFO] [1754804346.721957102] [demo_robot_controller]: PLOTDATA, 9.99, 9.99, 1.55[0m
+[0m[INFO] [1754804346.756486545] [demo_robot_controller]: PLOTDATA, 9.99, 9.99, 1.55[0m
+[0m[INFO] [1754804346.779035354] [demo_robot_controller]: Odom: X: 9.99, Y: 9.99, Theta: 1.55[0m
+[0m[INFO] [1754804346.779093084] [demo_robot_controller]: Reached target[0m
+^C[0m[INFO] [1754804346.787632337] [rclcpp]: signal_handler(signum=2)[0m

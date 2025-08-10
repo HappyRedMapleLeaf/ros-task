@@ -28,7 +28,7 @@ colcon build
 ros2 run limo_control controller
 
 # Update target pose:
-ros2 topic pub /target geometry_msgs/msg/Pose2D "{x: 1.0, y: 0.0, theta: 0.0}" --once
+ros2 topic pub /target geometry_msgs/msg/Pose2D "{x: 10.0, y: 10.0, theta: 1.571}" --once
 
 ./scripts/deploy/start.sh # To run the whole demo
 ./scripts/deploy/stop.sh # From another terminal, if things get stuck. Ctrl+C should work for start.sh though.

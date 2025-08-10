@@ -152,6 +152,13 @@ void RobotController::odom_rx_callback(const nav_msgs::msg::Odometry::SharedPtr 
     tf2::Quaternion converted_quat;
     tf2::fromMsg(msg->pose.pose.orientation, converted_quat);
     this->current_pose_.theta = tf2::getYaw(converted_quat);
+
+    // Used to plot errors
+    // RCLCPP_INFO(
+    //     this->get_logger(),
+    //     "PLOTDATA, %.2f, %.2f, %.2f",
+    //     this->current_pose_.x, this->current_pose_.y, this->current_pose_.theta
+    // );
 }
 
 void RobotController::target_rx_callback(const geometry_msgs::msg::Pose2D::SharedPtr msg) {
