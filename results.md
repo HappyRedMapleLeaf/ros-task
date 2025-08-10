@@ -7,8 +7,8 @@
 
 ### Results
 - Run `scripts/build/sim.sh` then `scripts/deploy/start.sh` to see a demo with an example target pose similar to the one in the given example video.
-- See `video.mp4` for a recording of what happens when the above is run.
-- See `graph.png` for a plot of linear and angular error to confirm that they are reduced into the requested threshold.
+- See `demo.mp4` for a recording of what happens when the above is run.
+- See `plot/plot.png` for a plot of linear and angular error to confirm that they are reduced into the requested threshold. The top graph shows the errors across the entire time range, and the bottom graph shows a zoomed-in version where the thresholds are clearly visible.
 - Odometry data and the position reported in Gazebo do not match perfectly. I had to tune the bot track width in `workspace/limo_simulation/urdf/limo_four_diff.gazebo` on line 11 to get acceptable results. Also, the simulation was not starting the bot at the origin, so I reset those values. No other changes have been made to the simulation setup.
 
 ### Other Notes

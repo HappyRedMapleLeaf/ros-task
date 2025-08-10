@@ -39,13 +39,13 @@ ZOOMED = True
 
 # plot both errors on y axis and time on x axis
 plt.figure(figsize=(10, 6))
-plt.plot(timestamps, euclidean_errors, 'b-', label='Euclidean Error', markersize=1)
-plt.plot(timestamps, angular_errors, 'r-', label='Angular Error', markersize=1)
+plt.plot(timestamps, euclidean_errors, 'b-', label='Euclidean  (m)', markersize=1)
+plt.plot(timestamps, angular_errors, 'r-', label='Angular Error (rad)', markersize=1)
 plt.xlabel('Time (s)')
 plt.ylabel('Error')
-plt.title('Robot Pose Error')
 
 if ZOOMED:
+    plt.title('Robot Pose Error (Near Goal)')
     plt.xlim(max(timestamps) - 10, max(timestamps))
     plt.ylim(-0.2, 0.2)
     plt.axhline(y=euclidean_threshold, color='b', linestyle='--', alpha=0.7, label=f'Euclidean Threshold ({euclidean_threshold})')
@@ -53,6 +53,7 @@ if ZOOMED:
     plt.axhline(y=-euclidean_threshold, color='b', linestyle='--', alpha=0.7)
     plt.axhline(y=-angular_threshold, color='r', linestyle='--', alpha=0.7)
 else:
+    plt.title('Robot Pose Error (Full Range)')
     plt.xlim(0, max(timestamps))
     plt.ylim(-5, 20)
 
