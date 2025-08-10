@@ -16,8 +16,8 @@ using namespace std::chrono_literals;
 #define ANGULAR_ERROR_THRESHOLD  0.1 / 4.0
 
 namespace {
+    // utility function to wrap angle to [-pi, pi]
     double wrap_angle(double angle) {
-        // normalize angle to [-pi, pi]
         angle = fmod(angle, 2 * M_PI);
 
         if (angle > M_PI) {
@@ -30,6 +30,7 @@ namespace {
 }
 
 RobotController::RobotController() : Node("demo_robot_controller") {
+    // create publishers and subscribers
     this->cmd_vel_publisher_ = this->create_publisher<geometry_msgs::msg::Twist>("cmd_vel", 10);
 
     this->odom_subscription_ = this->create_subscription<nav_msgs::msg::Odometry>(
@@ -42,6 +43,7 @@ RobotController::RobotController() : Node("demo_robot_controller") {
         [this](const geometry_msgs::msg::Pose2D::SharedPtr msg) { this->target_rx_callback(msg); }
     );
 
+    // set up main control loop timer
     this->main_timer_ = this->create_wall_timer(
         LOOP_PERIOD, std::bind(&RobotController::main_timer_callback, this)
     );
@@ -50,10 +52,12 @@ RobotController::RobotController() : Node("demo_robot_controller") {
     this->linear_velocity_controller_ = ros_task::P_Controller(2.5, 0.6);
     this->angular_velocity_controller_ = ros_task::P_Controller(5.0, 0.5);
 
+    // initialize time storage
     this->prev_loop_time_ = this->now();
 }
 
 void RobotController::main_timer_callback() {
+    // calculate elapsed time since last loop
     rclcpp::Duration elapsed_time = this->now() - this->prev_loop_time_;
     this->prev_loop_time_ = this->now();
 

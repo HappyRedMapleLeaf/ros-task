@@ -5,12 +5,15 @@
 
 namespace ros_task {
 
+// Simple 2D pose structure
 struct Pose2D {
     double x;
     double y;
     double theta;
 };
 
+// Proportional controller with absolute limit
+// Can easily be extended to include integral or derivative terms if needed
 class P_Controller {
     public:
         P_Controller();

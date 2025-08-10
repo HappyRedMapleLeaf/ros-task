@@ -15,14 +15,19 @@ class RobotController : public rclcpp::Node {
         RobotController();
 
     private:
+        // main control loop
         void main_timer_callback();
+
+        // callbacks for subscription message reception
         void odom_rx_callback(const nav_msgs::msg::Odometry::SharedPtr msg);
         void target_rx_callback(const geometry_msgs::msg::Pose2D::SharedPtr msg);
 
+        // publishers and subscribers
         rclcpp::Publisher<geometry_msgs::msg::Twist>::SharedPtr     cmd_vel_publisher_;
         rclcpp::Subscription<nav_msgs::msg::Odometry>::SharedPtr    odom_subscription_;
         rclcpp::Subscription<geometry_msgs::msg::Pose2D>::SharedPtr target_subscription_;
 
+        // more accurate timing for control loop
         rclcpp::TimerBase::SharedPtr main_timer_;
         rclcpp::Time                 prev_loop_time_;
 
@@ -30,7 +35,7 @@ class RobotController : public rclcpp::Node {
         ros_task::Pose2D current_pose_;
         ros_task::Pose2D target_pose_;
 
-        // controllers. could have fancy controller class with multiple inputs but just one variable for now
+        // Controllers. Just one input/output per controller for now
         ros_task::P_Controller linear_velocity_controller_;
         ros_task::P_Controller angular_velocity_controller_;
 };
